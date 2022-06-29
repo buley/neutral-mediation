@@ -1,19 +1,28 @@
 import adapter from '@sveltejs/adapter-auto';
+
+// https://www.npmjs.com/package/@sveltejs/adapter-static/v/next
+import staticadapter from '@sveltejs/adapter-static';
+
+// https://github.com/sveltejs/svelte-preprocess
 import preprocess from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	// Consult https://github.com/sveltejs/svelte-preprocess
-	// for more information about preprocessors
+
 	preprocess: preprocess(),
 
 	kit: {
-		adapter: adapter(),
+		adapter: staticadapter({
+	      pages: 'build',
+	      assets: 'build',
+	      fallback: null,
+	      precompress: false
+	    }),
 
-		// Override http methods in the Todo forms
-		methodOverride: {
-			allowed: ['PATCH', 'DELETE']
-		}
+	    prerender: {
+	      default: true
+	    }
+
 	},
 	
 	experimental: {
