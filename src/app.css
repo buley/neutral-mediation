@@ -1,0 +1,151 @@
+@import '@fontsource/roboto';
+@import '@fontsource/open-sans';
+
+:root {
+	font-family: Roboto, 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+	--font-mono: 'Fira Mono', monospace;
+	--pure-white: #ffffff;
+	--primary-color: rgb(245, 237, 232);
+	--secondary-color: rgb(255, 255, 255);
+	--tertiary-color: rgb(245, 237, 232);
+	--accent-color: rgb(52, 58, 74);
+	--heading-color: rgba(0, 0, 0, 0.7);
+	--text-color: rgb(52, 58, 74);
+	--background-without-opacity: rgba(255, 255, 255, 0.7);
+	--column-width: 42rem;
+	--column-margin-top: 4rem;
+}
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	background-color: var(--primary-color);
+	background: linear-gradient(
+		180deg,
+		var(--primary-color) 0%,
+		var(--secondary-color) 10.45%,
+		var(--tertiary-color) 41.35%
+	);
+}
+
+body::before {
+	content: '';
+	width: 80vw;
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 10vw;
+	z-index: -1;
+	background: radial-gradient(
+		50% 50% at 50% 50%,
+		var(--pure-white) 0%,
+		rgba(255, 255, 255, 0) 100%
+	);
+	opacity: 0.05;
+}
+
+#svelte {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+h1,
+h2,
+p {
+	font-weight: 400;
+	color: var(--heading-color);
+}
+
+p {
+	line-height: 1.5;
+	fony-family:  'Roboto';
+	color: var(--text-color);
+}
+
+a {
+	color: var(--accent-color);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 2rem;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1rem;
+}
+
+pre {
+	font-size: 16px;
+	font-family: var(--font-mono);
+	background-color: rgba(255, 255, 255, 0.45);
+	border-radius: 3px;
+	box-shadow: 2px 2px 6px rgb(255 255 255 / 25%);
+	padding: 0.5em;
+	overflow-x: auto;
+	color: var(--text-color);
+}
+
+input,
+button {
+	font-size: inherit;
+	font-family: inherit;
+}
+
+button:focus:not(:focus-visible) {
+	outline: none;
+}
+
+h1 {
+	font-size: 2.4rem;
+	font-family:  Roboto, 'Open Sans', sans-serif;
+	font-weight:  700;
+}
+
+h2 {
+	font-size: 1.8rem;
+	font-family:  Roboto, 'Open Sans', sans-serif;
+	font-weight:  700;
+}
+
+h3 {
+	font-size: 1.4rem;
+	font-family:  Roboto, 'Open Sans', sans-serif;
+	font-weight:  700;
+}
+
+#menu-social li {
+  float: left;
+  list-style-type:  none;
+  margin-right: 10px;
+}
+
+#menu-social li span {
+  float: right;
+}
+
+#menu-social li svg {
+  float: left;
+  margin-top:  -5px;
+  margin-right:  5px;
+}
+
+footer ul li {
+  float: left;
+  list-style-type:  none;
+  margin-right: 10px;
+}
+
+
+
+@media (min-width: 720px) {
+	
+}
+
+
