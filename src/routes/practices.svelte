@@ -11,10 +11,14 @@
 </svelte:head>
 
 <div class="content">
-	<h3>Title</h3>
-	<p>
-		Body
-	</p>
+	<h2>Practices</h2>
+	<h3>Virtual Mediation</h3>
+	<h3>Dress Code</h3>
+	<h3>Formality</h3>
+	<h3>Eye Contact</h3>
+	<h3>Emotional Vulnerability</h3>
+	<h3>Good Faith</h3>
+
 </div>
 
 <style>

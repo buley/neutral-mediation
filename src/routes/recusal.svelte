@@ -6,14 +6,14 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Recusal</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h3>Title</h3>
+	<h3>Recusal</h3>
 	<p>
-		Body
+		
 	</p>
 </div>
 

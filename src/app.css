@@ -1,16 +1,18 @@
-@import '@fontsource/roboto';
 @import '@fontsource/open-sans';
+@import '@fontsource/pt-serif';
 
 :root {
-	font-family: Roboto, 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+	font-family: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+	--serif-font:  'PT Serif', 'Tahoma', serif;
+	--sans-serif-font:  'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
 	--font-mono: 'Fira Mono', monospace;
 	--pure-white: #ffffff;
-	--primary-color: rgb(245, 237, 232);
-	--secondary-color: rgb(255, 255, 255);
-	--tertiary-color: rgb(245, 237, 232);
-	--accent-color: rgb(52, 58, 74);
+	--primary-color: #e6dfda;
+	--secondary-color: #f2ebe6;
+	--tertiary-color: #f5eee8;
+	--accent-color: #343a4a;
 	--heading-color: rgba(0, 0, 0, 0.7);
-	--text-color: rgb(52, 58, 74);
+	--text-color: #343a4a;
 	--background-without-opacity: rgba(255, 255, 255, 0.7);
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
@@ -19,6 +21,7 @@
 body {
 	min-height: 100vh;
 	margin: 0;
+	font-family: var(--serif-font);
 	background-color: var(--primary-color);
 	background: linear-gradient(
 		180deg,
@@ -58,14 +61,16 @@ p {
 }
 
 p {
-	line-height: 1.5;
-	fony-family:  'Roboto';
+	line-height: 1.8rem;
+	font-family:  var(--serif-font);
 	color: var(--text-color);
 }
 
 a {
-	color: var(--accent-color);
+	color: #000000;
 	text-decoration: none;
+	padding-bottom: 3px;
+	border-bottom: 1px solid var(--accent-color);
 }
 
 a:hover {
@@ -102,28 +107,80 @@ button:focus:not(:focus-visible) {
 	outline: none;
 }
 
+nav a, .corner-logo, footer a {
+	color: var(--heading-color);
+	font-family: var(--sans-serif-font);
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+a.corner-logo, a:hover {
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+a.footer-icon:hover {
+	border-bottom:  0;
+	color: var(--heading-color);
+	text-decoration: none;
+}
+
 h1 {
 	font-size: 2.4rem;
-	font-family:  Roboto, 'Open Sans', sans-serif;
+	font-family: var(--sans-serif-font);
 	font-weight:  700;
 }
 
 h2 {
 	font-size: 1.8rem;
-	font-family:  Roboto, 'Open Sans', sans-serif;
+	font-family: var(--sans-serif-font);
 	font-weight:  700;
 }
 
 h3 {
 	font-size: 1.4rem;
-	font-family:  Roboto, 'Open Sans', sans-serif;
+	font-family: var(--sans-serif-font);
 	font-weight:  700;
+}
+
+h4 {
+	font-size: 1.2rem;
+	font-family: var(--sans-serif-font);
+	font-weight:  700;
+}
+
+h5 {
+	font-size: 1.1rem;
+	font-family: var(--sans-serif-font);
+	font-weight:  700;
+}
+
+blockquote.pullquote {
+  content: '';
+  font-size: 1rem;
+  font-family: 'PT Serif', serif;
+  color: #444;
+  vertical-align: middle;
+  border-right: 4px solid #444;
+  line-height: 1rem;
+  clear: both;
+  padding-top: 20px;
+  float: right;
+  min-height: 100%;
+  padding-right: 20px;
+  text-align: right;
+	font-family:  var(--serif-font);
+}
+figure figcaption.pullquote {
+  text-align: right;
+	font-family:  var(--sans-serif-font);
 }
 
 #menu-social li {
   float: left;
   list-style-type:  none;
   margin-right: 10px;
+  opacity: 40%;
 }
 
 #menu-social li span {
@@ -132,7 +189,6 @@ h3 {
 
 #menu-social li svg {
   float: left;
-  margin-top:  -5px;
   margin-right:  5px;
 }
 
@@ -142,10 +198,27 @@ footer ul li {
   margin-right: 10px;
 }
 
+.footer-icon img {
+  width: 64px;
+  height: 64px;
+  opacity: 60%;
+}
+.has-text-align-center {
+	text-align: center;
+}
 
+.corner-logo {
+	text-decoration: none;
+}
+
+::selection {
+  background: #343a4a;
+  color: #f5eee8;
+}
+
+/* Media Queries */
 
 @media (min-width: 720px) {
 	
 }
-
 

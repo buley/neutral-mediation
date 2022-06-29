@@ -20,6 +20,7 @@
 </svelte:head>
 
 <div class="content">
+	<h1>Mediation</h1>
 	<h3>What Is Mediation?</h3>
 	<p>
 		Mediation is the art of problem-solving: a structured dispute resolution process that creates a safe setting for adults to brainstorm creative and mutually workable solutions to the problems that keep them from otherwise moving forward in life. Using collaborative conflict, a mediator facilitates a mediation to help participants find peaceful resolutions, fast. Mediation is less formal than alternative methods of dispute resolution, such as arbitration and litigation, and usually takes one day or less to find an agreeable solution.
@@ -40,9 +41,12 @@
 	<p>
 		While good mediation is often not cheap, and cheap mediation is often not good, the amount participants can expect to save overwhelmingly surpasses the expected costs to be otherwise endured. Those involved in the legal process will spend not just time and money, but also emotions. The opportunity cost of not pursuing other endeavors, rather than investing time, energy and money into legal remediation, can also be considerable.
 	</p>
-	<quote>
-	    <em>“I was never ruined but twice, once when I lost a lawsuit and once when I won one.” — <strong>Voltaire</strong></em>
-	</quote>
+	<figure>
+	    <blockquote class="pullquote">
+	        <p>I was never ruined but twice, once when I lost a lawsuit and once when I won one.</p>
+	    </blockquote>
+	    <figcaption class="pullquote">Voltaire, <em>1694-1778</em></figcaption>
+	</figure>
 	<p>
 		One way mediation helps reduce the costs of conflict is that it helps participants reach closure faster in time-sensitive matters, saving emotionally and financially-expensive, time-consuming litigation. By putting the process in the hands of participants, it also reduces uncertainty by eliminating the risk of, for example, summary judgment on one hand, lengthy proceedings on the other, or that a good case could go unheard, or that a mutually beneficial resolution option go unexplored, everywhere in between.
 	</p>

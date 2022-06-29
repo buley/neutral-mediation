@@ -11,9 +11,9 @@
 </svelte:head>
 
 <div class="content">
-	<h3>Title</h3>
+	<h3>News</h3>
 	<p>
-		Body
+		<em>Check back soon for mediation news and stories from around the web!</em>
 	</p>
 </div>
 

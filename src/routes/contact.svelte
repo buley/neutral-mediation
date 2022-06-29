@@ -6,15 +6,21 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Contact</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h3>Title</h3>
-	<p>
-		Body
-	</p>
+	<h2>Contact</h2>
+			
+	<h3>Phone/Text Number</h3>
+	<p>(650) 353-7653</p>
+	<h3>Email Address</h3>
+	<p>info@neutrals.io</p>
+	<h3>Mailing Address</h3>
+	<p>PO Box 73444<br>
+	Davis, CA 95617-3444</p>
+
 </div>
 
 <style>
