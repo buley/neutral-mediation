@@ -15,7 +15,7 @@
 
 </script>
 
-<header>
+<header class="primary-navigation">
 	<div class="corner">
 		
 	</div>

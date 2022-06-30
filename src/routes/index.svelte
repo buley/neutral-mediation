@@ -2,6 +2,11 @@
 	export const prerender = true;
 </script>
 
+<script lang="ts">
+	import logo from '$lib/assets/neutral-logo-trans-crop.svg';
+	import splash from '$lib/assets/anonymous-couple-talking.webp';
+</script>
+
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Neutral Mediation" />
@@ -9,12 +14,16 @@
 
 <section>
 
+	<div class="homepage-icon">
+		<img src={logo} alt="Neutral Mediation"  width="300px" height="168px" />
+	</div>
+
 	<h1 class="tagline">The path forward starts here.</h1>
 
 	<span class="welcome">
 		<picture>
-			<source srcset="anonymous-couple-talking.webp" type="image/webp" />
-			<img src="anonymous-couple-talking.webp" alt="Welcome" />
+			<source srcset="{splash}" type="image/webp" />
+			<img src="{splash}" alt="Welcome" />
 		</picture>
 	</span>
 

@@ -7,7 +7,7 @@
 
 <Header />
 
-<main>
+<main class="body">
 	<slot />
 </main>
 
@@ -74,7 +74,7 @@
 		flex: 1;
 		display: flex;
 		flex-direction: column;
-		padding: 1rem;
+		padding: calc(1rem + 48px);
 		width: 100%;
 		max-width: 1024px;
 		margin: 0 auto;
