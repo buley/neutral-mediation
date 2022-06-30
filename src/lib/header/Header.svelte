@@ -2,6 +2,8 @@
 	import { page } from '$app/stores';
 	import logo from './ClearIcon64.png';
 	import home from './home.png';
+	import phone from '$lib/assets/phone.svg';
+	import email from '$lib/assets/mouse.svg';
 	import Hamburger from "hamburger-menu-svelte";
 
 	const menu_list = [
@@ -17,7 +19,6 @@
 
 <header class="primary-navigation">
 	<div class="corner">
-		
 	</div>
 
 	<nav class="menu-primary">
@@ -45,7 +46,35 @@
 			<li class:active={$page.url.pathname === '/ethics'}>
 				<a sveltekit:prefetch href="/ethics">Ethics</a>
 			</li>
+
+			<li class="menu-separator"></li>
+
+			<li class="phone-contact">
+				
+				<span class="phone-number-text">
+					<a href="tel:16503537653">
+						<span class="phone-contact-icon">
+							<img src={phone} height="16px" width="16px" class="phone-number-icon">
+						</span>
+						+1-650-353-7653
+					</a>
+				</span>
+			</li>
+
+			<!-- <li class="email-contact">
+				
+				<span class="email-text">
+					<a href="mailto:info@neutrals.io">
+						<span class="email-contact-icon">
+							<img src={email} height="24px" width="24px" class="email-icon">
+						</span>
+						info@neutrals.io
+					</a>
+				</span>
+			</li> -->
+
 		</ul>
+
 		<svg viewBox="0 0 2 3" aria-hidden="true">
 			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
 		</svg>
@@ -87,6 +116,7 @@
 		display: flex;
 		justify-content: center;
 		--background: rgba(255, 255, 255, 0.7);
+		color:  #343a4a;
 	}
 
 	svg {
@@ -152,6 +182,45 @@
 	}
 	.right-corner {
 			display: none;
+	}
+
+
+	.phone-contact, .email-contact {
+		white-space: nowrap;
+	}
+	.email-text {
+		vertical-align: middle;
+		float: left;
+		height: 100%;
+	}
+
+	.email-icon {
+		float: left;
+		vertical-align: middle;
+		height: 100%;
+	}
+
+	.phone-number-text {
+		vertical-align: middle;
+		float: left;
+		height: 100%;
+	}
+
+	.phone-number-icon {
+		vertical-align: middle;
+		float: left;
+		height: 100%;
+	}
+
+	.menu-separator {
+		height: 100%;
+		border-left: 1px solid #e6e6e6;
+		padding-left: 1rem;
+		margin-left: .5rem;
+	}
+
+	.phone-contact-icon, .email-contact-icon {
+		padding-right: 1rem;
 	}
 
 	@media (max-width: 767px) {
