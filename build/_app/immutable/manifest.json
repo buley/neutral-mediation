@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-c19aed6f.js",
+    "file": "start-3d50311b.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -33,7 +33,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-5294c3bf.js",
+    "file": "pages/__layout.svelte-ffa56d83.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -41,9 +41,10 @@
       "_index-5c824dc4.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-f64ed64c.css"
+      "assets/pages/__layout.svelte-f9fa8888.css"
     ],
     "assets": [
+      "assets/calendar-07d24ffd.svg",
       "assets/open-sans-cyrillic-ext-400-normal-df8fd002.woff2",
       "assets/open-sans-all-400-normal-82a8e0e7.woff",
       "assets/open-sans-cyrillic-400-normal-7f96afbe.woff2",
@@ -78,7 +79,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/availability.svelte": {
@@ -91,7 +92,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/cancellation.svelte": {
@@ -104,7 +105,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/coaching.svelte": {
@@ -117,7 +118,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/consulting.svelte": {
@@ -130,7 +131,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/contact.svelte": {
@@ -143,7 +144,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/cookies.svelte": {
@@ -156,7 +157,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/documents.svelte": {
@@ -169,7 +170,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/ethics.svelte": {
@@ -182,11 +183,11 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-fbc99895.js",
+    "file": "pages/index.svelte-076615c4.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -195,6 +196,10 @@
     ],
     "css": [
       "assets/pages/index.svelte-a094c2c8.css"
+    ],
+    "assets": [
+      "assets/neutral-logo-trans-crop-17c5dfeb.svg",
+      "assets/anonymous-couple-talking-f02a249f.webp"
     ]
   },
   "src/routes/mediation.svelte": {
@@ -207,7 +212,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/news.svelte": {
@@ -220,7 +225,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/practices.svelte": {
@@ -233,7 +238,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/press.svelte": {
@@ -246,7 +251,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/prices.svelte": {
@@ -259,7 +264,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/privacy.svelte": {
@@ -272,7 +277,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/recusal.svelte": {
@@ -285,7 +290,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/refunds.svelte": {
@@ -298,7 +303,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/resume.svelte": {
@@ -311,7 +316,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/template.svelte": {
@@ -324,7 +329,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "src/routes/terms.svelte": {
@@ -337,7 +342,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
+      "assets/pages/press.svelte-18c2d1cb.css"
     ]
   },
   "_index-5c824dc4.js": {

@@ -12,6 +12,9 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
+		files: {
+			assets: 'src/lib/assets'
+		},
 		adapter: staticadapter({
 	      pages: 'build',
 	      assets: 'build',
