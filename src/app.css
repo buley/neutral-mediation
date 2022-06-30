@@ -246,3 +246,7 @@ ul.menu-navigation li {
   max-height: 48px;
 }
 
+.tagline {
+	font-family: var(--serif-font);
+}
+

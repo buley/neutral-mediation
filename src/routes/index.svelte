@@ -9,7 +9,7 @@
 
 <section>
 
-	<h1>The path forward starts here.</h1>
+	<h1 class="tagline">The path forward starts here.</h1>
 
 	<span class="welcome">
 		<picture>
