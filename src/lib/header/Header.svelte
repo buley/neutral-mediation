@@ -27,7 +27,7 @@
 		<ul>
 			<li class:active={$page.url.pathname === '/'}>
 				<a sveltekit:prefetch href="/" id="home">
-					<img src={logo} alt="Home" />
+					<img src={logo} alt="Home" height="64px" width="64px" />
 				</a>
 			</li>
 			<li class:active={$page.url.pathname === '/mediation'}>
