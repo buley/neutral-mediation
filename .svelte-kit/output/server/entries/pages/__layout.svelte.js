@@ -229,7 +229,7 @@ const _layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 
 <main class="${"svelte-1izrdc8"}">${slots.default ? slots.default({}) : ``}</main>
 
-<footer class="${"svelte-1izrdc8"}"><a href="${"https://neutrals.io"}" class="${"footer-icon svelte-1izrdc8"}"><img${add_attribute("src", logo, 0)} alt="${"Neutral Mediation"}"></a>
+<footer class="${"svelte-1izrdc8"}"><a sveltekit:prefetch href="${"/"}" class="${"footer-icon svelte-1izrdc8"}"><img${add_attribute("src", logo, 0)} alt="${"Neutral Mediation"}"></a>
 
 	<ul class="${"menu-navigation"}"><li${add_classes(($page.url.pathname === "/about" ? "active" : "").trim())}><a sveltekit:prefetch href="${"/about"}" class="${"svelte-1izrdc8"}">About</a></li>
 	    <li${add_classes(($page.url.pathname === "/availability" ? "active" : "").trim())}><a sveltekit:prefetch href="${"/availability"}" class="${"svelte-1izrdc8"}">Availability</a></li>

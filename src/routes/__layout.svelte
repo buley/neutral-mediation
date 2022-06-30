@@ -13,7 +13,7 @@
 
 <footer>
 
-	<a href="https://neutrals.io" class="footer-icon">
+	<a sveltekit:prefetch href="/" class="footer-icon">
 		<img src={logo} alt="Neutral Mediation" />
 	</a>
 
