@@ -14,7 +14,7 @@
 <footer>
 
 	<a sveltekit:prefetch href="/" class="footer-icon">
-		<img src={logo} alt="Neutral Mediation" />
+		<img src={logo} alt="Neutral Mediation Home" height="64px" width="64px" />
 	</a>
 
 	<ul class="menu-navigation">
