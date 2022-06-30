@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-3d50311b.js",
+    "file": "start-37977476.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -79,7 +79,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/availability.svelte": {
@@ -92,7 +92,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/cancellation.svelte": {
@@ -105,7 +105,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/coaching.svelte": {
@@ -118,7 +118,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/consulting.svelte": {
@@ -131,7 +131,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/contact.svelte": {
@@ -144,7 +144,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/cookies.svelte": {
@@ -157,7 +157,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/documents.svelte": {
@@ -170,7 +170,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/ethics.svelte": {
@@ -183,7 +183,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/index.svelte": {
@@ -212,7 +212,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/news.svelte": {
@@ -225,7 +225,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/practices.svelte": {
@@ -238,7 +238,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/press.svelte": {
@@ -251,7 +251,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/prices.svelte": {
@@ -264,7 +264,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/privacy.svelte": {
@@ -277,7 +277,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/recusal.svelte": {
@@ -290,7 +290,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/refunds.svelte": {
@@ -303,7 +303,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/resume.svelte": {
@@ -316,7 +316,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/template.svelte": {
@@ -329,7 +329,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "src/routes/terms.svelte": {
@@ -342,7 +342,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/press.svelte-18c2d1cb.css"
+      "assets/pages/practices.svelte-5ec332f8.css"
     ]
   },
   "_index-5c824dc4.js": {
