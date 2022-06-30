@@ -2,6 +2,7 @@
 	import { page } from '$app/stores';
 	import logo from './ClearIcon64.png';
 	import home from './home.png';
+	import calendar from '$lib/assets/calendar.svg';
 	import phone from '$lib/assets/phone.svg';
 	import email from '$lib/assets/mouse.svg';
 	import Hamburger from "hamburger-menu-svelte";
@@ -49,8 +50,19 @@
 
 			<li class="menu-separator"></li>
 
-			<li class="phone-contact">
-				
+
+			<li class="book-contact">
+				<span class="book-text">
+					<a href="https://neutral.setmore.com">
+						<span class="book-contact-icon">
+							<img src={calendar} height="24px" width="24px" class="book-icon">
+						</span>
+						Book Now
+					</a>
+				</span>
+			</li>
+
+			<!-- <li class="phone-contact">
 				<span class="phone-number-text">
 					<a href="tel:16503537653">
 						<span class="phone-contact-icon">
@@ -59,10 +71,9 @@
 						+1-650-353-7653
 					</a>
 				</span>
-			</li>
+			</li> -->
 
 			<!-- <li class="email-contact">
-				
 				<span class="email-text">
 					<a href="mailto:info@neutrals.io">
 						<span class="email-contact-icon">
@@ -184,8 +195,7 @@
 			display: none;
 	}
 
-
-	.phone-contact, .email-contact {
+	.phone-contact, .email-contact, .book-contact {
 		white-space: nowrap;
 	}
 	.email-text {
@@ -212,6 +222,18 @@
 		height: 100%;
 	}
 
+	.book-number-text {
+		vertical-align: middle;
+		float: left;
+		height: 100%;
+	}
+
+	.book-number-icon {
+		vertical-align: middle;
+		float: left;
+		height: 100%;
+	}
+
 	.menu-separator {
 		height: 100%;
 		border-left: 1px solid #e6e6e6;
@@ -219,7 +241,7 @@
 		margin-left: .5rem;
 	}
 
-	.phone-contact-icon, .email-contact-icon {
+	.phone-contact-icon, .email-contact-icon, .book-contact-icon {
 		padding-right: 1rem;
 	}
 
