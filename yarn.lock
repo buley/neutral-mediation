@@ -110,6 +110,14 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@playwright/test@^1.23.0":
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/@playwright/test/-/test-1.23.0.tgz#5d07ace37e1598a4a1a785b07856620b4e26fc43"
+  integrity sha512-RPWI8AHBVBiDyfTuxi1BhOaY3yaVy3S5ZsGKkSGGeWpZtSgN4SerInCYvgh9+EunIAK4RJQo+bzupbAn5pVqHQ==
+  dependencies:
+    "@types/node" "*"
+    playwright-core "1.23.0"
+
 "@rollup/pluginutils@^4.2.1":
   version "4.2.1"
   resolved "https://registry.npmjs.org/@rollup/pluginutils/-/pluginutils-4.2.1.tgz"
@@ -1318,6 +1326,11 @@ picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.2, picomatch@^2.3.1:
   version "2.3.1"
   resolved "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
+
+playwright-core@1.23.0:
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.23.0.tgz#51e24121b3a5bbe759d79738d8eff7a63156293c"
+  integrity sha512-Zzhyr5RZGoJ1ek2sgfJCt2076kdOg8hnNwFBqAYeLySiutXyxSQk93vZ5gbnFiWV1sHvueCcwla9n35acUTxtA==
 
 postcss@^8.4.13:
   version "8.4.14"
