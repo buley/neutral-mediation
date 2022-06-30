@@ -1,4 +1,4 @@
-import { c as create_ssr_component } from "../../chunks/index-b1570763.js";
+import { c as create_ssr_component } from "../../chunks/index-645d40f0.js";
 import { d as dev, b as browser } from "../../chunks/env-08feb9ca.js";
 var ethics_svelte_svelte_type_style_lang = /* @__PURE__ */ (() => ".content.svelte-cf77e8{width:100%;max-width:var(--column-width);margin:var(--column-margin-top) auto 0 auto}")();
 const css = {
@@ -10,8 +10,10 @@ const router = browser;
 const prerender = true;
 const Ethics = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
-  return `${$$result.head += `${$$result.title = `<title>Template</title>`, ""}<meta name="${"description"}" content="${""}" data-svelte="svelte-1oj80vl">`, ""}
-<div class="${"content svelte-cf77e8"}"><div class="${"alignfull"}"><p>Mediators are not licensed, nor is there a professional organization to hold them accountable. Therefore, it is of utmost importance that a mediator and the participant work <em>themselves </em>to hold the mediator accountable. A good mediator is transparent about their ethical approach and knows they&#39;ll build trust if you hold <em>them </em>accountable, too. Neutral Mediation believes in distinguishing ethical standards that underscore neutrality, honesty, self-determination, privacy, grit and style. Ethics compliment <a href="${"https://neutrals.io/recusal/"}">causes for recusal </a>to form the professional boundaries of mediation.</p></div>
+  return `${$$result.head += `${$$result.title = `<title>Ethics</title>`, ""}<meta name="${"description"}" content="${""}" data-svelte="svelte-1nl819v">`, ""}
+<div class="${"content svelte-cf77e8"}"><h1>Ethics</h1>
+
+	<div class="${"alignfull"}"><p>Mediators are not licensed, nor is there a professional organization to hold them accountable. Therefore, it is of utmost importance that a mediator and the participant work <em>themselves </em>to hold the mediator accountable. A good mediator is transparent about their ethical approach and knows they&#39;ll build trust if you hold <em>them </em>accountable, too. Neutral Mediation believes in distinguishing ethical standards that underscore neutrality, honesty, self-determination, privacy, grit and style. Ethics compliment <a href="${"https://neutrals.io/recusal/"}">causes for recusal </a>to form the professional boundaries of mediation.</p></div>
 
 	<h3>Neutrality</h3>
 

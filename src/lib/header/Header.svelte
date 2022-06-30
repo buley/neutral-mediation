@@ -1,28 +1,46 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import logo from './ClearIcon.svg';
+	import logo from './ClearIcon64.png';
+	import home from './home.png';
+	import Hamburger from "hamburger-menu-svelte";
+
+	const menu_list = [
+		{ name: "Home", url: "/" },
+		{ name: "Mediation", url: "/mediation" },
+		{ name: "Consulting", url: "/consulting" },
+		{ name: "Prices", url: "/prices" },
+		{ name: "About", url: "/about" },
+		{ name: "Ethics", url: "/ethics" }
+	];
+
 </script>
 
 <header>
 	<div class="corner">
-		<a href="https://neutrals.io" class="corner-logo" id="logo">
-			<img src={logo} alt="Neutral Mediation" />
-		</a>
+		
 	</div>
 
-	<nav>
+	<nav class="menu-primary">
 		<svg viewBox="0 0 2 3" aria-hidden="true">
 			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
 		</svg>
 		<ul>
+			<li class:active={$page.url.pathname === '/'}>
+				<a sveltekit:prefetch href="/" id="home">
+					<img src={logo} alt="Home" />
+				</a>
+			</li>
 			<li class:active={$page.url.pathname === '/mediation'}>
 				<a sveltekit:prefetch href="/mediation">Mediation</a>
 			</li>
-			<li class:active={$page.url.pathname === '/prices'}>
-				<a sveltekit:prefetch href="/prices">Prices</a>
+			<li class:active={$page.url.pathname === '/consulting'}>
+				<a sveltekit:prefetch href="/consulting">Consulting</a>
 			</li>
 			<li class:active={$page.url.pathname === '/about'}>
 				<a sveltekit:prefetch href="/about">About</a>
+			</li>
+			<li class:active={$page.url.pathname === '/prices'}>
+				<a sveltekit:prefetch href="/prices">Prices</a>
 			</li>
 			<li class:active={$page.url.pathname === '/ethics'}>
 				<a sveltekit:prefetch href="/ethics">Ethics</a>
@@ -34,7 +52,9 @@
 	</nav>
 
 	<div class="corner">
-		<!-- TODO put something else here? github link? -->
+		<div class="right-corner">
+			<Hamburger {menu_list} openButtonColor="#343a4a" backgroundColor="#343a4a" pcNaviColor="#e6dfda"/>
+		</div>
 	</div>
 </header>
 
@@ -44,12 +64,12 @@
 		justify-content: space-between;
 	}
 
-	.corner {
+	.corner, .corner-menu {
 		width: 3em;
 		height: 3em;
 	}
 
-	.corner a {
+	.corner a, .corner-menu a {
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -57,7 +77,7 @@
 		height: 100%;
 	}
 
-	.corner img {
+	.corner img, .corner-menu img {
 		width: 2em;
 		height: 2em;
 		object-fit: contain;
@@ -126,4 +146,24 @@
 	a:hover {
 		color: var(--accent-color);
 	}
+
+	ul.menu-secondary {
+		display: block;
+	}
+	.right-corner {
+			display: none;
+	}
+
+	@media (max-width: 767px) {
+
+		.menu-primary {
+			display: none;
+		}
+
+		.right-corner {
+			display: inline;
+		}
+
+	}
+
 </style>

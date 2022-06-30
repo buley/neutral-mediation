@@ -5,10 +5,12 @@
 	export const prerender = true;
 </script>
 <svelte:head>
-	<title>Template</title>
+	<title>Ethics</title>
 	<meta name="description" content="" />
 </svelte:head>
 <div class="content">
+
+	<h1>Ethics</h1>
 
 	<div class="alignfull">
 		<p>Mediators are not licensed, nor is there a professional organization to hold them accountable. Therefore, it is of utmost importance that a mediator and the participant work <em>themselves </em>to hold the mediator accountable. A good mediator is transparent about their ethical approach and knows they'll build trust if you hold <em>them </em>accountable, too. Neutral Mediation believes in distinguishing ethical standards that underscore neutrality, honesty, self-determination, privacy, grit and style. Ethics compliment <a href="https://neutrals.io/recusal/">causes for recusal </a>to form the professional boundaries of mediation.</p>

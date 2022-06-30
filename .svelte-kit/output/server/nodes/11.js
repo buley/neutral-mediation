@@ -1,7 +1,7 @@
-import * as module from '../entries/pages/news.svelte.js';
+import * as module from '../entries/pages/index.svelte.js';
 
 export { module };
 export const index = 11;
-export const entry = 'pages/news.svelte-40a9c7b6.js';
-export const js = ["pages/news.svelte-40a9c7b6.js","chunks/index-f1bb3661.js","chunks/env-5493c761.js"];
-export const css = ["assets/pages/mediation.svelte-1b45c9dd.css"];
+export const entry = 'pages/index.svelte-fbc99895.js';
+export const js = ["pages/index.svelte-fbc99895.js","chunks/index-5c824dc4.js"];
+export const css = ["assets/pages/index.svelte-a094c2c8.css"];
