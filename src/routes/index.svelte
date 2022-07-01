@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
 	export const prerender = true;
-	import calendar from '$lib/assets/calendar.svg';
+	import calendar from '$lib/assets/calendar-white.svg';
 </script>
 
 <script lang="ts">
@@ -26,7 +26,7 @@
 			<span class="welcome-book-contact-icon">
 				<img src={calendar} height="24px" width="24px" class="welcome-book-icon">
 			</span>
-			Book Now
+			BOOK NOW
 		</a>
 	</button>
 
@@ -91,12 +91,14 @@
 		vertical-align: middle;
 		font-weight: 900;
 	    font-family: var(--sans-serif-font);
-
+	    background: #6d6d6d;
 	}
 	.welcome-book-text a, .welcome-book-text a:hover { 
 		border: none;
 		text-decoration: none;
 	    font-size: 1.5rem;
+	    color: var(--primary-color);
+	    font-size: 2em;
 	}
 
 	.welcome-book-contact-icon {
