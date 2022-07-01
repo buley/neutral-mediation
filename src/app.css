@@ -15,7 +15,7 @@
 	--text-color: #343a4a;
 	--background-without-opacity: rgba(255, 255, 255, 0.7);
 	--column-width: 42rem;
-	--column-margin-top: 1rem;
+	--column-margin-top: 2rem;
 }
 
 body {
@@ -223,18 +223,6 @@ footer ul li {
   color: #f5eee8;
 }
 
-ul.menu-navigation {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap; 
-	max-width: 480px;
-  align-items: center;
-  justify-content: center;
-}
-
-ul.menu-navigation li {
-
-}
 
 .nav-text {
 	font-family: var(--sans-serif-font) !important;
@@ -265,5 +253,12 @@ ul.menu-navigation li {
 		position: relative;
 		right: 50%;
 		width: 100vw;
+	}
+
+
+	@media (min-width: 767px) {
+		.content {
+			margin: 60px auto 0 auto;
+		}
 	}
 
