@@ -40,13 +40,6 @@
 
 </section>
 
-<span class="welcome-mobile">
-	<picture>
-		<source srcset="{splash}" type="image/webp" />
-		<img src="{splash}" alt="Welcome" />
-	</picture>
-</span>
-
 <style>
 	section {
 		display: flex;
@@ -108,16 +101,6 @@
 
 	.welcome-book-contact-icon {
 		text-align: vertical;
-	}
-
-	@media (max-width: 767px) {
-
-		.welcome-mobile {
-			display: inline;
-		}
-		.welcome {
-			display: none;
-		}
 	}
 
 </style>
