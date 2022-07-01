@@ -52,7 +52,7 @@
 			<a sveltekit:prefetch href="/refunds">Refunds</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/terms'}>
-			<a sveltekit:prefetch href="/terms">Terms and Conditions</a>
+			<a sveltekit:prefetch href="/terms">Terms of Service</a>
 		</li>
 	</ul>
 
@@ -74,7 +74,7 @@
 		flex: 1;
 		display: flex;
 		flex-direction: column;
-		padding: calc(1rem + 48px);
+		padding: 20px;
 		width: 100%;
 		max-width: 1024px;
 		margin: 0 auto;
@@ -86,11 +86,20 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 40px;
+		padding: 0 20px 20px 20px;
 	}
 
 	footer a {
 		font-weight: bold;
+	}
+
+	ul.menu-navigation {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap; 
+		max-width: 480px;
+		align-items: center;
+		justify-content: center;
 	}
 
 	@media (min-width: 480px) {
@@ -98,4 +107,5 @@
 			padding: 40px 0;
 		}
 	}
+
 </style>
