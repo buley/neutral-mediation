@@ -86,7 +86,7 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 0 20px 20px 20px;
+		padding: 0 20px 0 20px;
 	}
 
 	footer a {
