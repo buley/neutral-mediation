@@ -103,4 +103,10 @@
 		text-align: vertical;
 	}
 
+	@media (min-width: 767px) {
+		.homepage-icon {
+			padding-top: 55px;
+		}
+	}
+
 </style>
