@@ -54,6 +54,9 @@
 	    <li class:active={$page.url.pathname === '/refunds'}>
 			<a sveltekit:prefetch href="/refunds">Refunds</a>
 		</li>
+	    <li class:active={$page.url.pathname === '/coaching'}>
+			<a sveltekit:prefetch href="/coaching">Coaching</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/terms'}>
 			<a sveltekit:prefetch href="/terms">Terms of Service</a>
 		</li>

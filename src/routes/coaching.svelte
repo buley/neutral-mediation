@@ -6,12 +6,16 @@
 </script>
 
 <svelte:head>
-	<title>Conflict Coaching</title>
-	<meta name="description" content="About Neutral Mediation conflict coaching services." />
+	<title>Session Structure</title>
+	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Conflict Consulting</h1>
+	<h2>Coaching</h2>
+	<h3>Mindfulness</h3>
+	<h3>Check-in</h3>
+	<h3>Plan</h3>
+	<h3>Action Steps</h3>
 </div>
 
 <style>

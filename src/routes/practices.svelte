@@ -12,8 +12,9 @@
 
 <div class="content">
 	<h2>Practices</h2>
-	<h3>Boundaries</h3>
 	<h3>Virtual</h3>
+	<h3>Boundaries</h3>
+	<h3>State of Mind</h3>
 	<h3>Formality</h3>
 	<h3>Dress Code</h3>
 	<h3>Timeliness</h3>
