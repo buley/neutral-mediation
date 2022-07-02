@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
 	export const prerender = true;
-	import calendar from '$lib/assets/calendar-white.svg';
+	import calendar from '$lib/assets/calendar-accent.svg';
 </script>
 
 <script lang="ts">
@@ -89,16 +89,17 @@
 		margin: 0 auto 40px auto;
 		padding: 5px 10px 5px 10px;
 		vertical-align: middle;
-		font-weight: 900;
 	    font-family: var(--sans-serif-font);
-	    background: #6d6d6d;
+		background-image: linear-gradient(to right, var(--primary-color), var(--secondary-color), var(--tertiary-color));
+		border: 1px solid;
 	}
 	.welcome-book-text a, .welcome-book-text a:hover { 
 		border: none;
 		text-decoration: none;
 	    font-size: 1.5rem;
-	    color: var(--primary-color);
+	    color: var(--accent-color);
 	    font-size: 2em;
+	    padding: 0 10px;
 	}
 
 	.welcome-book-contact-icon {
