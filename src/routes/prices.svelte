@@ -6,11 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Prices</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
+
 	<h1>Prices</h1>
 
 	<h3>Booking Options</h3>

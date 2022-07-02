@@ -32,22 +32,18 @@
 					<img src={logo} alt="Neutral Mediation Home" height="64px" width="64px" />
 				</a>
 			</li>
+			<li class:active={$page.url.pathname === '/about'}>
+				<a sveltekit:prefetch href="/about">About</a>
+			</li>
 			<li class:active={$page.url.pathname === '/mediation'}>
 				<a sveltekit:prefetch href="/mediation">Mediation</a>
 			</li>
 			<li class:active={$page.url.pathname === '/consulting'}>
 				<a sveltekit:prefetch href="/consulting">Consulting</a>
 			</li>
-			<li class:active={$page.url.pathname === '/about'}>
-				<a sveltekit:prefetch href="/about">About</a>
-			</li>
 			<li class:active={$page.url.pathname === '/prices'}>
 				<a sveltekit:prefetch href="/prices">Prices</a>
 			</li>
-			<li class:active={$page.url.pathname === '/ethics'}>
-				<a sveltekit:prefetch href="/ethics">Ethics</a>
-			</li>
-
 			<li class="menu-separator"></li>
 
 
