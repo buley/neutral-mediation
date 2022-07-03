@@ -10,10 +10,11 @@
 	const menu_list = [
 		{ name: "Home", url: "/" },
 		{ name: "Mediation", url: "/mediation" },
+		{ name: "Negotation", url: "/negotiation" },
+		{ name: "Training", url: "/training" },
 		{ name: "Consulting", url: "/consulting" },
-		{ name: "Prices", url: "/prices" },
-		{ name: "About", url: "/about" },
-		{ name: "Ethics", url: "/ethics" }
+		{ name: "Coaching", url: "/coaching" },
+		{ name: "Book Now", url: "https://neutral.setmore.com/" }
 	];
 
 </script>
@@ -32,17 +33,20 @@
 					<img src={logo} alt="Neutral Mediation Home" height="64px" width="64px" />
 				</a>
 			</li>
-			<li class:active={$page.url.pathname === '/about'}>
-				<a sveltekit:prefetch href="/about">About</a>
-			</li>
 			<li class:active={$page.url.pathname === '/mediation'}>
 				<a sveltekit:prefetch href="/mediation">Mediation</a>
+			</li>
+			<li class:active={$page.url.pathname === '/negotiation'}>
+				<a sveltekit:prefetch href="/negotiation">Negotiation</a>
+			</li>
+			<li class:active={$page.url.pathname === '/training'}>
+				<a sveltekit:prefetch href="/training">Training</a>
 			</li>
 			<li class:active={$page.url.pathname === '/consulting'}>
 				<a sveltekit:prefetch href="/consulting">Consulting</a>
 			</li>
-			<li class:active={$page.url.pathname === '/prices'}>
-				<a sveltekit:prefetch href="/prices">Prices</a>
+			<li class:active={$page.url.pathname === '/coaching'}>
+				<a sveltekit:prefetch href="/coaching">Coaching</a>
 			</li>
 			<li class="menu-separator"></li>
 
@@ -58,28 +62,7 @@
 				</span>
 			</li>
 
-			<!-- <li class="phone-contact">
-				<span class="phone-number-text">
-					<a href="tel:16503537653">
-						<span class="phone-contact-icon">
-							<img src={phone} height="16px" width="16px" class="phone-number-icon">
-						</span>
-						+1-650-353-7653
-					</a>
-				</span>
-			</li> -->
-
-			<!-- <li class="email-contact">
-				<span class="email-text">
-					<a href="mailto:info@neutrals.io">
-						<span class="email-contact-icon">
-							<img src={email} height="24px" width="24px" class="email-icon">
-						</span>
-						info@neutrals.io
-					</a>
-				</span>
-			</li> -->
-
+			
 		</ul>
 
 		<svg viewBox="0 0 2 3" aria-hidden="true">

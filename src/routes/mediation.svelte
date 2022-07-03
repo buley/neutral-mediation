@@ -23,7 +23,7 @@
 	<h1>Mediation</h1>
 	<h2>Our Practice</h2>
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual mediation sessions with a trained professional neutral. Prices start at $175/hour and increase per participant. 
+		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Mediation sessions start at $175 per hour per participant.</em> For mediation consulting, see our <a href="/consulting">consulting page</a>.
 	</p>
 	<h2>Our Value</h2>
 	<p>
@@ -112,11 +112,11 @@
 	    Read about the mediation process and learn what to expect.
 	</p>
 
-	<h3>Pillars of mediation</h3>
+	<h3>Pillars of Mediation</h3>
 
 	<p>The pillars of mediation are that it's voluntary, neutral and confidential.</p>
 
-	<h4>Self-determination</h4>
+	<h4>Self-Determination</h4>
 
 	<p>Too often, convening the participants is the hardest phase of the mediation process. Not only is there paperwork necessary for a mediator to prepare, and legal documentation to sign helping to shore up its legal legitimacy, but it also takes courage by the parties on top of procedural determination to choose to mediate.</p>
 

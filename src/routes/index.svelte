@@ -1,9 +1,8 @@
 <script context="module" lang="ts">
 	export const prerender = true;
+	import email from '$lib/assets/email.png';
 	import calendar from '$lib/assets/calendar-accent.svg';
-</script>
-
-<script lang="ts">
+	import phone from '$lib/assets/phone.svg';
 	import logo from '$lib/assets/neutral-logo-trans-crop.svg';
 	import splash from '$lib/assets/anonymous-couple-talking.webp';
 </script>

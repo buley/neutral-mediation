@@ -22,14 +22,20 @@
 <div class="content">
 	
 	<h1>About</h1>
-	
-	<h3>Mediator Bio</h3>
 
-	<p>Taylor Buley leads Neutral Mediation and has been training peers in mediation since 1998. He founded his commercial alternative dispute resolution practice in 2021 to help people solve difficult, complicated and emotional problems using negotiation and mediation consultation, training, and sessions. He is passionate about proselytizing the power of peacemaking and welcomes in a group or private setting speaking opportunities to discuss decision making, conflict resolution and negotiation.</p>
+	<h2>Our Practice</h2>
+
+	<p>Taylor Buley founded Neutral Mediation in 2021 to serve as a third-party neutral and foster individual peace by offering mediation, negotiation, consulting and training services to solve complex or emotionally-traumatic conflicts.</p>
+
+	<h3>Neutral Bio</h3>
+
+	<p>Taylor Buley has been training peers in mediation since 1998. He founded his commercial alternative dispute resolution practice in 2021 to help people solve difficult, complicated and emotional problems using negotiation and mediation consultation, training, and sessions. He is passionate about proselytizing the power of peacemaking and welcomes in a group or private setting speaking opportunities to discuss decision making, conflict resolution and negotiation.</p>
 
 	<p>Read about Taylor’s professional background as a journalist and software developer and current work as a technology and communications executive at a mid-sized, multimillion-dollar local media company. Taylor has a degree in Philosophy, Politics & Economics from the University of Pennsylvania, with a concentration on human choice and behavior. He has a master’s degree in Communications from Stanford University and is currently a study at Pepperdine University’s Caruso School of Law pursuing a master’s degree in Dispute Resolution.</p>
 
 	<p>Taylor explains Neutral Mediation’s practice and style in the mission and culture statements below. He also wants you to know about Neutral Mediation’s approach to ethics, confidentiality and information security. He outlines his mediation process in detail.</p>
+
+	<h2>Our Values</h2>
 
 	<h3>Mission Statement</h3>
 
