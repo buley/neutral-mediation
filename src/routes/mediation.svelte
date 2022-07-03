@@ -21,11 +21,32 @@
 
 <div class="content">
 	<h1>Mediation</h1>
-	<h2>Our Mediation Practice</h2>
+	<h2>Our Practice</h2>
 	<p>
 		Neutral Mediation offers flexibly-scheduled virtual mediation sessions with a trained professional neutral. Prices start at $175/hour and increase per participant. 
 	</p>
+	<h2>Our Value</h2>
 	<p>
+		Neutral Mediation helps customers move forward beyond emotional or complex conflict through confidential mediation sessions hosted virtually.
+
+		Overcome indecision and end the trauma of conflict in as little as one session. Feel relieved that you trusted a professionally-trained firm to create a safe environment to hear and be heard. 
+
+		What does that return look like?
+		What pain will be relieved?
+		What weight will be lifted?
+		What limitations will be removed?
+		What meaning or purpose or empowerment will they experience?
+		What emotion will they experience?
+		Life coaching costs of omission
+		What does it cost them NOT to do business with you?
+		What does it cost them NOT to get rid of their pain or solve their problem or make progress?
+		What literal expenses will they incur?
+		What emotional weight will they have to continue to bear?
+		What will continue to hold them back?
+		How much longer will it take?
+		True value statements in marketing
+		How much would you save in (time, money, or frustration) if you understood or experienced (fill in the blank with the results your program provides).
+		Imagine you had (fill in the blank with the solutions you offer) and it helped you (fill in the blank with the results they’ll experience). What would that be worth?
 
 	</p>
 	<h3>What Is Mediation?</h3>
