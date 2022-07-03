@@ -55,7 +55,7 @@
 
 	<div class="wp-block-columns alignwide">
 	<div class="wp-block-column">
-	<p><strong>Mediation Consultation<br></strong><em><em>A brief, typically one-hour, session of mediation or conflict coaching.</em> </em><br>$175/hour</p>
+	<p><strong>Mediation Consultation<br></strong><em><em>A brief, typically one- to four-hour virtual session of mediation or conflict coaching.</em> </em><br>$175/hour</p>
 	</div>
 
 	<div class="wp-block-column">

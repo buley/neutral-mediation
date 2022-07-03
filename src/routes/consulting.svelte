@@ -28,7 +28,7 @@
 
 	<h3>Mediation Training</h3>
 
-	<p>Neutral-led mediation virtual training session for one, four or eight hours. Training can be course-guided education or specifically-focused training around a specific negotiation.</p>
+	<p>Neutral-led virtual mediation training session for one, four or eight hours. Training can be course-guided education or specifically-focused training around a specific negotiation.</p>
 
 	<h2>Negotiation</h2>
 
