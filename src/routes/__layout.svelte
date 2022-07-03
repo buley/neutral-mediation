@@ -2,7 +2,7 @@
 	import Header from '$lib/header/Header.svelte';
 	import { page } from '$app/stores';
 	import logo from '$lib/header/ClearIcon.png';
-	import email from '$lib/assets/email.svg';
+	import email from '$lib/assets/email-icon.svg';
 	import phone from '$lib/assets/phone.svg';
 	import calendar from '$lib/assets/calendar-accent.svg';
 	import '../app.css';
@@ -35,6 +35,9 @@
 		</li>
 	    <li class:active={$page.url.pathname === '/cookies'}>
 			<a sveltekit:prefetch href="/cookies">Cookies</a>
+		</li>
+	    <li class:active={$page.url.pathname === '/disclaimers'}>
+			<a sveltekit:prefetch href="/disclaimers">Disclaimers</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/documents'}>
 			<a sveltekit:prefetch href="/documents">Documents</a>
