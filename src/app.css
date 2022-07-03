@@ -65,6 +65,12 @@ p {
 	color: var(--text-color);
 }
 
+ul li {
+	line-height: 1.8rem;
+	font-family:  var(--serif-font);
+	color: var(--text-color);
+}
+
 a {
 	color: var(--accent-color);
 	text-decoration: none;
@@ -234,16 +240,15 @@ footer ul li {
   max-height: 48px;
 }
 
-.tagline {
-	font-family: var(--serif-font);
-	padding:  1rem 0 2rem 0;
-	margin:  0;
-}
 .primary-navigation {
     position: fixed;
     z-index: 2;
     width: 100%;
 }
+.numbered-list {
+	list-style-type: decimal;
+}
+
 
 .full-width {
 		left: 50%;

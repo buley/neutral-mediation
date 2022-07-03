@@ -20,6 +20,10 @@
 
 	<h1 class="tagline">The path forward starts here.</h1>
 
+	<p class="tagline-description">
+		Neutral Mediation offers <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> services to minimize the <a href="/emotions">emotional trauma</a>, time and expense associated with pervasive conflict.
+	</p>
+
 	<button class="welcome-book-text">
 		<a href="https://neutral.setmore.com" class="welcome-book-button">
 			<span class="welcome-book-contact-icon">
@@ -141,6 +145,18 @@
 	  border-color: #008296;
 	  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
 	  outline: 0;
+	}
+
+	.tagline {
+		font-family: var(--serif-font);
+		padding: 1rem 0 1rem 0;
+		margin:  0;
+	}
+
+	.tagline-description {
+		text-align: center;
+		max-width: 600px;
+		padding-bottom: 1rem;
 	}
 
 </style>

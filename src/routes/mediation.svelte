@@ -21,34 +21,25 @@
 
 <div class="content">
 	<h1>Mediation</h1>
+
 	<h2>Our Practice</h2>
+
 	<p>
 		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Mediation sessions start at $175 per hour per participant.</em> For mediation consulting, see our <a href="/consulting">consulting page</a>.
 	</p>
+
 	<h2>Our Value</h2>
+
 	<p>
 		Neutral Mediation helps customers move forward beyond emotional or complex conflict through confidential mediation sessions hosted virtually.
-
-		Overcome indecision and end the trauma of conflict in as little as one session. Feel relieved that you trusted a professionally-trained firm to create a safe environment to hear and be heard. 
-
-		What does that return look like?
-		What pain will be relieved?
-		What weight will be lifted?
-		What limitations will be removed?
-		What meaning or purpose or empowerment will they experience?
-		What emotion will they experience?
-		Life coaching costs of omission
-		What does it cost them NOT to do business with you?
-		What does it cost them NOT to get rid of their pain or solve their problem or make progress?
-		What literal expenses will they incur?
-		What emotional weight will they have to continue to bear?
-		What will continue to hold them back?
-		How much longer will it take?
-		True value statements in marketing
-		How much would you save in (time, money, or frustration) if you understood or experienced (fill in the blank with the results your program provides).
-		Imagine you had (fill in the blank with the solutions you offer) and it helped you (fill in the blank with the results they’ll experience). What would that be worth?
-
 	</p>
+
+	<p>
+		Overcome indecision and end the trauma of conflict in as little as one session. Feel relieved and trust a professionally-trained neutral to create a safe environment to hear and be heard.
+	<p>
+
+	<h2>Our Services</h2>
+
 	<h3>What Is Mediation?</h3>
 	<p>
 		Mediation is the art of problem-solving: a structured dispute resolution process that creates a safe setting for adults to brainstorm creative and mutually workable solutions to the problems that keep them from otherwise moving forward in life. Using collaborative conflict, a mediator facilitates a mediation to help participants find peaceful resolutions, fast. Mediation is less formal than alternative methods of dispute resolution, such as arbitration and litigation, and usually takes one day or less to find an agreeable solution.

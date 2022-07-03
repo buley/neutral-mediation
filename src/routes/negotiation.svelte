@@ -17,48 +17,85 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Mediation sessions cost $175 per hour per participant.</em> For mediation consulting, see our <a href="/consulting">consulting page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Negotiating sessions start at $175 per hour per participant.</em> For negotiation consulting, see our <a href="/consulting">consulting page</a>. For negotiation training, see our <a href="/training">training page</a>.
 	</p>
 	
 	<h2>Our Value</h2>
 	
 	<p>
+		Neutrals facilitiate negotiations, either collaboratively with both parties present or through shuttle diplomacy, in order to minimize the trauma, time and expense of bargaining.
 	</p>
 	
-	<h2>Negotiation Services</h2>
+	<h2>Our Services</h2>
+
+	<h3>Negotiation Sessions</h3>
+
+	<p>
+		Neutral-led virtual negotiation session for one, four or eight hours, optionally on-site at an organization. Consulting engagements are typically in regard to analyzing or planning for a specific negotiation or similar set of negotiations. <em>Negotiation consulting costs $175 per hour per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/5eb4c115-1efc-478d-b908-69875ef1303d">Click here to book a negotiation consulting session</a>.
+	</p>
+
+	<h3>Negotiation Consulting</h3>
+	
+	<p>
+		Neutral-led virtual negotiation consulting session for one, four or eight hours, optionally on-site at an organization. Consulting engagements are typically in regard to analyzing or planning for a specific negotiation or similar set of negotiations. <em>Negotiation consulting costs $175 per hour per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/5eb4c115-1efc-478d-b908-69875ef1303d">Click here to book a negotiation consulting session</a>. See our <a href="/training">consulting page</a> for more information.
+	</p>
+
+	<h3>
+		Negotiation Training
+	</h3>
+
+	<p>
+		Neutral-led negotiation virtual training session for one, four or eight hours. Training can be course-guided education or specifically-focused training around a specific negotiation. <em>Eight-hour negotiation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/076b423b-4479-480d-8af1-09e3c7cfcdad">Click here to book a negotiation training session</a>. See our <a href="/training">training page</a> for more information.
+	</p>
+
+	<h2>More Information</h2>
 
 	<h3>What Is Negotiation?</h3>
 	
-	<p>Negotiation is the most informal of dispute resolution practices, offering fewer established processes, rules and constraints as compared to <a href="/mediation">mediation</a>, arbitration and <a href="/disclaimers">litigation</a>.</p>
+	<p>
+		Negotiation is the most informal of dispute resolution practices, offering fewer established processes, rules and constraints as compared to <a href="/mediation">mediation</a>, arbitration and <a href="/disclaimers">litigation</a>.
+	</p>
 	
 	<h3>Benefits of Negotiation</h3>
 	
-	<p>Negotiation allows for quick and inexpensive dispute resolution. It allows room for creativity and lets participants determine their own settlements. The process provides maximum agency and creates the opportunity for mutual gain, even if also mutual distruction.</p>
+	<p>
+		Negotiation allows for quick and inexpensive dispute resolution. It allows maximium room for creative solutions and empowers participants to determine their own settlements. The process provides maximum agency and interest-based bargaining creates the opportunity for win-win mutual gain, even if at the risk of lose-lose mutual loss.
+	</p>
 	
 	<h3>Example Negotiation Consultation Scenarios</h3>
 	
-	<p>Here are various real-world examples where negotiation consulting can provide value:</p>
+	<p>
+		Here are various real-world examples where negotiation consulting can provide value:
+	</p>
 	
 	<ul>
 		<li>Mindfulness training and practice.</li>
 		<li>Cognitive distortion and bias training.</li>
 		<li>Interest-based transformational change.</li>
-		<li>Emotion and deescalation training.</li>
+		<li>Emotional recognition and deescalation training.</li>
 		<li>Tone and body language training.</li>
 		<li>Role play and rehersal.</li>
 	</ul>
 	
 	<h3>Pillars of Negotiation</h3>
 	
-	<p>The pillars of mediation are that it's voluntary and neutral.</p>
+	<p>
+		The pillars of mediation are that it's voluntary and neutral.
+	</p>
 
 	<h4>Self-Determination</h4>
 
-	<p>Too often, convening the participants is the hardest phase of the mediation process. Not only is there paperwork necessary for a mediator to prepare, and legal documentation to sign helping to shore up its legal legitimacy, but it also takes courage by the parties on top of procedural determination to choose to mediate.</p>
+	<p>
+		Too often, convening the participants is the hardest phase of the mediation process. Not only is there paperwork necessary for a mediator to prepare, and legal documentation to sign helping to shore up its legal legitimacy, but it also takes courage by the parties on top of procedural determination to choose to mediate.
+	</p>
 
-	<p>That mutual self-determination -- each party choosing on their own terms to begin the end of a conflict by seeking a mediator's help -- is critical to the rampant success of mediation as a participant-controlled alternative to the courtroom. American participants report that -- simply by using age-old mediative techniques to communicate and negotiate plainly -- they are, overall, happier with outcomes compared to similar results obtained through the emotionally, financially and time-consuming modern legal system.</p>
+	<p>
+		That mutual self-determination -- each party choosing on their own terms to begin the end of a conflict by seeking a mediator's help -- is critical to the rampant success of mediation as a participant-controlled alternative to the courtroom. American participants report that -- simply by using age-old mediative techniques to communicate and negotiate plainly -- they are, overall, happier with outcomes compared to similar results obtained through the emotionally, financially and time-consuming modern legal system.
+	</p>
 
-	<p><a href="https://neutrals.io/ethics">Read about how ethics shape our approach to negotiation.</a></p>
+	<p>
+		<a href="https://neutrals.io/ethics">Read about how ethics shape our approach to negotiation.</a>
+	</p>
 
 	<h4>Neutrality</h4>
 
