@@ -21,7 +21,7 @@
 	<h1 class="tagline">The path forward starts here.</h1>
 
 	<p class="tagline-description">
-		Neutral Mediation offers <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> services to minimize the <a href="/emotions">emotional trauma</a>, time and expense associated with pervasive conflict.
+		Neutral Mediation offers <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> services to minimize the emotional trauma, time and expense associated with pervasive conflict.
 	</p>
 
 	<button class="welcome-book-text">

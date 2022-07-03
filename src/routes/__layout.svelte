@@ -27,8 +27,14 @@
 	    <li class:active={$page.url.pathname === '/availability'}>
 			<a sveltekit:prefetch href="/availability">Availability</a>
 		</li>
+	    <li class:active={$page.url.pathname === '/practices'}>
+			<a sveltekit:prefetch href="/practices">Best Practices</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/cancellation'}>
 			<a sveltekit:prefetch href="/cancellation">Cancellation</a>
+		</li>
+	    <li class:active={$page.url.pathname === '/confidentiality'}>
+			<a sveltekit:prefetch href="/confidentiality">Confidentiality</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/contact'}>
 			<a sveltekit:prefetch href="/contact">Contact</a>
@@ -54,9 +60,6 @@
 	    <li class:active={$page.url.pathname === '/news'}>
 			<a sveltekit:prefetch href="/news">News</a>
 		</li>
-	    <li class:active={$page.url.pathname === '/practices'}>
-			<a sveltekit:prefetch href="/practices">Practice</a>
-		</li>
 	    <li class:active={$page.url.pathname === '/press'}>
 			<a sveltekit:prefetch href="/press">Press</a>
 		</li>
@@ -66,11 +69,14 @@
 	    <li class:active={$page.url.pathname === '/privacy'}>
 			<a sveltekit:prefetch href="/privacy">Privacy</a>
 		</li>
+	    <li class:active={$page.url.pathname === '/provisions'}>
+			<a sveltekit:prefetch href="/provisions">Provisions</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/refunds'}>
 			<a sveltekit:prefetch href="/refunds">Refunds</a>
 		</li>
-	    <li class:active={$page.url.pathname === '/coaching'}>
-			<a sveltekit:prefetch href="/coaching">Coaching</a>
+		<li class:active={$page.url.pathname === '/security'}>
+			<a sveltekit:prefetch href="/security">Security</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/terms'}>
 			<a sveltekit:prefetch href="/terms">Terms of Service</a>

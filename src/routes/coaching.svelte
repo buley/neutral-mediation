@@ -85,7 +85,7 @@
 	<p>
 		To accomplish this, conflict coaching can help to instill mindfulness, honesty, vulnerability and accountability.
 	</p>
-
+ 
 	<h4>Mindfulness</h4>
 
 	<p>

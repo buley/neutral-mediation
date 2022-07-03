@@ -11,19 +11,19 @@
 </svelte:head>
 
 <div class="content">
-	<h2>Practices</h2>
-	<h3>Onboarding</h3<
+	<h1>Best Practices</h1>
+	<h3>Onboarding</h3>
 	<h4>Mediation</h4>
 	<h4>Consulting</h4>
 	<h4>Coaching</h4>
 	<h4>Training</h4>
 	<h3>Virtual</h3>
+	<h4>Eye Contact</h4>
+	<h4>Dress Code</h4>
+	<h4>Formality</h4>
+	<h4>Timeliness</h4>
 	<h3>Boundaries</h3>
 	<h3>State of Mind</h3>
-	<h3>Formality</h3>
-	<h3>Dress Code</h3>
-	<h3>Timeliness</h3>
-	<h3>Eye Contact</h3>
 	<h3>Good Faith</h3>
 	<h3>Emotional Vulnerability</h3>
 
