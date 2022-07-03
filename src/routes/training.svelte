@@ -14,7 +14,7 @@
 	<h1>Training</h1>
 	<h2>Our Practice</h2>
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual training services for people and organizations. <em>Training sessions start at $1250 per day per participant.</em>
+		Neutral Mediation offers flexibly-scheduled virtual training and practice for people and organizations, optionally on-site at an customer facility. <em>Training sessions start at $1250 per day per participant.</em>
 	</p>
 	<h2>Our Value</h2>
 	<p>
@@ -22,9 +22,11 @@
 	<h2>Training Services</h2>
 	<h3>Mediation</h3>
 	<p>
+		Mediation training covers theory and practice with mediation protocol, openings, information exchanges and dealmaking. It trains individuals to become confident third-party neutrals capable of leading peer mediation.
 	</p>
-	<h3>Training</h3>
+	<h3>Negotiation</h3>
 	<p>
+		Negotiation training covers negotiation theory and practice. It covers common negotiation styles, positional and interest-based bargaining, negotiation leverage and principles, cognitive factors in negotiation, emotions, ethics and group bargaining. It trains invididuals to become negotiators who maximize value for all concerned.
 	</p>
 </div>
 

@@ -1232,7 +1232,7 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-node-fetch@^2.6.7:
+node-fetch@^2.6.0, node-fetch@^2.6.7:
   version "2.6.7"
   resolved "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.7.tgz"
   integrity sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
@@ -1243,6 +1243,13 @@ node-gyp-build@^4.2.2:
   version "4.4.0"
   resolved "https://registry.npmjs.org/node-gyp-build/-/node-gyp-build-4.4.0.tgz"
   integrity sha512-amJnQCcgtRVw9SvoebO3BKGESClrfXGCUTX9hSn1OuGQTQBOZmVd0Z0OlecpuRksKvbsUqALE8jls/ErClAPuQ==
+
+node-pinboard@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/node-pinboard/-/node-pinboard-2.0.1.tgz#7954daa2b1fcb7627dc3d4f368586ed76d90cc57"
+  integrity sha512-TvFjnLQRW/mEJmBDbBaL3APOxx1bCxCt1iw37YqgtLzWNUnu9zez2JTARd4qjcXp6uvJ8oaRhFNRJsLBhR7epQ==
+  dependencies:
+    node-fetch "^2.6.0"
 
 nopt@^5.0.0:
   version "5.0.0"

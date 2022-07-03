@@ -13,7 +13,13 @@
 <div class="content">
 	<h3>Cancellation Policy</h3>
 	<p>
-		A session, training or can be rescheduled for a $175 fee any time up until seven calendar days before the scheduled engagement. A training or mediation session will not be considered fully scheduled until all parties complete the required paperwork and pay their participation fees, upon which a Mediation Engagement Letter is sent out and signed by all parties. A partially-scheduled meditation can similarly be rescheduled for a fee, up until seven calendar days before the engagement date. There are no refunds on canceled sessions and training except in the narrow circumstances defined in the <a href="/refunds">refund policy</a>.
+		Schedules are tight and abrupt cancellations can come at the opportunity cost of solving other customer's problems. A session or training can be rescheduled for a $175 fee any time up until seven calendar days before the scheduled engagement.
+	</p>
+	<p>
+		A mediation session will not be considered fully-scheduled until all parties complete the required paperwork and pay their participation fees, upon which a Mediation Engagement Letter is sent out and signed by all parties. A partially-scheduled meditation can similarly be rescheduled for a fee, up until seven calendar days before the engagement date.
+	</p>
+	<p>
+		Neutral Mediation reserves the right to withdraw from an engagement at any time, for any reason, and in that case will refund all payments. There are no refunds on canceled sessions and training except in the very narrow circumstances defined in the <a href="/refunds">refund policy</a>.
 	</p>
 </div>
 

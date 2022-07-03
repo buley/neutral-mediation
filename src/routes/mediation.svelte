@@ -132,7 +132,7 @@
 
 	<p>Through mediation, a neutral builds trust and rapport with clients by explaining and enforcing rules and order, communicating honestly and tactfully between parties while acting friendly and empathetic, validating but not acquiescent, to the viewpoints shared by participants. Likewise, and more importantly, a mediator helps participants to honor and understand the content and validity of <em>each other's</em> viewpoints, even and especially if they don't share them. She draws on experience and guile to come up with out-of-the-box solutions and aid in extracting appropriate concessions that, though perhaps hard to come by for participants on their own, benefit all involved.</p>
 
-	<p><a href="http://neutrals.io/mediator/">Read about mediators, what they do and how they add value to dispute resolution.</a></p>
+	<p><a href="http://neutrals.io/mediators">Read about mediators, what they do and how they add value to dispute resolution.</a></p>
 
 	<h4>Confidentiality</h4>
 

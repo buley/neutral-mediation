@@ -15,6 +15,7 @@ export const components = [
 	() => import("../../src/routes/ethics.svelte"),
 	() => import("../../src/routes/index.svelte"),
 	() => import("../../src/routes/mediation.svelte"),
+	() => import("../../src/routes/mediators.svelte"),
 	() => import("../../src/routes/negotiation.svelte"),
 	() => import("../../src/routes/news.svelte"),
 	() => import("../../src/routes/practices.svelte"),
@@ -26,7 +27,8 @@ export const components = [
 	() => import("../../src/routes/resume.svelte"),
 	() => import("../../src/routes/template.svelte"),
 	() => import("../../src/routes/terms.svelte"),
-	() => import("../../src/routes/training.svelte")
+	() => import("../../src/routes/training.svelte"),
+	() => import("../../src/routes/w9.svelte")
 ];
 
 export const dictionary = {
@@ -42,16 +44,18 @@ export const dictionary = {
 	"documents": [[0, 10], [1]],
 	"ethics": [[0, 11], [1]],
 	"mediation": [[0, 13], [1]],
-	"negotiation": [[0, 14], [1]],
-	"news": [[0, 15], [1]],
-	"practices": [[0, 16], [1]],
-	"press": [[0, 17], [1]],
-	"prices": [[0, 18], [1]],
-	"privacy": [[0, 19], [1]],
-	"recusal": [[0, 20], [1]],
-	"refunds": [[0, 21], [1]],
-	"resume": [[0, 22], [1]],
-	"template": [[0, 23], [1]],
-	"terms": [[0, 24], [1]],
-	"training": [[0, 25], [1]]
+	"mediators": [[0, 14], [1]],
+	"negotiation": [[0, 15], [1]],
+	"news": [[0, 16], [1]],
+	"practices": [[0, 17], [1]],
+	"press": [[0, 18], [1]],
+	"prices": [[0, 19], [1]],
+	"privacy": [[0, 20], [1]],
+	"recusal": [[0, 21], [1]],
+	"refunds": [[0, 22], [1]],
+	"resume": [[0, 23], [1]],
+	"template": [[0, 24], [1]],
+	"terms": [[0, 25], [1]],
+	"training": [[0, 26], [1]],
+	"w9": [[0, 27], [1]]
 };

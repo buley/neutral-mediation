@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Document & Forms</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Documents</h1>
+	<h1>Documents & Forms</h1>
 
 	<h3>Request Forms</h3>
 
@@ -21,29 +21,32 @@
 	</ul>
 	<h4>Negotiation</h4>
 	<ul>
-	<li>Negotiation Consultation Request Form</li>
+		<li>Negotiation Consultation Request Form</li>
 	</ul>
 
 	<h3>Questionnaires</h3>
 	<ul>
-	<li>Mediation Consultation Participant Questionnaire</li>
-	<li>Mediation Participant Questionnaire</li>
+		<li>Mediation Consultation Participant Questionnaire</li>
+		<li>Mediation Participant Questionnaire</li>
 	</ul>
 
 	<h3>Legal Documents</h3>
 	<ul>
-	<li>Mediation Agreement</li>
-	<li>Confidentiality Agreement</li>
-	<li>Settlement Agreement</li>
+		<li>Mediation Agreement</li>
+		<li>Confidentiality Agreement</li>
+		<li>Settlement Agreement</li>
+	</ul>
+
+	<h3>Assessments</h3>
+	<ul>
+		<li>Mindset Assessment</li>
 	</ul>
 
 	<h3>Examples</h3>
 	<ul>
-	<li>Example Mediation Engagement Letter</li>
-	<li>Example Mediation Provisions</li>
+		<li>Example Mediation Engagement Letter</li>
+		<li>Example Mediation Provisions</li>
 	</ul>
-
-	<p><em>Neutral Mediation’s EIN is 87-2105551. Click here for a downloadable W-9.</em></p>
 
 </div>
 

@@ -28,7 +28,7 @@
 
 	<h3>Conflict Consulting</h3>
 
-	<p>Neutral-led conflict virtual training session for one, four or eight hours, typically on-site at a business. Personal conflict coaching or organization-focused consulting to address organizational systems that generate chronic conflict. <em>Eight-hour negotiation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a conflict consultation</a></p>
+	<p>Neutral-led conflict virtual training session for one, four or eight hours, or optionally  on-site at a business. Personal conflict coaching or organization-focused consulting to address organizational systems that generate chronic conflict. <em>Eight-hour negotiation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a conflict consultation</a></p>
 
 	<h2>Mediation</h2>
 

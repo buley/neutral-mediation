@@ -12,6 +12,11 @@
 
 <div class="content">
 	<h2>Practices</h2>
+	<h3>Onboarding</h3<
+	<h4>Mediation</h4>
+	<h4>Consulting</h4>
+	<h4>Coaching</h4>
+	<h4>Training</h4>
 	<h3>Virtual</h3>
 	<h3>Boundaries</h3>
 	<h3>State of Mind</h3>

@@ -12,20 +12,24 @@
 
 <div class="content">
 	<h2>Availability</h2>
+	<p>Here's a list of what services are available when. Neutral Mediation's <a href="https://neutral.setmore.com/">booking schedule</a> is based around netural availability and the necessary length of the session.</p>
+	<h3>Conflict</h3>
+	<ul>
+	    <li>Conflict Coaching – Wednesdays, Thursdays & Fridays</li>
+	</ul>
 	<h3>Mediation</h3>
 	<ul>
-	    <li>Meditation Training – Wednesdays</li>
-	    <li>One-Hour Mediation Consultation – Thursdays</li>
-	    <li>Two-Person Half-Day Mediation – Sundays</li>
-	    <li>Four-Person Half-Day Mediation – Sundays</li>
-	    <li>Two-Person Full-Day Mediation – Sundays</li>
-	    <li>Four-Person Full-Day Mediation – Sundays</li>
+	    <li>Meditation Trainings – Saturdays</li>
+	    <li>Mediation Consultations – Wednesdays, Thursdays & Fridays</li>
+	    <li>Half-Day Mediations – Sundays</li>
+	    <li>Full-Day Mediations – Sundays</li>
     </ul>
 	<h3>Negotiation</h3>
 	<ul>
-	    <li>Negotiation Training – Wednesdays</li>
-    	<li>One-Hour Negotiation Consultation – Fridays</li>
-    	<li>Half-Day Negotiation – Sundays</li>
+	    <li>Negotiation Trainings – Saturdays</li>
+    	<li>Negotiation Consultation – Wednesdays, Thursdays & Fridays</li>
+    	<li>Half-Day Negotiations – Sundays</li>
+    	<li>Full-Day Negotiations – Sundays</li>
 	</ul>
 </div>
 

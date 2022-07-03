@@ -13,7 +13,10 @@
 <div class="content">
 	<h3>Recusal</h3>
 	<p>
-		
+		Neutral Mediation reserves the right to recuse itself from an engagement at any time, for any reason, and in that case will issue refunds per the <a href="/refunds">refunds policy</a>.
+	</p>
+	<p>
+		For all mediation and consultancy services, Neutral Mediation will disclose any potential conflicts of interest.
 	</p>
 </div>
 
