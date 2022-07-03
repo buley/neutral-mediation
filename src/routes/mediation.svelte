@@ -23,10 +23,10 @@
 	<h1>Mediation</h1>
 	<h2>Our Mediation Practice</h2>
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual mediation sessions with a trained professional neutral. Prices start at $175/hour. 
+		Neutral Mediation offers flexibly-scheduled virtual mediation sessions with a trained professional neutral. Prices start at $175/hour and increase per participant. 
 	</p>
 	<p>
-		
+
 	</p>
 	<h3>What Is Mediation?</h3>
 	<p>
