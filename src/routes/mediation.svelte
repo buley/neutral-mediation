@@ -25,7 +25,7 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Mediation sessions start at $175 per hour per participant.</em> For mediation consulting, see our <a href="/consulting">consulting page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Four hour, half-day mediation sessions start at $400 per participant.</em> For mediation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/pricing">pricing page</a>.
 	</p>
 
 	<h2>Our Value</h2>
@@ -39,6 +39,24 @@
 	<p>
 
 	<h2>Our Services</h2>
+
+	<h3>Mediation Sessions</h3>
+
+	<p>Neutral-led virtual mediation session for four or eight hours, optionally on-site at an organization. Mediation engagements are typically in regard to engineering internal mediation processes as a form of risk management. <em>Four hour, half-day mediation sessions cost $400 per participant. Eight hour, full-day mediation sessions cost $750 per person.</em> <a href="hhttps://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/s532af24b61f10954cbaa5758ec8211ac41e0767d">Click here to book a mediation session</a>.</p>
+
+	<h3>Mediation Consulting</h3>
+
+	<p>Neutral-led virtual mediation consulting session for one, four or eight hours, optionally on-site at an organization. Mediation engagements are typically in regard to engineering internal mediation processes as a form of risk management. <em>Mediation consulting costs $175 per hour per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/sbcc6e0750eb25cc175571dd6570a5adc80e1aa1e">Click here to book a consulting session</a>. For more information, see our <a href="/consulting">consulting page</a>.</p>
+
+
+	<h3>Mediation Training</h3>
+
+	<p>
+		Neutral-led eight-hour virtual mediation training session. Training is course-guided education. <em>Eight-hour mediation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/37f300fe-158e-4963-8dac-bf092187ab1a">Click here to book a mediation training session</a>. For more information, see our <a href="/training">training page</a>.
+	</p>
+
+
+	<h2>More Information</h2>
 
 	<h3>What Is Mediation?</h3>
 	<p>

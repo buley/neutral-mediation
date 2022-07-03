@@ -28,6 +28,7 @@ export const components = [
 	() => import("../../src/routes/resume.svelte"),
 	() => import("../../src/routes/template.svelte"),
 	() => import("../../src/routes/terms.svelte"),
+	() => import("../../src/routes/thanks.svelte"),
 	() => import("../../src/routes/training.svelte"),
 	() => import("../../src/routes/w9.svelte")
 ];
@@ -58,6 +59,7 @@ export const dictionary = {
 	"resume": [[0, 24], [1]],
 	"template": [[0, 25], [1]],
 	"terms": [[0, 26], [1]],
-	"training": [[0, 27], [1]],
-	"w9": [[0, 28], [1]]
+	"thanks": [[0, 27], [1]],
+	"training": [[0, 28], [1]],
+	"w9": [[0, 29], [1]]
 };

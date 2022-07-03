@@ -17,7 +17,7 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Negotiating sessions start at $175 per hour per participant.</em> For negotiation consulting, see our <a href="/consulting">consulting page</a>. For negotiation training, see our <a href="/training">training page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual negotiation sessions led by a trained professional neutral. <em>Four hour, half-day negotiating sessions start at $400 per participant.</em> For negotiation training, see our <a href="/training">training page</a>. For negotiation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/pricing">pricing page</a>.
 	</p>
 	
 	<h2>Our Value</h2>
@@ -31,7 +31,7 @@
 	<h3>Negotiation Sessions</h3>
 
 	<p>
-		Neutral-led virtual negotiation session for one, four or eight hours, optionally on-site at an organization. Consulting engagements are typically in regard to analyzing or planning for a specific negotiation or similar set of negotiations. <em>Negotiation consulting costs $175 per hour per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/5eb4c115-1efc-478d-b908-69875ef1303d">Click here to book a negotiation consulting session</a>.
+		Neutral-led virtual negotiation session for four or eight hours, optionally on-site at an organization. Consulting engagements are typically in regard to analyzing or planning for a specific negotiation or similar set of negotiations. <em>Four hour, half-day negotiation sessions cost $400 per participant. Eight hour, full-day negotiation sessions cost $750 per person.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/feb555a1-7099-4c9d-9ad9-fca8bce05a6b">Click here to book a negotiation session</a>.
 	</p>
 
 	<h3>Negotiation Consulting</h3>

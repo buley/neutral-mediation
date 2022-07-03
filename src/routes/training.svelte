@@ -17,7 +17,7 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual training and practice for people and organizations, optionally on-site at an customer facility. <em>Training sessions start at $1250 per day per participant.</em>
+		Neutral Mediation offers flexibly-scheduled virtual training and practice for people and organizations, optionally on-site at an customer facility. <em>Training sessions start at $1250 per day per participant.</em> For more information about lunch stipends for full-day negotiation sessions, see our <a href="/pricing">pricing page</a>.
 	</p>
 
 	<h2>Our Value</h2>
@@ -31,7 +31,7 @@
 	<h3>Mediation Training</h3>
 
 	<p>
-		Neutral-led eight-hour virtual mediation training session. Training is course-guided education. <em>Eight-hour mediation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a training session</a>
+		Neutral-led eight-hour virtual mediation training session. Training is course-guided education. <em>Eight-hour mediation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a mediation training session</a>.
 	</p>
 
 	<p>
