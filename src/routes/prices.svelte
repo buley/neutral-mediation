@@ -34,7 +34,7 @@
 
 	<h3>Lunch &amp; Dinner Breaks</h3>
 
-	<p>Full day sessions are served lunch. A one hour break and $20 Door Dash gift card will be provided to each participant as a lunch stipend. Evening half-day sessions that go beyond their scheduled period will receive dinner stipends. All non-Volunteer training engagements also include a lunch or dinner stipend.</p>
+	<p>Full day sessions are served lunch. A one hour break and $20 Door Dash gift card will be provided to each participant as a lunch stipend. Evening half-day sessions that go beyond their scheduled period will receive a $20 Door Dash gift card as a dinner stipend. All non-Volunteer training engagements also include a lunch or dinner stipend.</p>
 
 	<h3>How to Book</h3>
 
