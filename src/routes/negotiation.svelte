@@ -17,13 +17,13 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual negotiation sessions led by a trained professional neutral. <em>Four hour, half-day negotiating sessions start at $400 per participant.</em> For negotiation training, see our <a href="/training">training page</a>. For negotiation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/pricing">pricing page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual negotiation sessions led by a trained professional neutral. <em>Negotiating sessions start at $400 per participant.</em> For negotiation training, see our <a href="/training">training page</a>. For negotiation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/pricing">pricing page</a>.
 	</p>
 	
 	<h2>Our Value</h2>
 	
 	<p>
-		Neutrals facilitiate negotiations, either collaboratively with both parties present or through shuttle diplomacy, in order to minimize the trauma, time and expense of bargaining.
+		Neutrals facilitiate negotiations, either collaboratively with both parties present or through shuttle diplomacy, in order to minimize the trauma, time and expense of bargaining. Fast-forward the bargaining process in as little as one session. Feel relieved and trust a professionally-trained neutral to create a safe environment to hear and be heard.
 	</p>
 	
 	<h2>Our Services</h2>
@@ -45,7 +45,7 @@
 	</h3>
 
 	<p>
-		Neutral-led negotiation virtual training session for one, four or eight hours. Training can be course-guided education or specifically-focused training around a specific negotiation. <em>Eight-hour negotiation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/076b423b-4479-480d-8af1-09e3c7cfcdad">Click here to book a negotiation training session</a>. See our <a href="/training">training page</a> for more information.
+		Neutral-led negotiation virtual training session for one, four or eight hours. Training can be course-guided education or specifically-focused training around a specific negotiation. <em>Eight-hour negotiation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/076b423b-4479-480d-8af1-09e3c7cfcdad">Click here to book a negotiation training session</a>. For more information on trainings, including course content, see our <a href="/training">training page</a>.
 	</p>
 
 	<h2>More Information</h2>

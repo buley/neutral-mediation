@@ -16,18 +16,18 @@
 	
 	<h2>Our Practice</h2>
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual consulting services for people and organizations. <em>Consulting sessions start at $175 per hour per participant.</em> For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual consulting services for people and organizations. <em>Consulting sessions cost $175 per hour per participant.</em> For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>. For mediation and negotiation training, see our <a href="/training">training page</a>.
 	</p>
 	<h2>Our Value</h2>
 	<p>
-		A consultant spares emotional trauma, time and expense associated with organizational conflict resolution.
+		A consultant spares emotional trauma, time and expense associated with organizational systems that generate chronic conflict.
 	</p>
 
 	<h2>Our Services</h2>
 
 	<h3>Conflict Consulting</h3>
 
-	<p>Neutral-led conflict virtual training session for one, four or eight hours, optionally on-site at an organization. Conflict consulting engagements are typically focused on addressing organizational systems that generate chronic conflict. <em>Eight-hour negotiation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a conflict consultation</a></p>
+	<p>Neutral-led conflict virtual training session for one, four or eight hours, optionally on-site at an organization. Conflict consulting engagements are typically focused on addressing organizational systems that generate chronic conflict. <em>Conflict consulting costs $175 per hour per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a conflict consultation</a></p>
 
 	<h3>Mediation Consulting</h3>
 

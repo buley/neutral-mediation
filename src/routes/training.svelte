@@ -23,7 +23,7 @@
 	<h2>Our Value</h2>
 
 	<p>
-		A trained conflict resolution professional helps minimize the trauma, time and expense associated with dealing with the conflict that pervades daily life. By training to recognize how to effectively manage conflict, either informally in negotiation or more formally in mediation processes, trainees are empowered to take the most efficient path to problem solving in their own lives. With confidence in peacemaking skills comes improved wellbeing for themselves and those with whom they interact.
+		A trained conflict resolution professional helps minimize the trauma, time and expense associated with dealing with the conflict that pervades daily life. By training to recognize how to effectively manage conflict, either informally in negotiation or more formally in mediation processes, trainees are empowered to take the most efficient path to problem solving in their own lives. With confidence in peacemaking skills comes improved wellbeing.
 	</p>
 
 	<h2>Our Services</h2>
