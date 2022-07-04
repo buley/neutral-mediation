@@ -39,7 +39,7 @@
 {#await dataPromise }
 	<h1>News</h1>
 	<p>
-		This page lists recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is provided for informational and entertainment purposes. It does not reflect its views.
+		<em>This page lists recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.</em>
 	</p>
 	{@html htmlContent}
 	{:then data}
