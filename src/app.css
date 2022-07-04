@@ -432,3 +432,9 @@ footer ul li {
 		text-align: center;
 		list-style-type:  none;
 	}
+
+	#menu-contact {
+		padding:  0 0 20px 0;
+		clear: both;
+		float: right;
+	}

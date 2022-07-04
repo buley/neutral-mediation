@@ -830,7 +830,15 @@
 			Mahatma Gandhi
 		</figcaption>
 	</figure>
-<figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The last of the human freedoms: to choose one's attitude in any given set of circumstances, to choose one's own way. And there were always choices to make. Every day, every hour, offered the opportunity to make a decision, a decision which determined whether you would or would not submit to those powers which threatened to rob you of your very self, your inner freedom; which determined whether or not you become the plaything to circumstance, renouncing freedom and dignity...</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Victor Frankl, <em><cite>Man's Search For Ultimate Meaning</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
 		<blockquote class="pullquote">
 			<p>Forgiveness is the only way to heal.</p>
 		</blockquote>
@@ -838,9 +846,14 @@
 			Don Miguel Ruiz, <em><cite>The Four Agreements</cite></em>
 		</figcaption>
 	</figure>
-	
-
-
+	<figure>
+		<blockquote class="pullquote">
+			<p>Forgiveness is man's deepest need and highest achievement.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Horace Bushnell
+		</figcaption>
+	</figure>	
 </div>
 <style>
 	.content {
