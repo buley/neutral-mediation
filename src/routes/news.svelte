@@ -7,7 +7,7 @@
 	let dataPromise = new Promise(async (resolve, reject) => {
 		import('node-pinboard').then((PinboardMod) => {
 			console.log("PinboardMod",PinboardMod);
-			let Pinboard = PinboardMod.default;
+			let Pinboard = (!!PinboardMod.default && !!PinboardMod.default.default) ? PinboardMod.default.default : PinboardMod.default;
 			console.log("Pinboard", Pinboard);
 			const apiKey = process.env.PINBOARD_API_KEY || "tb:09609A3FC3DCC28DDEAC";
 			const pinboard = new Pinboard(apiKey)
