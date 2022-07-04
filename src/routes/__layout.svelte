@@ -1,10 +1,10 @@
 <script lang="ts">
 	import Header from '$lib/header/Header.svelte';
-	import { page } from '$app/stores';
-	import logo from '$lib/header/ClearIcon.png';
+	import logo from '$lib/assets/ClearIcon.png';
 	import email from '$lib/assets/email-icon.svg';
 	import phone from '$lib/assets/phone.svg';
 	import calendar from '$lib/assets/calendar-accent.svg';
+	import { page } from '$app/stores';
 	import '../app.css';
 </script>
 

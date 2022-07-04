@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import logo from './ClearIcon64.png';
-	import home from './home.png';
+	import logo from '$lib/assets/ClearIcon64.png';
+	import home from '$lib/assets/home.png';
 	import calendar from '$lib/assets/calendar.svg';
 	import phone from '$lib/assets/phone.svg';
 	import email from '$lib/assets/mouse.svg';
