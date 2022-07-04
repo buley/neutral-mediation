@@ -60,8 +60,11 @@
 	<p>
 		Honesty, vulnerability and acceptance are among the key skills that a conflict coach can help someone develop. A coach helps make sure a client's actions are consitent with their abmitiations, aspirations, core values and beliefs.
 	</p>
+
 	<h3>Example Coaching Scenarios</h3>
+
 	<p>Here are common problem areas where conflict coaching can help:</p>
+
 	<ul>
 		<li>Problems with skill development and a feeling of limitation.</li>
 		<li>Problems with indecisiveness.</li>
