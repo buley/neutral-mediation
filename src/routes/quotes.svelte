@@ -326,6 +326,19 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Sticks and stones may break my bones, but words can also hurt me.</p>
+			<p>Stones and sticks break only skin, while words are ghosts that haunt me.</p>
+			<p>Slant and curved the word-swords fall, it pierces and sticks inside me.</p>
+			<p>Bats and bricks may ache through bones, but words can mortify me.</p>
+			<p>Pain from words has left its’ scar, on mind and hear that’s tender.</p>
+			<p>Cuts and bruises have not healed, it’s words that I remember.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Ruby Redfort, <em>Sticks and Stones</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>I have gradually come to one negative conclusion about the good life. It seems to me that the good life is not any fixed state. It is not, in my estimation, a state of virtue, or contentment, or nirvana, or happiness. It is not a condition in which the individual is adjusted or fulfilled or actualized. To use psychological terms, it is not a state of drive-reduction, or tension-reduction, or homeostasis.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -410,6 +423,17 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Epictetus
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Today, Creator, grant me the courage and the will to forgive the people I love the most. Help me to forgive	every injustice I feel in my mind, and to love other people unconditionally. I know the only way to heal all the pain in my heart is through forgiveness.</p>
+			<p>Today, Creator, strengthen my will to forgive everyone who has hurt me, even if I believe the offense is unforgivable. I know that forgiveness is an act of self-love. Help me to love myself so much that I forgive every offense. Let me choose forgiveness because I don’t want to suffer every time I remember the offense.</p>
+			<p>Today, Creator, help me to heal all the guilt in my heart by accepting the forgiveness of everyone I have hurt in my life. Help me to sincerely recognize the mistakes I have made out of ignorance, and give me the wisdom	and determination to refrain from making the same mistakes. I know that love and forgiveness will transform every relationship in the most positive way.</p>
+			<p>Thank you, Creator, for giving me the capacity to love and forgive. Today I open my heart to love and forgiveness, so that I can share my love without fear. Today I will enjoy a reunion with the people I love the most. Amen.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Don Miguel Ruiz, <em><cite>Prayers, A Communion with our Creator</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
