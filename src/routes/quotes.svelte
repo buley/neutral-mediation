@@ -286,6 +286,14 @@
 	<h2 id="attitude">Attitude</h2>
 	<figure>
 		<blockquote class="pullquote">
+			<p>If you understand, things are just as they are; If you do not understand, things are just as they are.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Zen Proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If you are pained by external things, it is not that they pain you, but your own judgment of them; and it is in your power to wipe out that judgment now.</p>
 		</blockquote>
 		<figcaption class="pullquote">
