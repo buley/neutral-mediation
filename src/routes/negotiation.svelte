@@ -17,7 +17,7 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual negotiation sessions led by a trained professional neutral. <em>Negotiating sessions start at $400 per participant.</em> For negotiation training, see our <a href="/training">training page</a>. For negotiation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/pricing">pricing page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual negotiation sessions led by a trained professional neutral. <em>Negotiating sessions start at $400 per participant.</em> For negotiation training, see our <a href="/training">training page</a>. For negotiation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/prices">pricing page</a>.
 	</p>
 	
 	<h2>Our Value</h2>
