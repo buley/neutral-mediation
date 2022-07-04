@@ -42,7 +42,7 @@
 
 	<p>Neutral Mediation encourages people to be friendly and empathetic, honest and direct, trustworthy, energetic, prepared, composed, positive and civilized. It believes in brainstorming, open-minds and the strengthening of communication through listening and storytelling. It believes in the power of emotional vulnerability to transform disputes. It believes not just that a neutral’s words matter and should be used only necessarily, but that her word matters and should be indefatigably trustworthy.</p>
 
-	<p><em>Neutral Mediation’s EIN is 87-2105551. Click here for a downloadable <a href="/w9">W-9</a>.</em></p>
+	<p><em>Neutral Mediation’s EIN is 87-2105551. <a href="/w9">Click here for a downloadable W-9</a>.</em></p>
 
 </div>
 
