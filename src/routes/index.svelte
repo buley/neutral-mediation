@@ -21,7 +21,7 @@
 	<h1 class="tagline">The path forward starts here.</h1>
 
 	<p class="tagline-description">
-		Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through <a href="/mediation">mediation</a> and <a href="/negotiation">negotiation</a> services, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a>.
+		Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led <a href="/mediation">mediation</a> and <a href="/negotiation">negotiation</a>, along with <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a>.
 	</p>
 
 	<button class="welcome-book-text">
