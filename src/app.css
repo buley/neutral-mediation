@@ -204,6 +204,7 @@ figure figcaption.pullquote {
 #menu-social li svg {
   float: left;
   margin-right:  5px;
+  margin-top: 5px;
 }
 
 footer ul li {
