@@ -79,11 +79,7 @@
 	<h3>Pillars of Coaching</h3>
 
 	<p>
-		A coach helps to develop the 8c’s & 5p’s of self: curiosity, compassion, clarity, connectedness, creativity, courage, confidence and calm; patience, presence, persistence, perspective and playfulness.
-	</p>
-
-	<p>
-		To accomplish this, conflict coaching can help to instill mindfulness, honesty, vulnerability and accountability.
+		A coach helps to develop the 8c’s & 5p’s of self: curiosity, compassion, clarity, connectedness, creativity, courage, confidence and calm; patience, presence, persistence, perspective and playfulness. To accomplish this, conflict coaching can help to instill mindfulness, honesty, vulnerability and accountability.
 	</p>
  
 	<h4>Mindfulness</h4>
