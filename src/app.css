@@ -161,6 +161,8 @@ h5 {
 
 blockquote.pullquote {
   content: '';
+  width:  100%;
+  float:  right;
   font-size: 1rem;
   font-family: 'PT Serif', serif;
   color: #444;
@@ -177,7 +179,10 @@ blockquote.pullquote {
 }
 figure figcaption.pullquote {
   text-align: right;
+  float:  right;
+  width:  100%;
 	font-family:  var(--sans-serif-font);
+	padding:  0 0 1rem 0;
 }
 
 #menu-social {

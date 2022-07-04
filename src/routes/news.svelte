@@ -6,11 +6,12 @@
 	let htmlContent = ''
 	let dataPromise = new Promise(async (resolve, reject) => {
 		import('node-pinboard').then((PinboardMod) => {
+			console.log("PinboardMod",PinboardMod);
 			let Pinboard = PinboardMod.default;
+			console.log("Pinboard", Pinboard);
 			const apiKey = process.env.PINBOARD_API_KEY || "tb:09609A3FC3DCC28DDEAC";
 			const pinboard = new Pinboard(apiKey)
 			if (!!apiKey) {
-				console.log("Running Pinboard API request", apiKey)
 				pinboard.get({ tag: ['negotiation', 'mediation'] }, (err, res) => {
 					console.log("Finished Pinboard API request", res)
 					let linksStack = []

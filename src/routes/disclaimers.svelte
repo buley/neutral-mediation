@@ -22,7 +22,7 @@
 	</p>
 	<h2><em>Not</em> a Therapist</h2>
 	<p>
-		A dispute resolution professional can reduce and respond to trauma but a therapist is the correct professional for healing past trauma, coping with traumatic loss, abuse, addiction, violence or relationship tumult. A neutral cannot treat mental illness, clinical anxiety or depression. No coaching, training, consulting or mediation should be construed as theraputic advice.
+		Therapy is not in the scope of coaching, mediation, consulting or training. Neutral Mediation's services are not meant for people coping with depression, or any other mental issues -- individuals seeking mental help should consult a therapist. A dispute resolution professional can reduce and respond to trauma but a therapist is the correct professional for healing past trauma, coping with traumatic loss, abuse, addiction, violence or relationship tumult. A neutral cannot treat mental illness, clinical anxiety or depression. No coaching, training, consulting or mediation should be construed as theraputic advice.
 	</p>
 </div>
 
