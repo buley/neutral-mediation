@@ -69,6 +69,9 @@
 		<li class:active={$page.url.pathname === '/gratitude'}>
 			<a sveltekit:prefetch href="/gratitude">Gratitude</a>
 		</li>
+	    <li class:active={$page.url.pathname === '/humility'}>
+			<a sveltekit:prefetch href="/humility">Humility</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/mediators'}>
 			<a sveltekit:prefetch href="/mediators">Mediators</a>
 		</li>
