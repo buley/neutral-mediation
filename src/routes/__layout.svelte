@@ -24,6 +24,12 @@
 	    <li class:active={$page.url.pathname === '/about'}>
 			<a sveltekit:prefetch href="/about">About</a>
 		</li>
+		<li class:active={$page.url.pathname === '/acceptance'}>
+			<a sveltekit:prefetch href="/acceptance">Acceptance</a>
+		</li>
+		<li class:active={$page.url.pathname === '/apology'}>
+			<a sveltekit:prefetch href="/apology">Apology</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/availability'}>
 			<a sveltekit:prefetch href="/availability">Availability</a>
 		</li>
@@ -54,8 +60,17 @@
 	    <li class:active={$page.url.pathname === '/ethics'}>
 			<a sveltekit:prefetch href="/ethics">Ethics</a>
 		</li>
+		<li class:active={$page.url.pathname === '/forgiveness'}>
+			<a sveltekit:prefetch href="/forgiveness">Forgiveness</a>
+		</li>
+		<li class:active={$page.url.pathname === '/gratitude'}>
+			<a sveltekit:prefetch href="/gratitude">Gratitude</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/mediators'}>
 			<a sveltekit:prefetch href="/mediators">Mediators</a>
+		</li>
+	    <li class:active={$page.url.pathname === '/privacy'}>
+			<a sveltekit:prefetch href="/privacy">Meditation</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/news'}>
 			<a sveltekit:prefetch href="/news">News</a>
@@ -66,6 +81,9 @@
 	    <li class:active={$page.url.pathname === '/prices'}>
 			<a sveltekit:prefetch href="/prices">Prices</a>
 		</li>
+	    <li class:active={$page.url.pathname === '/process'}>
+			<a sveltekit:prefetch href="/process">Process</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/privacy'}>
 			<a sveltekit:prefetch href="/privacy">Privacy</a>
 		</li>
@@ -74,6 +92,9 @@
 		</li>
 	    <li class:active={$page.url.pathname === '/refunds'}>
 			<a sveltekit:prefetch href="/refunds">Refunds</a>
+		</li>
+	    <li class:active={$page.url.pathname === '/relationships'}>
+			<a sveltekit:prefetch href="/relationships">Relationships</a>
 		</li>
 		<li class:active={$page.url.pathname === '/security'}>
 			<a sveltekit:prefetch href="/security">Security</a>
