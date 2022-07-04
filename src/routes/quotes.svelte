@@ -297,7 +297,7 @@
 			<p>If you are pained by external things, it is not that they pain you, but your own judgment of them; and it is in your power to wipe out that judgment now.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Marcus Aurelius, <em>Meditations: A New Translation</em>
+			Marcus Aurelius, <em><cite>Meditations: A New Translation</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -305,7 +305,7 @@
 			<p>Why not choose not to react?</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Ryan Holiday and Stephen Hanselman, <em>The Daily Stoic</em>
+			Ryan Holiday and Stephen Hanselman, <em><cite>The Daily Stoic</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
