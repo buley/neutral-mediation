@@ -16,7 +16,7 @@
 
 	<h2>Our Practice</h2>
 
-	<p>Taylor Buley founded Neutral Mediation in 2021 in response to increasing acrimony in the public sphere. Doing business as Neutral Mediation, he practices as a third-party neutral services and offers mediation, negotiation, consulting, training and coaching services that minimize the trauma, expense and time associated with solving complex conflict.</p>
+	<p>Taylor Buley founded Neutral Mediation in 2021 in response to increasing acrimony in the public sphere. Doing business as Neutral Mediation, he practices as a third-party neutral and offers mediation, negotiation, consulting, training and coaching services that minimize the trauma, expense and time associated with solving complex conflict.</p>
 
 	<h3>Neutral Bio</h3>
 
