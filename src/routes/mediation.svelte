@@ -38,7 +38,7 @@
 
 	<h3>Mediation Sessions</h3>
 
-	<p>Neutral-led virtual mediation session for four or eight hours, optionally on-site at an organization. Mediation engagements are typically in regard to engineering internal mediation processes as a form of risk management. <em>Four hour, half-day mediation sessions cost $400 per participant. Eight hour, full-day mediation sessions cost $750 per person.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/s532af24b61f10954cbaa5758ec8211ac41e0767d">Click here to book a mediation session</a>.</p>
+	<p>Neutral-led virtual mediation session for four or eight hours, optionally on-site at an organization. Mediation engagements are typically in regard to engineering internal mediation processes as a form of risk management. <em>Four hour, half-day mediation sessions cost $400 per participant. Eight hour, full-day mediation sessions cost $750 per person.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/e22010b4-e7df-49d8-a1db-0355e57895eb">Click here to book a mediation session</a>.</p>
 
 	<h3>Mediation Consulting</h3>
 
