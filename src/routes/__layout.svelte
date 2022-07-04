@@ -39,6 +39,9 @@
 	    <li class:active={$page.url.pathname === '/cancellation'}>
 			<a sveltekit:prefetch href="/cancellation">Cancellation</a>
 		</li>
+	    <li class:active={$page.url.pathname === '/cbt'}>
+			<a sveltekit:prefetch href="/cbt">CBT</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/confidentiality'}>
 			<a sveltekit:prefetch href="/confidentiality">Confidentiality</a>
 		</li>
@@ -92,6 +95,9 @@
 		</li>
 	    <li class:active={$page.url.pathname === '/refunds'}>
 			<a sveltekit:prefetch href="/refunds">Refunds</a>
+		</li>
+	    <li class:active={$page.url.pathname === '/rebt'}>
+			<a sveltekit:prefetch href="/rebt">REBT</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/relationships'}>
 			<a sveltekit:prefetch href="/relationships">Relationships</a>
