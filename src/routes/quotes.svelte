@@ -12,7 +12,7 @@
 
 <div class="content">
 	<h1>Useful Quotes</h1>
-	<ul>
+	<ul class="centered-list">
 		<li><a href="#mediation">Mediation</a></li>
 		<li><a href="#negotiation">Negotiation</a></li>
 		<li><a href="#self-reflection">Self-Reflection</a></li>
@@ -20,7 +20,7 @@
 		<li><a href="#attitude">Attitude</a></li>
 		<li><a href="#hope">Hope</a></li>
 	</ul>
-	<h2 id="mediation">Mediation</h2>
+	<h2 id="mediation">Mediation Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
 			<p>We don’t have to do all of it alone. We were never meant to.</p>
@@ -150,7 +150,7 @@
 			Carl Rogers, <em>Client-centered therapy</em>
 		</figcaption>
 	</figure>
-	<h2 id="emotion">Emotion</h2>
+	<h2 id="emotion">Emotion Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
 			<p>The emotional qualities are antagonistic to clear reasoning.</p>
@@ -291,7 +291,7 @@
 			Carl Rogers, <em>Client-centered therapy</em>
 		</figcaption>
 	</figure>
-	<h2 id="attitude">Attitude</h2>
+	<h2 id="attitude">Attitude Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
 			<p>If you understand, things are just as they are; If you do not understand, things are just as they are.</p>
@@ -484,7 +484,7 @@
 			Dale Carnegie,&nbsp;<em>How to Win Friends and Influence People</em>
 		</figcaption>
 	</figure>
-	<h2 id="negotiation">Negotiation</h2>
+	<h2 id="negotiation">Negotiation Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
 			<p>You negotiate with individuals, not averages.</p>
@@ -621,7 +621,7 @@
 			Brené Brown
 		</figcaption>
 	</figure>
-	<h2 id="self-reflection">Self-Reflection</h2>
+	<h2 id="self-reflection">Self-Reflection Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
 			<p>How many times do we pay for one mistake? The answer is thousands of times. The human is the only animal on earth that pays a thousand times for the same mistake. The rest of the animals pay once for every mistake they make. But not us. We have a powerful memory. We make a mistake, we judge ourselves, we find ourselves guilty, and we punish ourselves. If justice exists, then that was enough; we don’t need to do it again. But every time we remember, we judge ourselves again, we are guilty again, and we punish ourselves again, and again, and again. If we have a wife or husband he or she also reminds us of the mistake, so we can judge ourselves again, punish ourselves again, and find ourselves guilty again. Is this fair?</p>
@@ -805,7 +805,7 @@
 			Charles Darwin
 		</figcaption>
 	</figure>
-	<h2 id="hope">Hope</h2>
+	<h2 id="hope">Hope Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Each time someone stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, he sends forth a tiny ripple of hope.</p>
