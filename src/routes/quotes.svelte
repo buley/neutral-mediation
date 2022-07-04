@@ -496,6 +496,12 @@
 		</figcaption>
 	</figure>
 	<figure>
+	    <blockquote class="pullquote">
+	        <p>I was never ruined but twice, once when I lost a lawsuit and once when I won one.</p>
+	    </blockquote>
+	    <figcaption class="pullquote">Voltaire</figcaption>
+	</figure>
+	<figure>
 		<blockquote class="pullquote">
 			<p>"Victory is reserved&nbsp;for those who are willing to pay its price.”</p>
 		</blockquote>

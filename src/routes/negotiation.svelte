@@ -31,7 +31,7 @@
 	<h3>Negotiation Sessions</h3>
 
 	<p>
-		Neutral-led virtual negotiation session for four or eight hours, optionally on-site at an organization. Consulting engagements are typically in regard to analyzing or planning for a specific negotiation or similar set of negotiations. <em>Four hour, half-day negotiation sessions cost $400 per participant. Eight hour, full-day negotiation sessions cost $750 per person.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/feb555a1-7099-4c9d-9ad9-fca8bce05a6b">Click here to book a negotiation session</a>.
+		Neutral-led virtual negotiation session for four or eight hours, optionally on-site at an organization. Consulting engagements are typically in regard to analyzing or planning for a specific negotiation or similar set of negotiations. <em>Four hour, half-day negotiation sessions cost $400 per participant. Eight hour, full-day negotiation sessions cost $750 per person.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/47dfc819-7d0d-4e36-b4e4-6eb47039a94e">Click here to book a negotiation session</a>.
 	</p>
 
 	<h3>Negotiation Consulting</h3>
@@ -90,7 +90,7 @@
 	</p>
 
 	<p>
-		That mutual self-determination -- each party choosing on their own terms to begin the end of a conflict by seeking a mediator's help -- is critical to the rampant success of mediation as a participant-controlled alternative to the courtroom. American participants report that -- simply by using age-old mediative techniques to communicate and negotiate plainly -- they are, overall, happier with outcomes compared to similar results obtained through the emotionally, financially and time-consuming modern legal system.
+		That mutual self-determination &emdash; each party choosing on their own terms to begin the end of a conflict by seeking a mediator's help &emdash; is critical to the rampant success of mediation as a participant-controlled alternative to the courtroom. American participants report that &emdash; simply by using age-old mediative techniques to communicate and negotiate plainly &emdash; they are, overall, happier with outcomes compared to similar results obtained through the emotionally, financially and time-consuming modern legal system.
 	</p>
 
 	<p>
