@@ -12,6 +12,14 @@
 
 <div class="content">
 	<h1>Useful Quotes</h1>
+	<ul>
+		<li><a href="#mediation">Mediation</a></li>
+		<li><a href="#negotiation">Negotiation</a></li>
+		<li><a href="#self-reflection">Self-Reflection</a></li>
+		<li><a href="#emotion">Emotion</a></li>
+		<li><a href="#attitude">Attitude</a></li>
+		<li><a href="#hope">Hope</a></li>
+	</ul>
 	<h2 id="mediation">Mediation</h2>
 	<figure>
 		<blockquote class="pullquote">
