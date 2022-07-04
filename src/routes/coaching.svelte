@@ -20,9 +20,6 @@
 	<p>
 		Coaching can help you be more positive and reduce negative emotions. It empowers you to feel more confident and make hard more decisions more rationally. With the help of a third-party, you can learn to minimize anxiety and worrying, stop self-sabotaging behaviors, and end procrastination. Manage anger and cope with stressful emotions better under the help and accountability of a trained coaching professional dedicated to your progress.
 	</p>
-	<p>
-		Our netural is a master mediator, negotiator and communicator. He is a certified life coach with skills training in Cognitive Behavioral Therapy (CBT) and Rational Emotive Behavior Therapy (REBT).
-	</p>
 	
 	<h3>What Is Conflict Coaching?</h3>
 	
@@ -43,8 +40,8 @@
 	</p>
 	
 	<ul class="numbered-list">
-		<li>Update on changes and review progress since last session, including any homework or follow-up exercises.</li>
-		<li>Reassess client goals and aspired plans.</li>
+		<li>Check-in for an update on changes and progress since last session, including reviewing any homework or follow-up exercises.</li>
+		<li>Reassess goals and other desired outcomes.</li>
 		<li>Determine the reality gap: the distance between where the client is today and where they want to be.</li>
 		<li>Brainstorm options, explore solutions and incremental action steps that are available.</li>
 		<li>Plan on and agree to certain action steps.</li>
@@ -64,7 +61,7 @@
 		Honesty, vulnerability and acceptance are among the key skills that a conflict coach can help someone develop. A coach helps make sure a client's actions are consitent with their abmitiations, aspirations, core values and beliefs.
 	</p>
 	<h3>Example Coaching Scenarios</h3>
-	<p>Here are common problem areas where coaching can help:</p>
+	<p>Here are common problem areas where conflict coaching can help:</p>
 	<ul>
 		<li>Problems with skill development and a feeling of limitation.</li>
 		<li>Problems with indecisiveness.</li>
@@ -113,7 +110,7 @@
 	<h4>Acceptance</h4>
 
 	<p>
-		To fully understand what options and choices that we face, we must accept reality without precluding judgment. Anything can be changed as long as we can reflect on what it is and what it means.
+		To fully understand what options and choices that we face, we must accept reality without precluding judgment. Acceptance of yourself, and others, and life circumstances. Anything can be changed as long once we can reflect on what it is and what it means.
 	</p>
 
 	<h4>Accountability</h4>

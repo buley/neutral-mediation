@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>Quotes</title>
+	<title>Useful Quotes</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Quotes</h1>
+	<h1>Useful Quotes</h1>
 	<h2 id="mediation">Mediation</h2>
 	<figure>
 		<blockquote class="pullquote">
