@@ -5,25 +5,27 @@
 	export const prerender = true
 	let htmlContent = ''
 	let dataPromise = new Promise(async (resolve, reject) => {
-		const Pinboard = (await import('node-pinboard')).default
-		const apiKey = process.env.PINBOARD_API_KEY || "tb:09609A3FC3DCC28DDEAC";
-		const pinboard = new Pinboard(apiKey)
-		if (!!apiKey) {
-			pinboard.get({ tag: ['negotiation', 'mediation'] }, (err, res) => {
-				let linksStack = []
-				if (null === err) {
-					const posts = res.posts
-					const updated = new Date(res.date)
-					for (let x = 0; x < posts.length; x += 1) {
-						let d = posts[x]
-						if ('yes' == d.shared) {
-							linksStack.push(d)
+		import('node-pinboard').then((PinboardMod) => {
+			let Pinboard = PinboardMod.default;
+			const apiKey = process.env.PINBOARD_API_KEY || "tb:09609A3FC3DCC28DDEAC";
+			const pinboard = new Pinboard(apiKey)
+			if (!!apiKey) {
+				pinboard.get({ tag: ['negotiation', 'mediation'] }, (err, res) => {
+					let linksStack = []
+					if (null === err) {
+						const posts = res.posts
+						const updated = new Date(res.date)
+						for (let x = 0; x < posts.length; x += 1) {
+							let d = posts[x]
+							if ('yes' == d.shared) {
+								linksStack.push(d)
+							}
 						}
+						resolve(linksStack)
 					}
-					resolve(linksStack)
-				}
-			})	 
-		}
+				})	 
+			}
+		});
 	});
 </script>
 
