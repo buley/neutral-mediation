@@ -17,10 +17,6 @@
 	<ul>
 	    <li>Conflict Coaching – Monday through Friday</li>
 	</ul>
-	<h3>Conflict Coaching</h3>
-	<ul>
-	    <li>Conflict Coaching – Monday through Friday</li>
-	</ul>
 	<h3>Mediation</h3>
 	<ul>
 	    <li>Mediation Consultations – Monday through Friday</li>
