@@ -3,6 +3,7 @@
 	export const hydrate = dev;
 	export const router = browser;
 	export const prerender = true;
+	import headshot from '$lib/assets/headshot.webp';
 </script>
 
 <svelte:head>
@@ -15,6 +16,11 @@
 	<h1>About</h1>
 
 	<h2>Our Practice</h2>
+
+	<figure class="headshot">
+		<img src="{headshot}" alt="Headshot of Taylor Buley.">
+		<p><strong>Taylor Buley</strong>, <em>Neutral</em></p>
+	</figure>
 
 	<p>Taylor Buley founded Neutral Mediation in 2021 in response to increasing acrimony in the public sphere. Doing business as Neutral Mediation, he practices as a third-party neutral and offers mediation, negotiation, consulting, training and coaching services that minimize the trauma, expense and time associated with solving complex conflict.</p>
 

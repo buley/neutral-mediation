@@ -444,3 +444,27 @@ footer ul li {
 		max-width: var(--column-width);
 		margin: var(--column-margin-top) auto 0 auto;
 	}
+
+.headshot {
+		display:  flex;
+		flex-direction:  column;
+		max-width: 40%;
+		float:  right;
+		clear:  both;
+		padding:  0 0 1rem 1rem;
+		text-align: center;
+		margin:  0;
+	}
+	.headshot img {
+		float:  right;
+		clear:  both;
+		max-width:  100%;
+	}
+
+	.headshot p {
+		clear:  left;
+		text-align:  cneter;
+		float:  right;
+		font-family: var(--sans-serif-font);
+	}
+
