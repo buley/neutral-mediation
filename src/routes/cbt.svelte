@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Cognitive Behavioral Theraphy (CBT)</h1>
+	<h1>Cognitive Behavioral Therapy (CBT)</h1>
 </div>
 
 <style>
