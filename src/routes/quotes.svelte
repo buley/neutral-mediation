@@ -103,6 +103,20 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>[T]he latest and most formidable form of … domination [is]
+	bureaucracy … which could be properly called rule by Nobody. If, in
+	accord with traditional political thought, we identify tyranny as
+	government that is not held to give account of itself, rule by Nobody is
+	clearly the most tyrannical of all, since there is no one left who would
+	even be asked to answer for what is being done.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Hannah Arendt, <em><cite>On Violence</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The very essence of the creative is its novelty, and hence we have no standard by which to judge it.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -836,6 +850,22 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			L.R. Knost
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>This Order is built on breath. One, therefore, must safeguard his breath in the time of his inhalation and exhalation and in between.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Shah Naqshband
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>I am speaking to you with words and you're listening to the words that I'm saying. What I want to convey to you, and what you want to hear from me, cannot be said in words.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			John G. Bennett 
 		</figcaption>
 	</figure>
 	<figure>
