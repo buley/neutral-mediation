@@ -115,7 +115,6 @@
 		</figcaption>
 	</figure>
 	<figure>
-	<figure>
 		<blockquote class="pullquote">
 			<p>The very essence of the creative is its novelty, and hence we have no standard by which to judge it.</p>
 		</blockquote>
@@ -507,6 +506,14 @@
 		</figcaption>
 	</figure>
 	<h2 id="negotiation">Negotiation Quotes</h2>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Albert Einstein
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>You negotiate with individuals, not averages.</p>
