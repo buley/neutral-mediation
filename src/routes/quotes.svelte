@@ -276,6 +276,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>True knowledge of God is gained when the lover comes in contact with the Beloved through secret communion with Him.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Sufi proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Tending the garden is a relaxing pastime, but it does not prepare one for the inevitable battles of life. It is easy to be calm in a serene setting.</p>
 			<p>To be calm and serene when under attack is much more difficult; therefore, I tell you that it is far better to be a warrior tending his garden rather than a gardener at war.</p>
 		</blockquote>
