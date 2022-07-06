@@ -615,6 +615,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>If knowledge does not liberate the self from the self then ignorance is better than such knowledge.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Sanâ'î's Diwân
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>How did you go bankrupt?” Bill asked. “Two ways,” Mike said. “Gradually and then suddenly.</p>
 		</blockquote>
 		<figcaption class="pullquote">
