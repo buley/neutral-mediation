@@ -50,14 +50,14 @@
 		Neutral-led eight-hour virtual mediation training session. Training is course-guided education. <em>Eight-hour mediation trainings for up to 8 people cost $1,250 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/37f300fe-158e-4963-8dac-bf092187ab1a">Click here to book a mediation training session</a>. For more information on trainings, including course content, see our <a href="/training">training page</a>.
 	</p>
 
-	<h2>More Information</h2>
+	<h3>More Information</h3>
 
 	<ul>
-		<li><a href="/pages/mediation/pages/what-is-mediation">What is mediation?</li>
-		<li><a href="/pages/mediation/pages/benefits-of-mediation">Benefits of mediation</li>
-		<li><a href="/pages/mediation/pages/example-mediation-scenarios">Example mediation scenarios</li>
-		<li><a href="/pages/mediation/pages/pillars-of-mediation">Pillars of mediation</li>
-		<li><a href="/pages/mediation/pages/limits-of-mediation">Limits of mediation</li>
+		<li><a href="/pages/mediation/what-is-mediation">What is mediation?</li>
+		<li><a href="/pages/mediation/benefits-of-mediation">Benefits of mediation</li>
+		<li><a href="/pages/mediation/example-mediation-scenarios">Example mediation scenarios</li>
+		<li><a href="/pages/mediation/pillars-of-mediation">Pillars of mediation</li>
+		<li><a href="/pages/mediation/limits-of-mediation">Limits of mediation</li>
 	</ul>
 
 </div>
