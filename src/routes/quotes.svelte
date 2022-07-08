@@ -595,6 +595,12 @@
 	    <figcaption class="pullquote">Voltaire</figcaption>
 	</figure>
 	<figure>
+	    <blockquote class="pullquote">
+	        <p>In any system, once a relative orderliness has been achieved, the only means by which a broader and more complex interrelationship among the various elements can be achieved is by introducing or generating disorder. The system can come apart to be put together in a much more integrated way. Any system that resists this creative disintegration and re-integration can only suffer the gradual erosion of its established order due to the energy required to protect the system from change.</p>
+	    </blockquote>
+	    <figcaption class="pullquote">George Ainsworth Land</figcaption>
+	</figure>
+	<figure>
 		<blockquote class="pullquote">
 			<p>Victory is reserved&nbsp;for those who are willing to pay its price.</p>
 		</blockquote>
