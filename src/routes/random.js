@@ -13,3 +13,11 @@ export async function get() {
     }
   };
 }
+
+/** @type {import('@sveltejs/kit').RequestHandler} */
+export async function post({ request }) {
+  const data = await request.formData(); // or .json(), or .text(), etc
+ 
+  await create(data);
+  return { status: 201 };
+}
