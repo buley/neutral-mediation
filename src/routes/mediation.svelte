@@ -57,6 +57,7 @@
 		<li><a href="/pages/benefits-of-mediation">Benefits of mediation</li>
 		<li><a href="/pages/example-mediation-scenarios">Examples mediation scenarios</li>
 		<li><a href="/pages/pillars-of-mediation">Pillars of mediation</li>
+		<li><a href="/pages/limits-of-mediation">Limits of mediation</li>
 	</ul>
 
 </div>
