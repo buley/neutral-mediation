@@ -691,6 +691,14 @@
 	<h2 id="self-reflection">Self-Reflection Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
+			<p>A master in the art of living knows no sharp distinction between his work and his play, his labor and his leisure, his mind and his body, his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing and leaves others to determine whether he is working or playing. To himself he always seems to be doing both.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			George Bernard Shaw
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>How many times do we pay for one mistake? The answer is thousands of times. The human is the only animal on earth that pays a thousand times for the same mistake. The rest of the animals pay once for every mistake they make. But not us. We have a powerful memory. We make a mistake, we judge ourselves, we find ourselves guilty, and we punish ourselves. If justice exists, then that was enough; we don’t need to do it again. But every time we remember, we judge ourselves again, we are guilty again, and we punish ourselves again, and again, and again. If we have a wife or husband he or she also reminds us of the mistake, so we can judge ourselves again, punish ourselves again, and find ourselves guilty again. Is this fair?</p>
 		</blockquote>
 		<figcaption class="pullquote">
