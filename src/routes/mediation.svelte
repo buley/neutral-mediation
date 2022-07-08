@@ -52,14 +52,12 @@
 
 	<h2>More Information</h2>
 
-	<p>
-		<ul>
-			<li><a href="/pages/what-is-mediation">What is mediation?</li>
-			<li><a href="/pages/benefits-of-mediation">Benefits of mediation</li>
-			<li><a href="/pages/example-mediation-scenarios">Examples mediation scenarios</li>
-			<li><a href="/pages/pillars-of-mediation">Pillars of mediation</li>
-		</ul>
-	</p>
+	<ul>
+		<li><a href="/pages/what-is-mediation">What is mediation?</li>
+		<li><a href="/pages/benefits-of-mediation">Benefits of mediation</li>
+		<li><a href="/pages/example-mediation-scenarios">Examples mediation scenarios</li>
+		<li><a href="/pages/pillars-of-mediation">Pillars of mediation</li>
+	</ul>
 
 </div>
 
