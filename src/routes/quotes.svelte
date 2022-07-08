@@ -763,6 +763,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>[Story]telling is almost always done as a gift, even when the story contains and injects some poison, it is also a bond, a granting of trust, and rare is the trust or confidence that is not sooner or later betrayed, rare is the close bond that does not grow twisted or knotted and, in the end, become so tangled that a razor or knife is needed to cut it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Javier Marais 
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If you want to determine the nature of anything, entrust it to time: when the sea is stormy, you can see nothing clearly.</p>
 		</blockquote>
 		<figcaption class="pullquote">
