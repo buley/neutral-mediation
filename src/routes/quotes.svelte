@@ -47,6 +47,47 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>There are three great frontiers in science: the very big, the very small and
+the very complex.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Martin Rees
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>What is commonly called 'disorder' is merely an inappropriate name for what is actually a certain rather complex kind of order that is difficult to describe in full detail. Our real task can, therefore, never be to judge whether something is ordered or disordered, because everything is ordered, because disorder in the sense of the absence of every conceivable kind of order is an impossibility. Rather, What one really has to do is to observe and describe the kind of order that each thing actually has.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			David Bohm
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The essence of tyranny is the denial of complexity.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Jacob Burkhardt
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>So long as only one ideal is the true goal, it will always seem to men that no means can be too difficult, no price too high, to do whatever is required to realize the ultimate goal. Such certainty is one of the great justifications of fanaticism, compulsion, persecution …. If there is only one solution to the puzzle, then the only problems are first how to find it, then how to realize it, and finally how to convert others to the solution by persuasion or by force. But if this is not so …, then the path is open to empiricism, pluralism, tolerance, compromise. Tolerance is historically the product of the realization of the irreconcilability of equally dogmatic faiths, and the practical improbability of complete victory of one over the other. Those who wished to survive realized that they had to tolerate error. They gradually came to see the merits of diversity, and so became skeptical about definitive solutions in human affairs.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Isaiah Berlin
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Genuine politics – politics worthy of the name, and the only politics I am willing to devote myself to – is simply a matter of serving those around us: serving the community, and serving those who will come after us. It's deepest roots are moral because it is a responsibility … [T]here is only one way to strive for decency, reason, responsibility, sincerity, civility, and	tolerance, and that is decently, reasonably, responsibly, sincerely, civilly, and tolerantly. I’m aware that, in everyday politics, this is not seen as the most practical way of going about it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Vaclav Havel
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Listen to both sides and you will be enlightened; listen to only one side and you will be left in the dark</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -55,10 +96,34 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>When a society decays, it is language that is first to become gangrenous.... Although moralists are scandalized by the fortunes amassed by the revolutionaries [in Mexico under the ruling party], they have failed to	observe that this material flowering has a verbal parallel; oratory has become the favorite literary genre of the prosperous... and alongside oratory, with its plastic flowers, there is the barbarous syntax in many of our newspapers, the foolishness of language on loudspeakers and the radio, the loathsome vulgarities of advertising -- all that asphyxiating rhetoric.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Octavio Paz
+		</figcaption>
+	</figure>	
+	<figure>
+		<blockquote class="pullquote">
 			<p>Choosing to be&nbsp;curious&nbsp;is choosing to be vulnerable because it requires us to surrender to&nbsp;uncertainty. It wasn't always a choice; we were born&nbsp;curious.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Brené Brown
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>If you are neutral in situations of injustice, you have chosen the side of the oppressor. If an elephant has its foot on the tail of a mouse and you say that you are neutral, the mouse will not appreciate your neutrality.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Desmond Tutu
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Our lives begin to end the day we become silent about things that matter.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Martin Luther King, Jr.
 		</figcaption>
 	</figure>
 	<figure>
@@ -747,6 +812,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Our systems, perhaps, are nothing more than an unconscious apology for our faults – a gigantic scaffolding whose object is to hide from us our favorite sin.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Henri Frederic Amiel
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The key to good technique is to keep your hands, feet, and hips straight and centered. If you are centered, you can move freely. The physical center is your belly; if your mind is set there as well, you are assured of victory in any endeavor.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -767,6 +840,23 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Javier Marais 
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>How should we be able to forget those ancient myths that are at the beginning of all peoples, the myths about dragons that at the last moment turn into princesses; perhaps all the dragons of our lives are princesses who are only waiting to see us once beautiful and brave. Perhaps everything terrible is in its deepest being something helpless that wants help from us.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Rainer Maria Rilke
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Just the place for a Snark! I have said it twice: That alone should encourage the crew.</p>
+			<p>Just the place for a Snark! I have said it thrice: What I tell you three times is true.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Lewis Carol, <em>The Hunting of the Snark</em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -795,12 +885,44 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>	Propaganda must not serve the truth ... All propaganda must be so popular and on such an intellectual level, that even the most stupid of those toward whom it is directed will understand it. Therefore, the intellectual level of the propaganda must be lower the larger the number of people who are to be influenced by it ... The size of the lie is a definite factor in causing it to be believed, for the vast masses of a nation are in the depths of their hearts more easily deceived than they are consciously and intentionally bad.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Adolf Hitler
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>If you tell a lie big enough and keep repeating it, people will eventually come to believe it. The lie can be maintained only for such time as the State can shield the people from the political, economic and/or military consequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth is the greatest enemy of the State.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Joseph Goebbels
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the peacemakers for lack of patriotism and exposing the country to danger. It works the same in any country.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Hermann Goering
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>I wonder if there's a single place in the whole world that's never had a story. I bet not. I just about guarantee you there's no places like that in America. Every little square of it, every place you stomp your foot, that's where something happened. Something wild, maybe something nobody knows about, but something. You can fall out of the sky and right into some forgotten storybook.</p>
 			<p>You run and run and run and you keep turning pages and none of them are empty. They're all full of stories. There's nowhere left to write.</p>
 			<p>I think I'm just a bookmark.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Jon Bois, <em>17776: What football will look like in the future</em>
+		</figcaption>
+	</figure>
+		<figure>
+		<blockquote class="pullquote">
+			<p>Stories save your life. And stories are your life. We are our stories, stories that can be both prison and the crowbar to break open the door to that prison; we make stories to save ourselves or to trap ourselves or others, stories that lift us up or smash us against the stone wall of our own limits and fears. Liberation is always in part a storytelling process: breaking stories, breaking silences, making new stories…</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Rebecca Solnit
 		</figcaption>
 	</figure>
 	<figure>
@@ -822,6 +944,14 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			John Koenig, <em>The Dictionary of Obscure Sorrows</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The recipe is not the cake.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Proverb
 		</figcaption>
 	</figure>
 	<figure>
