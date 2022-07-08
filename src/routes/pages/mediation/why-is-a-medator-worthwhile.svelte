@@ -6,15 +6,15 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
-	<meta name="description" content="" />
+	<title>Why is a mediator worthwhile?</title>
+	<meta name="description" content="What is mediation?" />
 </svelte:head>
 
 <div class="content">
-	<h3>Title</h3>
-	<p>
-		Body
-	</p>
+	<h1>Why is it worthwhile to involve a mediator?</h1>
+	
+	<p>Hosts a faster less expensive and more satisfactory experience.</p>
+	
 </div>
 
 <style>
