@@ -123,7 +123,7 @@ the very complex.</p>
 			<p>Our lives begin to end the day we become silent about things that matter.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Martin Luther King, Jr.
+			Dr. Martin Luther King, Jr.
 		</figcaption>
 	</figure>
 	<figure>
@@ -804,6 +804,18 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>We will have to repent in this generation not merely for the vitriolic words or actions of the bad people, but for the appalling silence of the good people. We must come to see that human progress never rolls in on wheels of inevitability. It comes through the tireless efforts and persistent work of men … and without this hard work time itself becomes an ally of the forces of social stagnation. We must use time creatively, and forever realize that the time is always ripe to do right.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Dr. Martin Luther King, Jr.
+		</figcaption>
+	</figure>
+	
+	
+
+
+	<figure>
+		<blockquote class="pullquote">
 			<p>True justice is paying only once for each mistake.  True injustice is paying more than once for each mistake.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -905,6 +917,66 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Hermann Goering
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Words like ‘freedom,’ ‘justice,’ and ‘democracy’ are not common concepts; on the contrary, they are rare. People are not born knowing what these are. It takes enormous, and above all, individual effort to arrive at the respect for other people that these words	imply.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			James Baldwin
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Democracy must be something more than two wolves and a sheep voting on what to
+	have for dinner.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			James Bovard
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Direct government as at present generally understood is a mere phantom of
+	democracy. Democracy is not a sum in addition. Democracy is not brute numbers; it is
+	a genuine union of true individuals.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Mary Parker Follett
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Deep democracy is what justice looks like in practice.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Cornel West
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>We may have democracy, or we may have wealth concentrated in the hands of a few,
+	but we can’t have both.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Justice Louis Brandeis
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The fire, the energy, and the life of democracy is popular pressure. Democracy itself is a government constantly responding to continuous pressures of its people. The only hope for democracy is that more people and more groups will become articulate and exert pressure upon their government … Can man envisage a more sublime program on earth than the people having faith in their fellow men and themselves? A program of co-operation instead of competition? This, then, is the job ahead …</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Saul Alinsky
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>If voting made any difference they wouldn't let us do it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Mark Twain
 		</figcaption>
 	</figure>
 	<figure>
