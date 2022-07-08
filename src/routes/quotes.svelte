@@ -63,6 +63,30 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>If you cry, 'Forward!' you must be sure to make clear the direction in which to go. Don't you see that if you fail to do that and simply call out the word to a monk and a revolutionary, they will go in precisely	opposite directions?</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Anton Chekhov
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>People don't resist change. They resist being changed.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Peter Senge
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Everyone wants to change the world, but no one wants to start with themselves.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Leo Tolstoy
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Like lost children we live our unfinished adventures.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -800,6 +824,14 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Carl Rogers, <em>Person to person</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It must be considered that there is nothing more difficult to carry out, nor more doubtful of success, nor more dangerous to handle, than to initiate a new order of things. For the reformer has enemies in all those that profit by the old order, and only lukewarm defenders in all those who would profit by the new order, this lukewarmness arising...partly from the incredulity of mankind, who do not truly believe in anything new until they have had actual experience of it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Niccolo Machiavelli
 		</figcaption>
 	</figure>
 	<figure>
