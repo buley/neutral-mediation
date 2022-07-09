@@ -7,14 +7,14 @@
 </script>
 
 <svelte:head>
-	<title>Neutrals</title>
+	<title>Neutral</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Neutrals</h1>
+	<h1>Neutral</h1>
 	
-	<h3>Neutral Bio</h3>
+	<h3>Bio</h3>
 
 	<figure class="headshot">
 		<img src="{headshot}" alt="Headshot of Taylor Buley.">
