@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>How to involve a mediator</title>
+	<title>How To Involve a Neutral</title>
 	<meta name="description" content="How to involve a mediator" />
 </svelte:head>
 
 <div class="content">
-	<h1>How to involve a mediator</h1>
+	<h1>How To Involve a Neutral</h1>
 	
 	<p>Mediators aren’t licensed. Mediations not legally binding by default.&nbsp;Mediation acts in a dozen states.</p>
 	
