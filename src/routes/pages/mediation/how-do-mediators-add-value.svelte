@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<title>How do mediators add value?</title>
-	<meta name="description" content="What is mediation?" />
+	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">

@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<title>Benefits of Mediation</title>
-	<meta name="description" content="What is mediation?" />
+	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
