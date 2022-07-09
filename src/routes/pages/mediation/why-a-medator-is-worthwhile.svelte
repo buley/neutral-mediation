@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Why is it worthwhile to involve a mediator?</h1>
+	<h1>Why a Mediator Is Worthwhile</h1>
 	
 	<p>Hosts a faster less expensive and more satisfactory experience.</p>
 	

@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>How do mediators add value?</title>
+	<title>How Mediators Add Value</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>How do mediators add value?</h1>
+	<h1>How Mediators Add Value</h1>
 	
 	<h4>Creates a safe place to speak and be heard.</h4>
 

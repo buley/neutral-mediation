@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>Example Coaching Scenarios</title>
+	<title>Example Conflict Coaching Scenarios</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Example Coaching Scenarios</h1>
+	<h1>Example Conflict Coaching Scenarios</h1>
 
 	<p>Here are common problem areas where conflict coaching can help:</p>
 

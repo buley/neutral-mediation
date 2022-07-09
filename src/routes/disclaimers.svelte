@@ -13,7 +13,8 @@
 <div class="content">
 	<h1>Disclaimers</h1>
 	<p>
-		Neutral Mediation offers <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a> and conflict <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a>. It does <em>not</em> in any way offer any legal advice or therapy. In fact, Neutral Mediation aims to decrease the demand for therapy and legal services. It works with a fastidious understanding of human behavior and American dispute resolution law, but believes in the possibility of a idyllic world that has no need for therapists and lawyers. Neutral Mediation does not want to take the place of a lawyer or doctor, professionals that are necessary in certain situations to stem and heal the trauma of conflict; rather, it wants to reduce the demand for these professionals' services by solving the systemic disputes that create conflict in the first place.
+		Neutral Mediation offers <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a> and conflict <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a>. It does <em>not</em> in any way offer any legal advice or therapy.</p>
+		<p>In fact, while Neutral Mediation works with a fastidious understanding of human behavior and American dispute resolution law, it believes in the possibility of a idyllic world that has no need for therapists and lawyers. Neutral Mediation does not want to take the place of a lawyer or doctor, professionals that are necessary in certain situations to stem and heal the trauma of conflict; rather, it wants to reduce the demand for these professionals' services by solving the conflict that creates this trauma in the first place.
 	</p>
 	<h3><em>Not</em> a Lawyer</h3>
 	<p>

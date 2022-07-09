@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>What Is Mediation?</title>
+	<title>What Mediation Is</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>What Is Mediation?</h1>
+	<h1>What Mediation Is</h1>
 	<p>
 		Mediation is the art of problem-solving: a structured dispute resolution process that creates a safe setting for adults to brainstorm creative and mutually workable solutions to the problems that keep them from otherwise moving forward in life. Using collaborative conflict, a mediator facilitates a mediation to help participants find peaceful resolutions, fast. Mediation is less formal than alternative methods of dispute resolution, such as arbitration and litigation, and usually takes one day or less to find an agreeable solution.
 	</p>

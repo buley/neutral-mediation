@@ -27,6 +27,15 @@
 
 	<p>Taylor explains Neutral Mediation’s practice and style in the mission and culture statements below. He also wants you to know about Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> <a href="/process">processes</a> in detail.</p>
 
+	<h4>More Information</h4>
+
+	<ul>
+		<li><a href="/pages/mediation/who-mediators-are">Who Mediators Are</a></li>
+		<li><a href="/pages/mediation/how-to-involve-a-neutral">How to Unvolve a Mediator</a></li>
+		<li><a href="/pages/mediation/how-mediators-add-value">How Mediators Add Value</a></li>
+		<li><a href="/pages/mediation/what-a-mediator-does">What a Mediator Does</a></li>
+		<li><a href="/pages/mediation/how-mediators-add-value">Why a Mediator Is Worthwhile</a></li>
+	</ul>
 </div>
 
 <style>

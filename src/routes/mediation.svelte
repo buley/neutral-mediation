@@ -1,16 +1,7 @@
 <script context="module">
 	import { browser, dev } from '$app/env';
-
-	// we don't need any JS on this page, though we'll load
-	// it in dev so that we get hot module replacement...
 	export const hydrate = dev;
-
-	// ...but if the client-side router is already loaded
-	// (i.e. we came here from elsewhere in the app), use it
 	export const router = browser;
-
-	// since there's no dynamic data here, we can prerender
-	// it so that it gets served as a static asset in prod
 	export const prerender = true;
 </script>
 
@@ -53,11 +44,19 @@
 	<h3>More Information</h3>
 
 	<ul>
-		<li><a href="/pages/mediation/what-is-mediation">What is mediation?</li>
-		<li><a href="/pages/mediation/benefits-of-mediation">Benefits of mediation</li>
-		<li><a href="/pages/mediation/example-mediation-scenarios">Example mediation scenarios</li>
-		<li><a href="/pages/mediation/pillars-of-mediation">Pillars of mediation</li>
-		<li><a href="/pages/mediation/limits-of-mediation">Limits of mediation</li>
+		<li><a href="/pages/mediation/what-mediation-is">What Mediation Is</a></li>
+		<li><a href="/pages/mediation/benefits-of-mediation">Benefits of Mediation</a></li>
+		<li><a href="/pages/mediation/mediation-confidentiality">Mediation Confidentiality</a></li>
+		<li><a href="/pages/mediation/mediation-law">Mediation Law</a></li>
+		<li><a href="/pages/mediation/example-mediation-scenarios">Example Mediation Scenarios</a></li>
+		<li><a href="/pages/mediation/pillars-of-mediation">Pillars of Mediation</a></li>
+		<li><a href="/pages/mediation/limits-of-mediation">Limits of Mediation</a></li>
+		<li><a href="/pages/mediation/mediation-process">Mediation Process</a></li>
+		<li><a href="/pages/mediation/who-mediators-are">Who Mediators Are</a></li>
+		<li><a href="/pages/mediation/how-to-involve-a-neutral">How to Unvolve a Mediator</a></li>
+		<li><a href="/pages/mediation/how-mediators-add-value">How Mediators Add Value</a></li>
+		<li><a href="/pages/mediation/what-a-mediator-does">What a Mediator Does</a></li>
+		<li><a href="/pages/mediation/how-mediators-add-value">Why a Mediator Is Worthwhile</a></li>
 	</ul>
 
 </div>

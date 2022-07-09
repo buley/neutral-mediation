@@ -21,16 +21,21 @@
 		Coaching can help you be more positive and reduce negative emotions. It empowers you to feel more confident and make hard more decisions more rationally. With the help of a third-party, you can learn to minimize anxiety and worrying, stop self-sabotaging behaviors, and end procrastination. Manage anger and cope with stressful emotions better under the help and accountability of a trained coaching professional dedicated to your progress.
 	</p>
 
-	<h2>More Information</h2>
+	<h2>Our Services</h2>
+
+	<h3>Coaching Sessions</h3>
+
+	<p>Neutral-led virtual coaching session. <em>One hour sessions cost $175 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/e22010b4-e7df-49d8-a1db-0355e57895eb">Click here to book a mediation session</a>.</p>
+	<h3>More Information</h3>
 
 	<ul>
-		<li a href="/pages/coaching/what-is-conflict-coaching">What Is Conflict Coaching?</li>
-		<li a href="/pages/coaching/benefits-of-conflict-coaching">Benefits of Conflict Coaching</li>
-		<li a href="/pages/coaching/example-conflict-coaching-scenarios">Example Conflict Coaching Scenarios</li>
-		<li a href="/pages/coaching/limitations-of-conflict-coaching">Limitations of Conflict Coaching</li>
-		<li a href="/pages/coaching/pillars-of-conflict-coaching">Pillars of Conflict Coaching</li>
+		<li><a href="/pages/coaching/what-is-conflict-coaching">What Conflict Coaching Is</a></li>
+		<li><a href="/pages/coaching/benefits-of-conflict-coaching">Benefits of Conflict Coaching</a></li>
+		<li><a href="/pages/coaching/example-conflict-coaching-scenarios">Example Conflict Coaching Scenarios</a></li>
+		<li><a href="/pages/coaching/limitations-of-conflict-coaching">Limitations of Conflict Coaching</a></li>
+		<li><a href="/pages/coaching/pillars-of-conflict-coaching">Pillars of Conflict Coaching</a></li>
+		<li><a href="/pages/coaching/conflict-coaching-process">Conflict Coaching Process</a></li>
 	</ul>
-
 
 </div>
 

@@ -6,14 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>What does a mediator do?</title>
+	<title>What A Mediator Does</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>What does a mediator do?</h1>
-		<h3>What does a mediator do?</h3>
-
+	<h1>What A Mediator Does</h1>
 	
 	<p>A mediator fixes problems through "The 3 E's" — education, empathy and empowerment.</p>
 
