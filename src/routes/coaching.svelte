@@ -25,7 +25,8 @@
 
 	<h3>Coaching Sessions</h3>
 
-	<p>Neutral-led virtual coaching session. <em>One hour sessions cost $175 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/class/e22010b4-e7df-49d8-a1db-0355e57895eb">Click here to book a mediation session</a>.</p>
+	<p>Neutral-led virtual conflict coaching session. <em>One hour sessions cost $175 per participant.</em> <a href="https://booking.setmore.com/scheduleappointment/825a522f-34f5-4a37-98e1-668e1788cb07/services/4785a25f-b9e0-44d4-828d-40ec2236c7d0">Click here to book a conflict coaching session</a>.</p>
+
 	<h3>More Information</h3>
 
 	<ul>
