@@ -25,7 +25,7 @@
 
 	<p>He's been proselytizing peacemaking through peer mediation since 1998. He's a life coach with certification in CBT, REBT and forgiveness. He's also a meditation and breathing instructor. Read his <a href="/resume">Resume</a> to see Taylor’s professional background as a journalist and software developer and work as a technology executive at a mid-sized, multimillion-dollar media company.</p>
 
-	<p>Taylor explains Neutral Mediation’s practice and style in the mission and culture statements below. He also wants you to know about Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> <a href="/process">processes</a> in detail.</p>
+	<p>Taylor explains Neutral Mediation’s practice and style in the mission and culture statements below. He also wants you to know about Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> <a href="/process">processes</a> in detail.</p>
 
 	<h4>More Information</h4>
 
