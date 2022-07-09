@@ -128,6 +128,8 @@
     "./assets/email-icon.svg": "./assets/email-icon.svg",
     "./assets/email.png": "./assets/email.png",
     "./assets/email.svg": "./assets/email.svg",
+    "./assets/headshot.jpeg": "./assets/headshot.jpeg",
+    "./assets/headshot.webp": "./assets/headshot.webp",
     "./assets/home-01.svg": "./assets/home-01.svg",
     "./assets/home-icon.svg": "./assets/home-icon.svg",
     "./assets/home.jpg": "./assets/home.jpg",
@@ -154,20 +156,7 @@
     "./assets/shutterstock_1644904228.jpg": "./assets/shutterstock_1644904228.jpg",
     "./assets/training.ai": "./assets/training.ai",
     "./assets/training2.ai": "./assets/training2.ai",
-    "./form": "./form.js",
     "./header/.DS_Store": "./header/.DS_Store",
-    "./header/ClearIcon.png": "./header/ClearIcon.png",
-    "./header/ClearIcon.svg": "./header/ClearIcon.svg",
-    "./header/ClearIcon64.png": "./header/ClearIcon64.png",
-    "./header/Header.svelte": "./header/Header.svelte",
-    "./header/Icon.png": "./header/Icon.png",
-    "./header/Icon.svg": "./header/Icon.svg",
-    "./header/Icon@10x.png": "./header/Icon@10x.png",
-    "./header/home-01.svg": "./header/home-01.svg",
-    "./header/home-icon.svg": "./header/home-icon.svg",
-    "./header/home.png": "./header/home.png",
-    "./header/home.svg": "./header/home.svg",
-    "./header/house.svg": "./header/house.svg",
-    "./header/menu-icon.svg": "./header/menu-icon.svg"
+    "./header/Header.svelte": "./header/Header.svelte"
   }
 }

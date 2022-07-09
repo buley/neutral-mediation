@@ -1,6 +1,6 @@
 <script>import { page } from '$app/stores';
-import logo from './ClearIcon64.png';
-import home from './home.png';
+import logo from '../assets/ClearIcon64.png';
+import home from '../assets/home.png';
 import calendar from '../assets/calendar.svg';
 import phone from '../assets/phone.svg';
 import email from '../assets/mouse.svg';
