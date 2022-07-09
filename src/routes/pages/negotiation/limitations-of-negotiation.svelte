@@ -11,9 +11,9 @@
 </svelte:head>
 
 <div class="content">
-	<h3>In The Press</h3>
+	<h3>Title</h3>
 	<p>
-		<em>Neutrals are available for comment on the topics of communication, negotiation, mediation and arbitration. For press inquiries, please contact <a href="mailto:info@neutrals.io">info@neturals.io</a>.</em>
+		Body
 	</p>
 </div>
 

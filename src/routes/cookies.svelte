@@ -15,6 +15,10 @@
 
 	<h6 class="has-text-align-center">Last updated: September 10, 2021</h6>
 
+	<p>This is a Cookies Policy, which explains how Neutral Mediation, and the Internet services it employs, use cookies. Cookies are a browser-based storage tools that helps service remember who you are. This disclosure is required in some states.</p>
+
+	<p>Commence legalese.</p>
+
 	<p>This Cookies Policy explains what Cookies are and how We use them. You should read this policy so You can understand what type of cookies We use, or the information We collect using Cookies and how that information is used.</p>
 
 	<p>Cookies do not typically contain any information that personally identifies a user, but personal information that we store about You may be linked to the information stored in and obtained from Cookies. For further information on how We use, store and keep your personal data secure, see our Privacy Policy.</p>

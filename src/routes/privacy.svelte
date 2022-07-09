@@ -6,14 +6,28 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Privacy Policy</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
 	<h1>Privacy Policy</h1>
-
 	<h6 class="has-text-align-center">Last updated: September 10, 2021</h6>
+
+	<p>This is a privacy policy, which governs usage of the data stream created by your usage of our website. For information about customer privacy, see these links:</p>
+	<ul>
+		<li>
+			<a href="/pages/mediation/mediation-confidentiality">Mediation Confidentiality</a>
+		</li>
+		<li>
+			<a href="/security">Public PGP Key</a>
+		</li>
+		<li>
+			<a href="/security">Information Security</a>
+		</li>
+	</ul>
+
+	<p>Commence the legalese.</p>
 
 	<p>This Privacy Policy describes Neutral Mediation's policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 

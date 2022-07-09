@@ -6,14 +6,14 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>What Is Negotiation?</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h3>In The Press</h3>
+	<h3>What Is Negotiation?</h3>	
 	<p>
-		<em>Neutrals are available for comment on the topics of communication, negotiation, mediation and arbitration. For press inquiries, please contact <a href="mailto:info@neutrals.io">info@neturals.io</a>.</em>
+		Negotiation is the most informal of dispute resolution practices, offering fewer established processes, rules and constraints as compared to <a href="/mediation">mediation</a>, arbitration and <a href="/disclaimers">litigation</a>.
 	</p>
 </div>
 

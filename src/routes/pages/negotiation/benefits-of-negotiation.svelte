@@ -6,14 +6,14 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Benefits of Negotiation</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h3>In The Press</h3>
+	<h3>Benefits of Negotiation</h3>
 	<p>
-		<em>Neutrals are available for comment on the topics of communication, negotiation, mediation and arbitration. For press inquiries, please contact <a href="mailto:info@neutrals.io">info@neturals.io</a>.</em>
+		Negotiation allows for quick and inexpensive dispute resolution. It allows maximium room for creative solutions and empowers participants to determine their own settlements. The process provides maximum agency and interest-based bargaining creates the opportunity for win-win mutual gain, even if at the risk of lose-lose mutual loss.
 	</p>
 </div>
 

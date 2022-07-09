@@ -140,6 +140,12 @@
 
 	<p class="has-text-align-center has-foreground-light-color has-text-color"><em>Neutral Mediation offers free mediation training to community volunteers. See our <a href="https://neutrals.io/documents/training-request-form/">Training Request Form</a> for eligibility requirements and to sign up.</em></p>
 
+	<h4>More Information</h4>
+	<ul>
+	    <li>
+			<a href="/availability">Availability</a>
+		</li>
+	</ul>
 
 </div>
 

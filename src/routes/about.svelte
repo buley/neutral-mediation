@@ -24,14 +24,6 @@
 
 	<p>Taylor Buley founded Neutral Mediation in 2021 in response to increasing acrimony in the public sphere. Doing business as Neutral Mediation, he practices as a third-party neutral and offers mediation, negotiation, consulting, training and coaching services that minimize the trauma, expense and time associated with solving complex conflict.</p>
 
-	<h3>Neutral Bio</h3>
-
-	<p>Taylor studied human choice and behavior in the Ivy League and has an undergraduate degree in Philosophy, Politics & Economics from Penn. He received a master’s degree in Communications from Stanford and studies at Pepperdine University’s Caruso School of Law, pursuing a master’s degree in Dispute Resolution.</p>
-
-	<p>He's been proselytizing peacemaking through peer mediation since 1998. He's a life coach with certification in CBT, REBT and forgiveness. He's also a meditation and breathing instructor. Read his <a href="/resume">Resume</a> to see Taylor’s professional background as a journalist and software developer and work as a technology executive at a mid-sized, multimillion-dollar media company.</p>
-
-	<p>Taylor explains Neutral Mediation’s practice and style in the mission and culture statements below. He also wants you to know about Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> <a href="/process">processes</a> in detail.</p>
-
 	<h2>Our Values</h2>
 
 	<h3>Mission Statement</h3>
@@ -49,6 +41,13 @@
 	<p>Neutral Mediation encourages people to be friendly and empathetic, honest and direct, trustworthy, energetic, prepared, composed, positive and civilized. It believes in brainstorming, open-minds and the strengthening of communication through listening and storytelling. It believes in the power of emotional vulnerability to transform disputes. It believes not just that a neutral’s words matter and should be used only necessarily, but that her word matters and should be indefatigably trustworthy.</p>
 
 	<p><em>Neutral Mediation’s EIN is 87-2105551. <a href="/w9">Click here for a downloadable W-9</a>.</em></p>
+
+	<h4>More Information</h4>
+
+	<ul>
+		<li><a href="/news">News</a></li>
+		<li><a href="/press">In The Press</a></li>
+	</ul>
 
 </div>
 
