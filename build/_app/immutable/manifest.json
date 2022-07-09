@@ -1,10 +1,11 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-37977476.js",
+    "file": "start-285648a8.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-5c824dc4.js"
+      "_index-293886de.js",
+      "_preload-helper-60cab3ee.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
@@ -16,35 +17,82 @@
       "src/routes/consulting.svelte",
       "src/routes/contact.svelte",
       "src/routes/cookies.svelte",
+      "src/routes/disclaimers.svelte",
       "src/routes/documents.svelte",
       "src/routes/ethics.svelte",
       "src/routes/index.svelte",
+      "src/routes/key.svelte",
       "src/routes/mediation.svelte",
+      "src/routes/negotiation.svelte",
+      "src/routes/neutrals.svelte",
       "src/routes/news.svelte",
-      "src/routes/practices.svelte",
+      "src/routes/pages/coaching/acceptance.svelte",
+      "src/routes/pages/coaching/apology.svelte",
+      "src/routes/pages/coaching/benefits-of-conflict-coaching.svelte",
+      "src/routes/pages/coaching/breathwork.svelte",
+      "src/routes/pages/coaching/cbt.svelte",
+      "src/routes/pages/coaching/conflict-coaching-process.svelte",
+      "src/routes/pages/coaching/emotions.svelte",
+      "src/routes/pages/coaching/example-conflict-coaching-scenarios.svelte",
+      "src/routes/pages/coaching/forgiveness.svelte",
+      "src/routes/pages/coaching/gratitude.svelte",
+      "src/routes/pages/coaching/humility.svelte",
+      "src/routes/pages/coaching/limitations-of-conflict-coaching.svelte",
+      "src/routes/pages/coaching/meditation.svelte",
+      "src/routes/pages/coaching/mindset-assessment.svelte",
+      "src/routes/pages/coaching/pillars-of-conflict-coaching.svelte",
+      "src/routes/pages/coaching/rebt.svelte",
+      "src/routes/pages/coaching/relationships.svelte",
+      "src/routes/pages/coaching/what-is-conflict-coaching.svelte",
+      "src/routes/pages/mediation/benefits-of-mediation.svelte",
+      "src/routes/pages/mediation/example-mediation-provisions.svelte",
+      "src/routes/pages/mediation/example-mediation-scenarios.svelte",
+      "src/routes/pages/mediation/how-mediators-add-value.svelte",
+      "src/routes/pages/mediation/how-to-involve-a-neutral.svelte",
+      "src/routes/pages/mediation/limits-of-mediation.svelte",
+      "src/routes/pages/mediation/mediation-best-practices.svelte",
+      "src/routes/pages/mediation/mediation-confidentiality.svelte",
+      "src/routes/pages/mediation/mediation-law.svelte",
+      "src/routes/pages/mediation/mediation-process.svelte",
+      "src/routes/pages/mediation/pillars-of-mediation.svelte",
+      "src/routes/pages/mediation/what-a-mediator-does.svelte",
+      "src/routes/pages/mediation/what-mediation-is.svelte",
+      "src/routes/pages/mediation/who-mediators-are.svelte",
+      "src/routes/pages/mediation/why-a-medator-is-worthwhile.svelte",
+      "src/routes/pages/negotiation/benefits-of-negotiation.svelte",
+      "src/routes/pages/negotiation/example-negotiation-scenarios.svelte",
+      "src/routes/pages/negotiation/limitations-of-negotiation.svelte",
+      "src/routes/pages/negotiation/pillars-of-negotiation.svelte",
+      "src/routes/pages/negotiation/what-is-negotiation.svelte",
+      "src/routes/pages/quotes.svelte",
       "src/routes/press.svelte",
       "src/routes/prices.svelte",
       "src/routes/privacy.svelte",
       "src/routes/recusal.svelte",
       "src/routes/refunds.svelte",
       "src/routes/resume.svelte",
-      "src/routes/template.svelte",
-      "src/routes/terms.svelte"
+      "src/routes/security.svelte",
+      "src/routes/terms.svelte",
+      "src/routes/thanks.svelte",
+      "src/routes/training.svelte",
+      "src/routes/w9.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-ffa56d83.js",
+    "file": "pages/__layout.svelte-3cf27987.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js"
+      "_index-293886de.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-f9fa8888.css"
+      "assets/pages/__layout.svelte-7c6501f2.css"
     ],
     "assets": [
       "assets/calendar-07d24ffd.svg",
+      "assets/phone-f95f4186.svg",
+      "assets/email-icon-7dd35e0b.svg",
       "assets/open-sans-cyrillic-ext-400-normal-df8fd002.woff2",
       "assets/open-sans-all-400-normal-82a8e0e7.woff",
       "assets/open-sans-cyrillic-400-normal-7f96afbe.woff2",
@@ -61,294 +109,896 @@
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-f5646c60.js",
+    "file": "error.svelte-1a8ce1db.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js"
+      "_index-293886de.js"
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-9a20e256.js",
+    "file": "pages/about.svelte-bcc0b34f.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
+      "_headshot-fd603b8e.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/availability.svelte": {
-    "file": "pages/availability.svelte-d6663457.js",
+    "file": "pages/availability.svelte-f254a71a.js",
     "src": "src/routes/availability.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/cancellation.svelte": {
-    "file": "pages/cancellation.svelte-6f2e39d1.js",
+    "file": "pages/cancellation.svelte-8ebb48c0.js",
     "src": "src/routes/cancellation.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/coaching.svelte": {
-    "file": "pages/coaching.svelte-5f5a00ca.js",
+    "file": "pages/coaching.svelte-2233eac6.js",
     "src": "src/routes/coaching.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/consulting.svelte": {
-    "file": "pages/consulting.svelte-705a75d8.js",
+    "file": "pages/consulting.svelte-39230ac6.js",
     "src": "src/routes/consulting.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/contact.svelte": {
-    "file": "pages/contact.svelte-89f6ffc1.js",
+    "file": "pages/contact.svelte-ebce8b4a.js",
     "src": "src/routes/contact.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/contact.svelte-e76ff757.css"
     ]
   },
   "src/routes/cookies.svelte": {
-    "file": "pages/cookies.svelte-167196b6.js",
+    "file": "pages/cookies.svelte-d5a50363.js",
     "src": "src/routes/cookies.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/disclaimers.svelte": {
+    "file": "pages/disclaimers.svelte-60ddec4c.js",
+    "src": "src/routes/disclaimers.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/documents.svelte": {
-    "file": "pages/documents.svelte-25c519b9.js",
+    "file": "pages/documents.svelte-cbfa48a7.js",
     "src": "src/routes/documents.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/ethics.svelte": {
-    "file": "pages/ethics.svelte-44f22b31.js",
+    "file": "pages/ethics.svelte-1f4803c9.js",
     "src": "src/routes/ethics.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-076615c4.js",
+    "file": "pages/index.svelte-75e5d220.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js"
-    ],
-    "css": [
-      "assets/pages/index.svelte-a094c2c8.css"
+      "_index-293886de.js"
     ],
     "assets": [
-      "assets/neutral-logo-trans-crop-17c5dfeb.svg",
-      "assets/anonymous-couple-talking-f02a249f.webp"
+      "assets/calendar-accent-17cdab68.svg",
+      "assets/anonymous-couple-talking-f02a249f.webp",
+      "assets/neutral-logo-trans-crop-5fcfa63b.svg"
+    ]
+  },
+  "src/routes/key.svelte": {
+    "file": "pages/key.svelte-5d192d1e.js",
+    "src": "src/routes/key.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/mediation.svelte": {
-    "file": "pages/mediation.svelte-93c7988f.js",
+    "file": "pages/mediation.svelte-9260db92.js",
     "src": "src/routes/mediation.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/negotiation.svelte": {
+    "file": "pages/negotiation.svelte-da956a95.js",
+    "src": "src/routes/negotiation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/neutrals.svelte": {
+    "file": "pages/neutrals.svelte-b0906888.js",
+    "src": "src/routes/neutrals.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_headshot-fd603b8e.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/news.svelte": {
-    "file": "pages/news.svelte-7b2eaa2b.js",
+    "file": "pages/news.svelte-c821ef08.js",
     "src": "src/routes/news.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_preload-helper-60cab3ee.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
+    "dynamicImports": [
+      "_index-88393751.js"
+    ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
-  "src/routes/practices.svelte": {
-    "file": "pages/practices.svelte-d57e8dd2.js",
-    "src": "src/routes/practices.svelte",
+  "src/routes/pages/coaching/acceptance.svelte": {
+    "file": "pages/pages/coaching/acceptance.svelte-acec96dd.js",
+    "src": "src/routes/pages/coaching/acceptance.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/apology.svelte": {
+    "file": "pages/pages/coaching/apology.svelte-bfa4c62b.js",
+    "src": "src/routes/pages/coaching/apology.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/benefits-of-conflict-coaching.svelte": {
+    "file": "pages/pages/coaching/benefits-of-conflict-coaching.svelte-69e1748a.js",
+    "src": "src/routes/pages/coaching/benefits-of-conflict-coaching.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/breathwork.svelte": {
+    "file": "pages/pages/coaching/breathwork.svelte-e200c015.js",
+    "src": "src/routes/pages/coaching/breathwork.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/cbt.svelte": {
+    "file": "pages/pages/coaching/cbt.svelte-bbdca933.js",
+    "src": "src/routes/pages/coaching/cbt.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/conflict-coaching-process.svelte": {
+    "file": "pages/pages/coaching/conflict-coaching-process.svelte-b5817c71.js",
+    "src": "src/routes/pages/coaching/conflict-coaching-process.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/emotions.svelte": {
+    "file": "pages/pages/coaching/emotions.svelte-9cd04b5d.js",
+    "src": "src/routes/pages/coaching/emotions.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/example-conflict-coaching-scenarios.svelte": {
+    "file": "pages/pages/coaching/example-conflict-coaching-scenarios.svelte-123be044.js",
+    "src": "src/routes/pages/coaching/example-conflict-coaching-scenarios.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/forgiveness.svelte": {
+    "file": "pages/pages/coaching/forgiveness.svelte-0131976a.js",
+    "src": "src/routes/pages/coaching/forgiveness.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/gratitude.svelte": {
+    "file": "pages/pages/coaching/gratitude.svelte-18819c82.js",
+    "src": "src/routes/pages/coaching/gratitude.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/humility.svelte": {
+    "file": "pages/pages/coaching/humility.svelte-e1b1bd1c.js",
+    "src": "src/routes/pages/coaching/humility.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/limitations-of-conflict-coaching.svelte": {
+    "file": "pages/pages/coaching/limitations-of-conflict-coaching.svelte-cf1fc8f5.js",
+    "src": "src/routes/pages/coaching/limitations-of-conflict-coaching.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/meditation.svelte": {
+    "file": "pages/pages/coaching/meditation.svelte-ac04ced2.js",
+    "src": "src/routes/pages/coaching/meditation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/mindset-assessment.svelte": {
+    "file": "pages/pages/coaching/mindset-assessment.svelte-43b9eb95.js",
+    "src": "src/routes/pages/coaching/mindset-assessment.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/pillars-of-conflict-coaching.svelte": {
+    "file": "pages/pages/coaching/pillars-of-conflict-coaching.svelte-6a4c4a13.js",
+    "src": "src/routes/pages/coaching/pillars-of-conflict-coaching.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/rebt.svelte": {
+    "file": "pages/pages/coaching/rebt.svelte-cbd98596.js",
+    "src": "src/routes/pages/coaching/rebt.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/relationships.svelte": {
+    "file": "pages/pages/coaching/relationships.svelte-9d636969.js",
+    "src": "src/routes/pages/coaching/relationships.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/coaching/what-is-conflict-coaching.svelte": {
+    "file": "pages/pages/coaching/what-is-conflict-coaching.svelte-798e3db9.js",
+    "src": "src/routes/pages/coaching/what-is-conflict-coaching.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/benefits-of-mediation.svelte": {
+    "file": "pages/pages/mediation/benefits-of-mediation.svelte-f9969b91.js",
+    "src": "src/routes/pages/mediation/benefits-of-mediation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/example-mediation-provisions.svelte": {
+    "file": "pages/pages/mediation/example-mediation-provisions.svelte-368ec630.js",
+    "src": "src/routes/pages/mediation/example-mediation-provisions.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/example-mediation-scenarios.svelte": {
+    "file": "pages/pages/mediation/example-mediation-scenarios.svelte-bd544ff7.js",
+    "src": "src/routes/pages/mediation/example-mediation-scenarios.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/how-mediators-add-value.svelte": {
+    "file": "pages/pages/mediation/how-mediators-add-value.svelte-851a3c68.js",
+    "src": "src/routes/pages/mediation/how-mediators-add-value.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/how-to-involve-a-neutral.svelte": {
+    "file": "pages/pages/mediation/how-to-involve-a-neutral.svelte-5d206355.js",
+    "src": "src/routes/pages/mediation/how-to-involve-a-neutral.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/limits-of-mediation.svelte": {
+    "file": "pages/pages/mediation/limits-of-mediation.svelte-85512c6a.js",
+    "src": "src/routes/pages/mediation/limits-of-mediation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/mediation-best-practices.svelte": {
+    "file": "pages/pages/mediation/mediation-best-practices.svelte-458de03a.js",
+    "src": "src/routes/pages/mediation/mediation-best-practices.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/mediation-confidentiality.svelte": {
+    "file": "pages/pages/mediation/mediation-confidentiality.svelte-fc3fd279.js",
+    "src": "src/routes/pages/mediation/mediation-confidentiality.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/mediation-law.svelte": {
+    "file": "pages/pages/mediation/mediation-law.svelte-e4550fc5.js",
+    "src": "src/routes/pages/mediation/mediation-law.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/mediation-process.svelte": {
+    "file": "pages/pages/mediation/mediation-process.svelte-6eb9c73d.js",
+    "src": "src/routes/pages/mediation/mediation-process.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/pillars-of-mediation.svelte": {
+    "file": "pages/pages/mediation/pillars-of-mediation.svelte-baf961c8.js",
+    "src": "src/routes/pages/mediation/pillars-of-mediation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/what-a-mediator-does.svelte": {
+    "file": "pages/pages/mediation/what-a-mediator-does.svelte-87e532e5.js",
+    "src": "src/routes/pages/mediation/what-a-mediator-does.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/what-mediation-is.svelte": {
+    "file": "pages/pages/mediation/what-mediation-is.svelte-bdc678b2.js",
+    "src": "src/routes/pages/mediation/what-mediation-is.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/who-mediators-are.svelte": {
+    "file": "pages/pages/mediation/who-mediators-are.svelte-29dca4ef.js",
+    "src": "src/routes/pages/mediation/who-mediators-are.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/mediation/why-a-medator-is-worthwhile.svelte": {
+    "file": "pages/pages/mediation/why-a-medator-is-worthwhile.svelte-89fbf1ec.js",
+    "src": "src/routes/pages/mediation/why-a-medator-is-worthwhile.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/negotiation/benefits-of-negotiation.svelte": {
+    "file": "pages/pages/negotiation/benefits-of-negotiation.svelte-c753f98e.js",
+    "src": "src/routes/pages/negotiation/benefits-of-negotiation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/negotiation/example-negotiation-scenarios.svelte": {
+    "file": "pages/pages/negotiation/example-negotiation-scenarios.svelte-1cc4bc31.js",
+    "src": "src/routes/pages/negotiation/example-negotiation-scenarios.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/negotiation/limitations-of-negotiation.svelte": {
+    "file": "pages/pages/negotiation/limitations-of-negotiation.svelte-c9ddfc46.js",
+    "src": "src/routes/pages/negotiation/limitations-of-negotiation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/negotiation/pillars-of-negotiation.svelte": {
+    "file": "pages/pages/negotiation/pillars-of-negotiation.svelte-3811cc68.js",
+    "src": "src/routes/pages/negotiation/pillars-of-negotiation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/negotiation/what-is-negotiation.svelte": {
+    "file": "pages/pages/negotiation/what-is-negotiation.svelte-d5be7b49.js",
+    "src": "src/routes/pages/negotiation/what-is-negotiation.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/pages/quotes.svelte": {
+    "file": "pages/pages/quotes.svelte-d38edbb4.js",
+    "src": "src/routes/pages/quotes.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/press.svelte": {
-    "file": "pages/press.svelte-800ee530.js",
+    "file": "pages/press.svelte-a6814ecb.js",
     "src": "src/routes/press.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/prices.svelte": {
-    "file": "pages/prices.svelte-f000951b.js",
+    "file": "pages/prices.svelte-2f901c3e.js",
     "src": "src/routes/prices.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/privacy.svelte": {
-    "file": "pages/privacy.svelte-ea8813e4.js",
+    "file": "pages/privacy.svelte-44625bfc.js",
     "src": "src/routes/privacy.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/recusal.svelte": {
-    "file": "pages/recusal.svelte-eb2abd3e.js",
+    "file": "pages/recusal.svelte-ca62ae7f.js",
     "src": "src/routes/recusal.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/refunds.svelte": {
-    "file": "pages/refunds.svelte-1e9728fc.js",
+    "file": "pages/refunds.svelte-93b38650.js",
     "src": "src/routes/refunds.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/resume.svelte": {
-    "file": "pages/resume.svelte-26e4a40f.js",
+    "file": "pages/resume.svelte-0f0bec32.js",
     "src": "src/routes/resume.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
-  "src/routes/template.svelte": {
-    "file": "pages/template.svelte-714ad7ce.js",
-    "src": "src/routes/template.svelte",
+  "src/routes/security.svelte": {
+    "file": "pages/security.svelte-ceb686c0.js",
+    "src": "src/routes/security.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/terms.svelte": {
-    "file": "pages/terms.svelte-53fafc18.js",
+    "file": "pages/terms.svelte-866d7a06.js",
     "src": "src/routes/terms.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-5c824dc4.js",
+      "_index-293886de.js",
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/practices.svelte-5ec332f8.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
-  "_index-5c824dc4.js": {
-    "file": "chunks/index-5c824dc4.js"
+  "src/routes/thanks.svelte": {
+    "file": "pages/thanks.svelte-e9e66003.js",
+    "src": "src/routes/thanks.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/training.svelte": {
+    "file": "pages/training.svelte-c2cc4c37.js",
+    "src": "src/routes/training.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "src/routes/w9.svelte": {
+    "file": "pages/w9.svelte-da367e51.js",
+    "src": "src/routes/w9.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-293886de.js",
+      "_env-5493c761.js"
+    ],
+    "css": [
+      "assets/pages/cookies.svelte-bceb1179.css"
+    ]
+  },
+  "_index-293886de.js": {
+    "file": "chunks/index-293886de.js"
+  },
+  "_preload-helper-60cab3ee.js": {
+    "file": "chunks/preload-helper-60cab3ee.js"
+  },
+  "_headshot-fd603b8e.js": {
+    "file": "chunks/headshot-fd603b8e.js",
+    "assets": [
+      "assets/headshot-44f02284.webp"
+    ]
   },
   "_env-5493c761.js": {
     "file": "chunks/env-5493c761.js"
+  },
+  "_index-88393751.js": {
+    "file": "chunks/index-88393751.js",
+    "isDynamicEntry": true
   }
 }

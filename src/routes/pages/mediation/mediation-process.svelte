@@ -11,7 +11,7 @@
 <div class="content">
 	<h1>Mediation Process</h1>
 
-	<p>This page will outline what participants can expect from the mediation process. For participation expectations, read participant best practices <a href="/practices">outlined here</a>.</p>
+	<p>This page will outline what participants can expect from the mediation process. For participation expectations, read participant best practices <a href="/pages/mediation/mediation-best-practices">outlined here</a>.</p>
 
 	<h3>Convening</h3>
 	<p>Who will attend? Who will pay? When and where? How much and what kind of exchange before mediation?</p>
