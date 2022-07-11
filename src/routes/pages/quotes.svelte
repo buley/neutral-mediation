@@ -852,6 +852,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<pMemories! Mankind is accursed because our existence on this earth does not tolerate any well-defined and stable hierarchy, everything continually flows, spills over, moves on, everyone must be aware of and be judged by everyone else, and the opinions that the ignorant, dull, and slow-witted hold about us are no less important than the opinions of the bright, the enlightened, the refined. This is because man is profoundly dependent on the reflection of himself in another man's soul, be it even the soul of an idiot.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Witold Gombrowicz, <em><cite>Ferdydurke</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>
 				Yet the noble despair of the poets<br/>
 				Is nothing of the sort; it is silly<br/>
