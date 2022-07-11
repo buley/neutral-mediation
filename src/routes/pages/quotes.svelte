@@ -102,6 +102,14 @@ the very complex.</p>
 			William H. Whyte, <em><cite>Is Anybody Listening?</cite></em>
 		</figcaption>
 	</figure>
+		<figure>
+		<blockquote class="pullquote">
+			<p>Well, here's another way of looking at it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Richard Feynman
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>When a society decays, it is language that is first to become gangrenous.... Although moralists are scandalized by the fortunes amassed by the revolutionaries [in Mexico under the ruling party], they have failed to	observe that this material flowering has a verbal parallel; oratory has become the favorite literary genre of the prosperous... and alongside oratory, with its plastic flowers, there is the barbarous syntax in many of our newspapers, the foolishness of language on loudspeakers and the radio, the loathsome vulgarities of advertising -- all that asphyxiating rhetoric.</p>
@@ -1078,6 +1086,15 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Dominique de Villepin
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Have a lot of ways of representing things. If one way doesn’t work, switch quickly to another one.</p>
+			<p>The important thing is not to persist; I think the reason most people fail is that they are too determined to make something work only because they are attached to it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Richard Feynman
 		</figcaption>
 	</figure>
 	<figure>
