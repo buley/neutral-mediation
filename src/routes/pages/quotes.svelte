@@ -96,6 +96,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>LET US RECAPITULATE A BIT: The great enemy of communication, we find, is the illusion of it. We have talked enough; but we have not listened. And by not listening we have failed to concede the immense complexity of our society–and thus the great gaps between ourselves and those with whom we seek understanding.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			William H. Whyte, <em><cite>Is Anybody Listening?</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>When a society decays, it is language that is first to become gangrenous.... Although moralists are scandalized by the fortunes amassed by the revolutionaries [in Mexico under the ruling party], they have failed to	observe that this material flowering has a verbal parallel; oratory has become the favorite literary genre of the prosperous... and alongside oratory, with its plastic flowers, there is the barbarous syntax in many of our newspapers, the foolishness of language on loudspeakers and the radio, the loathsome vulgarities of advertising -- all that asphyxiating rhetoric.</p>
 		</blockquote>
 		<figcaption class="pullquote">
