@@ -938,6 +938,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Let us speak, though we show all our faults and weaknesses,—for it is a sign of strength to be weak, to know it, and out with it; not in set way and ostentatiously, though, but incidentally and without premeditation. But I am falling into my old foible,—preaching.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Herman Melville
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If it is conceded that the immortal is imperishable, the soul would be imperishable as well as immortal.</p>
 			<p>...  When death comes to a man, his mortal part, it seems, dies, but the immortal part goes away unharmed and undestroyed, withdrawing from death.</p>
 		</blockquote>
@@ -999,6 +1007,14 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Guy Debord, <em>The Society of the Spectacle</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Ego non baptizo te in nomine patris, sed in nomine diaboli!" deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Herman Melville, <em><cite>Moby Dick or, the Whale</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
