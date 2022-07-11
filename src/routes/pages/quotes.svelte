@@ -860,7 +860,8 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<pEvery action, thought and feeling is motivated by an intention, and that intention is a cause that exists as one with an effect. If we participate in the cause, it is not possible for us not to participate in the effect. In this most profound way, we are held responsible for our every action, thought and feeling, which is to say, for our every intention.</p>
+			
+			<p>Each of our acts affects us in far reaching ways. Every action, thought and feeling is motivated by an intention, and that intention is a cause that exists as one with an effect. If we participate in the cause, it is not possible for us not to participate in the effect. In this most profound way, we are held responsible for our every action, thought and feeling, which is to say, for our every intention. We ourselves shall partake of the fruit of our every intention. Is it therefore wise for us to become aware of the many intentions that inform our experience.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Gary Zukav, <em><cite>Seat of the Soul</cite></em>
@@ -895,10 +896,51 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>If it is conceded that the immortal is imperishable, the soul would be imperishable as well as immortal.</p>
+			<p>...  When death comes to a man, his mortal part, it seems, dies, but the immortal part goes away unharmed and undestroyed, withdrawing from death.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Plato, <em><cite>Phaedo</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Our systems, perhaps, are nothing more than an unconscious apology for our faults – a gigantic scaffolding whose object is to hide from us our favorite sin.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Henri Frederic Amiel
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>We have met the enemy and he is us.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Walt Kelly
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Don't be afraid to be weak.<br>
+			Don't be too proud ot be strong.<br>
+			Just look into your heart, my friend.<br>
+			That will be the return to yourself,<br>
+			The return to innocence</p>
+			<p>...Don't care what people say<br>
+			Just follow your own way<br>
+			Don't give up and use the chance<br>
+			To return to innocence</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Enimga, <em><cite>Return to Innocence</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Karma provides a groove, a tempo, a track laid out ahead of time for us to work into. There's nothing intrinsically good or bad about karma. Karma is not your burden, oppression, punishment or damnation. It's your rhythm, your path, your underlying track.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Ellias Lonsdale
 		</figcaption>
 	</figure>
 	<figure>
@@ -1178,6 +1220,14 @@ the very complex.</p>
 		</figcaption>
 	</figure>
 	<h2 id="hope">Hope Quotes</h2>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Thou shalt love thy neighbor as thyself.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Matthew 19:19
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Each time someone stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, he sends forth a tiny ripple of hope.</p>
