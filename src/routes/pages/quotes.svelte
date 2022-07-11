@@ -839,6 +839,19 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>A senior monk and a junior monk were traveling together. At one point, they came to a river with a strong current. As the monks were preparing to cross the river, they saw a very young and beautiful woman also attempting to cross. The young woman asked if they could help her cross to the other side.</p>
+			<p>The two monks glanced at one another because they had taken vows not to touch a woman.</p>
+			<p>Then, without a word, the older monk picked up the woman, carried her across the river, placed her gently on the other side, and carried on his journey.</p>
+			<p>The younger monk couldn’t believe what had just happened. After rejoining his companion, he was speechless, and an hour passed without a word between them.</p>
+			<p>Two more hours passed, then three, finally the younger monk could contain himself any longer, and blurted out “As monks, we are not permitted a woman, how could you then carry that woman on your shoulders?”</p>
+			<p>The older monk looked at him and replied, “Brother, I set her down on the other side of the river, why are you still carrying her?”</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Zen proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>
 				Yet the noble despair of the poets<br/>
 				Is nothing of the sort; it is silly<br/>

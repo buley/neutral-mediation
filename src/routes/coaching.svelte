@@ -28,6 +28,10 @@
 	</p>
 	<p>
 		Awareness can be cultivated, exercised and enhanced. Living authentically can require greater energy, but long term there is more balance than living incongruously outside of integrity with our internal self. Congruence is a quality of connectiness of our thoughts, feelings, worlds, tone of voice, body language, facial expressions and actions.
+	</p>
+	<p>
+		Once we are clear about the origins of our behaviors, we can counterbalance our strengths and weaknesses, live congruently with our values and discover more deeply who we are without denying or overcompensating for our past. We wake up, uder our awareness to transform our external conditions and then authentically transend those external conditions and help outhers do the same with a sense of identity, balance and perspective.</p>
+	</p>
 
 	<h2>Our Services</h2>
 
