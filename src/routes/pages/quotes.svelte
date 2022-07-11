@@ -925,13 +925,13 @@ the very complex.</p>
 
 	<figure>
 		<blockquote class="pullquote">
-			<p>Naturalness is called the Way.</p>
-			<p>The Way has no name or form; it is just the essence, just the primal spirit.</p>
+			<p><em>Naturalness is called the Way.</em></p>
+			<p><em>The Way has no name or form; it is just the essence, just the primal spirit.</em></p>
 			<p>... In Taoist terms, the first goal of the Way is to restore the original God-given spirit and become a self-realized human being. In Buddhist terms, a realized human being is someone conscious of the original mind, or the real self, as it is in its spontaneous natural state, independent of environmental conditioning.</p>
 			<p>This original spirit is also called the celestial mind, or the natural mind. A mode of awareness subtler and more direct than thought or imagination, it is central to the blossoming of the mind. The Secret of the Golden Flower is devoted to the recovery and refinement of the original spirit.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			 The Secret of the Golden Flower
+			 Thomas Cleary, <em><cite>The Secret of the Golden Flower</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
