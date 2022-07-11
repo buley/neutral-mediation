@@ -922,6 +922,22 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>The gold old fays may not return<br>The rocks might melt, and the sea may burn.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Tom Petty, <em><cite>Learning To Fly</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>At present, humanity has vast amounts of knowledge but still bery little wisdom. Without developing wisdom, it is most unlikely that we will avoid catastrophe.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Peter Russell
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If it is conceded that the immortal is imperishable, the soul would be imperishable as well as immortal.</p>
 			<p>...  When death comes to a man, his mortal part, it seems, dies, but the immortal part goes away unharmed and undestroyed, withdrawing from death.</p>
 		</blockquote>
