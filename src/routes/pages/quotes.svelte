@@ -152,6 +152,16 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>In order to listen, here are some suggestions: Try to learn tranquility, to live in the present a part of the time every day. Sometimes say to yourself: "Now. What is happening now? This friend is talking. I am quiet. There is endless time. I hear it, every word." Then suddenly you begin to hear not only what people are saying, but also what they are trying to say, and you sense the whole truth about them. And you sense existence, not piecemeal, not this object and that, but as a translucent whole.</p>
+			<p>Then watch your self-assertiveness. And give it up. Remember, it is not enough just to will to listen to people. One must really listen. Only then does the magic begin.</p>
+			<p>We should all know this: that listening, not talking, is the gifted and great role, and the imaginative role. And the true listener is much more beloved, magnetic than the talker, and he is more effective and learns more and does more good. And so try listening. Listen to your wife, your husband, your father, your mother, your children, your friends; to those who love you and those who don't, to those who bore you, to your enemies. It will work a small miracle. And perhaps a great one.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brenda Ueland, <em><cite>The art of listening</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Like lost children we live our unfinished adventures.</p>
 		</blockquote>
 		<figcaption class="pullquote">
