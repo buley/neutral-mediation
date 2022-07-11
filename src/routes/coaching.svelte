@@ -18,10 +18,13 @@
 	</p>
 	<h2>Our Value</h2>
 	<p>
+		Coaching is an tested, highly-effective method for improving performance in our personal and work lives. Coach helps client understand new ways for communicating, overcoming defensiveness and identifying more targeted solutions. A coach brings clarity, intention, power of observation and personal commitment to improving the coaching relationship. Great coaches use the process to transform themselves and learn new methods and insights, approaches and opportunities for growth. 
+	</p>
+	<p>
 		Coaching can help you be more positive and reduce negative emotions. It empowers you to feel more confident and make hard more decisions more rationally. With the help of a third-party, you can learn to minimize anxiety and worrying, stop self-sabotaging behaviors, and end procrastination. Manage anger and cope with stressful emotions better under the help and accountability of a trained coaching professional dedicated to your progress.
 	</p>
 	<p>
-		A coach invites you into a proces of mutual self-discovery, changing yourself, your relationship to the world and, as a result, the world around you. A coach invites you to risk discovering who you are by receiving honest feedback and improve your skills, attitudes and behaviors -- joyously opening yourself to new ideas and taking risks you may have avoided.
+		A coach invites you into a proces of mutual self-discovery, changing yourself, your relationship to the world and, as a result, the world around you. A coach invites you to risk discovering who you are by receiving honest feedback and improve your skills, attitudes and behaviors -- joyously opening yourself to new ideas and taking risks you may have avoided. They not only help to improve skills and success, but encourage people to believe in themselves, who they are and who they can become.
 	</p>
 	<p>
 		By increasing our awareness we can better use internal and external feedback to improve our skills and performance. We can also be more authentic, skillful and content with who we are as human beings. We can discover the vibrancy of the day-to-day world around us and become clearer, more authentic people.
