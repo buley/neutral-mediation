@@ -820,6 +820,25 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>The Perfectibility of Man! Ah heaven, what a dreary theme! The perfectibility of the Ford car! The perfectibility of which man? I am many men. Which of them are you going to perfect? I am not a mechanical contrivance.</p>
+			<p>Education! Which of the various me's do you propose to educate, and which do you propose to suppress?</p>
+			<p>Anyhow, I defy you. I defy you, oh society, to educate me or to suppress me, according to your dummy standards.</p>
+			<p>The ideal man! And which is he, if you please? Benjamin Franklin or Abraham Lincoln? The ideal man! Roosevelt or Porfirio Diaz?</p>
+			<p>There are other men in me, besides this patient ass who sits here in a tweed jacket. What am I doing, playing the patient ass in a tweed jacket? Who am I talking to? Who are you, at the other end of this patience?</p>
+			<p>Who are you? How many selves have you? And which of these selves do you want to be?</p>
+			<p>Is Yale College going to educate the self that is in the dark of you, or Harvard College?</p>
+			<p>The ideal self! Oh, but I have a strange and fugitive self shut out and howling like a wolf or a coyote under the ideal windows. See his red eyes in the dark? This is the self who is coming into his own.</p>
+			<p>The perfectibility of man, dear God! When every man as long as he remains alive is in himself a multitude of conflicting men. Which of these do you choose to perfect, at the expense of every other?</p>
+			<p>Old Daddy Franklin will tell you. He'll rig him up for you, the pattern American. Oh, Franklin was the first downright American. He knew what he was about, the sharp little man. He set up the first dummy American.</p>
+			<p>At the beginning of his career this cunning little Benjamin drew up for himself a creed that should 'satisfy the professors of every religion, but shock none'.</p>
+			<p>Now wasn't that a real American thing to do?</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			D.H. Lawrence, <em><cite>Benjamin Franklin</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>
 				Yet the noble despair of the poets<br/>
 				Is nothing of the sort; it is silly<br/>
