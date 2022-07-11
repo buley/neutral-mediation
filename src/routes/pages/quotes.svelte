@@ -914,6 +914,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>The self leads the soul through its life destiny and evokes its capacities, tendencies, and talents.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Rudolf Steiner
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If it is conceded that the immortal is imperishable, the soul would be imperishable as well as immortal.</p>
 			<p>...  When death comes to a man, his mortal part, it seems, dies, but the immortal part goes away unharmed and undestroyed, withdrawing from death.</p>
 		</blockquote>
