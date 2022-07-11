@@ -852,10 +852,18 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<pMemories! Mankind is accursed because our existence on this earth does not tolerate any well-defined and stable hierarchy, everything continually flows, spills over, moves on, everyone must be aware of and be judged by everyone else, and the opinions that the ignorant, dull, and slow-witted hold about us are no less important than the opinions of the bright, the enlightened, the refined. This is because man is profoundly dependent on the reflection of himself in another man's soul, be it even the soul of an idiot.</p>
+			<p>Memories! Mankind is accursed because our existence on this earth does not tolerate any well-defined and stable hierarchy, everything continually flows, spills over, moves on, everyone must be aware of and be judged by everyone else, and the opinions that the ignorant, dull, and slow-witted hold about us are no less important than the opinions of the bright, the enlightened, the refined. This is because man is profoundly dependent on the reflection of himself in another man's soul, be it even the soul of an idiot.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Witold Gombrowicz, <em><cite>Ferdydurke</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<pEvery action, thought and feeling is motivated by an intention, and that intention is a cause that exists as one with an effect. If we participate in the cause, it is not possible for us not to participate in the effect. In this most profound way, we are held responsible for our every action, thought and feeling, which is to say, for our every intention.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Gary Zukav, <em><cite>Seat of the Soul</cite></em>
 		</figcaption>
 	</figure>
 	<figure>

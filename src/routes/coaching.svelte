@@ -18,22 +18,22 @@
 	</p>
 	<h2>Our Value</h2>
 	<p>
-		Coaching is an tested, highly-effective method for improving performance in our personal and work lives. Coach helps client understand new ways for communicating, overcoming defensiveness and identifying more targeted solutions. A coach brings clarity, intention, power of observation and personal commitment to improving the coaching relationship. Great coaches use the process to transform themselves and learn new methods and insights, approaches and opportunities for growth. 
+		Coaching is an tested, highly-effective method for improving performance in our personal and work lives. Each situation is unique and there are thousands of approaches to coaching. Conflict coaching empowers invididuals to feel more confident and make hard more decisions more rationally. With the help of a third-party, a conflict coach can teach skills, techniques, and appraoches that minimize anxiety and worrying, stop self-sabotaging behaviors, and end procrastination. Under the help and accountability of a trained coaching professional dedicated to your progress, a conflict coach can help you better manage anger and cope with stressful emotions.
 	</p>
 	<p>
-		Coaching can help you be more positive and reduce negative emotions. It empowers you to feel more confident and make hard more decisions more rationally. With the help of a third-party, you can learn to minimize anxiety and worrying, stop self-sabotaging behaviors, and end procrastination. Manage anger and cope with stressful emotions better under the help and accountability of a trained coaching professional dedicated to your progress.
-	</p>
-	<p>
-		A coach invites you into a proces of mutual self-discovery, changing yourself, your relationship to the world and, as a result, the world around you. A coach invites you to risk discovering who you are by receiving honest feedback and improve your skills, attitudes and behaviors -- joyously opening yourself to new ideas and taking risks you may have avoided. They not only help to improve skills and success, but encourage people to believe in themselves, who they are and who they can become.
+		A conflict coach invites you into a proces of mutual self-discovery, changing yourself, your relationship to the world and, as a result, the world around you. They not only help to improve skills and success, but encourage people to believe in themselves, who they are and who they can become. A coach invites you to risk discovering who you are by receiving honest feedback and improve your skills, attitudes and behaviors -- joyously opening yourself to new ideas and taking risks you may have avoided. 
 	</p>
 	<p>
 		By increasing our awareness we can better use internal and external feedback to improve our skills and performance. We can also be more authentic, skillful and content with who we are as human beings. We can discover the vibrancy of the day-to-day world around us and become clearer, more authentic people.
 	</p>
 	<p>
-		Awareness can be cultivated, exercised and enhanced. Living authentically can require greater energy, but long term there is more balance than living incongruously outside of integrity with our internal self. Congruence is a quality of connectiness of our thoughts, feelings, worlds, tone of voice, body language, facial expressions and actions.
+		Awareness can be cultivated, exercised and enhanced. Living authentically can require greater energy, but long term there is more balance than living incongruously outside of integrity with our internal self. Congruence is a quality of connectiness of our thoughts, feelings, worlds, tone of voice, body language, facial expressions and actions. 
 	</p>
 	<p>
 		Once we are clear about the origins of our behaviors, we can counterbalance our strengths and weaknesses, live congruently with our values and discover more deeply who we are without denying or overcompensating for our past. We wake up, uder our awareness to transform our external conditions and then authentically transend those external conditions and help outhers do the same with a sense of identity, balance and perspective.</p>
+	</p>
+	<p>
+		A conflict coach helps client understand new ways for communicating, overcoming defensiveness and identifying targeted solutions. A coach helps you learn from problems and play with solutions. A coach brings clarity, intention, power of observation and personal commitment to improving the coaching relationship. Great coaches use the process to transform themselves and learn new methods and insights, approaches and opportunities for growth.
 	</p>
 
 	<h2>Our Services</h2>
