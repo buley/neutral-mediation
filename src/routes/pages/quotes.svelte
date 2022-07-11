@@ -810,10 +810,33 @@ the very complex.</p>
 			Dr. Martin Luther King, Jr.
 		</figcaption>
 	</figure>
-	
-	
-
-
+	<figure>
+		<blockquote class="pullquote">
+			<p>I have often thought that the best way to define a man's character would be to seek out the particular mental or moral attitude in which, when it came upon him, he felt himself most deeply and intensely active and alive. At such moments there is a voice inside which speaks and says: "This is the real me."</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			William James
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>
+				Yet the noble despair of the poets<br/>
+				Is nothing of the sort; it is silly<br/>
+				To refuse the tasks of time<br/>
+				And, overlooking our lives,<br/>
+				Cry, "miserable wicked me,<br/>
+				How interesting I am."<br/>
+				We would rather be ruined than changed,<br/>
+				We would rather die in our dread<br/>
+				Than climb the cross of the moment<br/>
+				And let our illusions die.
+			</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			W. H. Auden, <em><cite>The Age of Anxiety</cite></em>
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>True justice is paying only once for each mistake.  True injustice is paying more than once for each mistake.</p>

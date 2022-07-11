@@ -20,6 +20,9 @@
 	<p>
 		Coaching can help you be more positive and reduce negative emotions. It empowers you to feel more confident and make hard more decisions more rationally. With the help of a third-party, you can learn to minimize anxiety and worrying, stop self-sabotaging behaviors, and end procrastination. Manage anger and cope with stressful emotions better under the help and accountability of a trained coaching professional dedicated to your progress.
 	</p>
+	<p>
+		A coach invites you into a proces of mutual self-discovery, changing yourself, your relationship to the world and, as a result, the world around you. A coach invites you to risk discovering who you are by Receive honest feedback and improve your skills, attitudes and behaviors -- opening yourself to new ideas and taking risks you may have avoided.
+	</p>
 
 	<h2>Our Services</h2>
 
