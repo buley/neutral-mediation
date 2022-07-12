@@ -13,7 +13,7 @@
 <div class="content">
 	<h3>What Is Negotiation?</h3>	
 	<p>
-		Negotiation is the most informal of dispute resolution practices, offering fewer established processes, rules and constraints as compared to <a href="/mediation">mediation</a>, arbitration and <a href="/disclaimers">litigation</a>.
+		Negotiation is the most informal of dispute resolution practices, offering fewer established processes, rules and constraints as compared to <a href="/mediation">mediation</a>, arbitration and <a href="/disclaimer">litigation</a>.
 	</p>
 </div>
 
