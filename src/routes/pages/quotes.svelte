@@ -687,6 +687,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Henry David Thoreau
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>First, never use a one-size-fits-all decision-making process. Many decisions are reversible, two-way doors. Those decisions can use a light-weight process. For those, so what if you’re wrong?<br>
 			<br>
 			…Second, most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you’re probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you’re good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.</p>
@@ -826,6 +834,14 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Marcus Aurelius
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The highest reward for a man's toil is not what he gets by it but what he becomes by it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			John Ruskin
 		</figcaption>
 	</figure>
 	<figure>
