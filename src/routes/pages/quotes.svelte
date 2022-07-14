@@ -72,6 +72,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Conflict is the sound made by the cracks in a system, the manifestation of contradictory forces coexisting in a single space.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Kenneth Cloke
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>So long as only one ideal is the true goal, it will always seem to men that no means can be too difficult, no price too high, to do whatever is required to realize the ultimate goal. Such certainty is one of the great justifications of fanaticism, compulsion, persecution …. If there is only one solution to the puzzle, then the only problems are first how to find it, then how to realize it, and finally how to convert others to the solution by persuasion or by force. But if this is not so …, then the path is open to empiricism, pluralism, tolerance, compromise. Tolerance is historically the product of the realization of the irreconcilability of equally dogmatic faiths, and the practical improbability of complete victory of one over the other. Those who wished to survive realized that they had to tolerate error. They gradually came to see the merits of diversity, and so became skeptical about definitive solutions in human affairs.</p>
 		</blockquote>
 		<figcaption class="pullquote">
