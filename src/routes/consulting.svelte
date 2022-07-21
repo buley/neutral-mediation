@@ -16,7 +16,7 @@
 	
 	<h2>Our Practice</h2>
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual consulting services for people and organizations. <em>Consulting sessions cost $175 per hour per participant.</em> For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>. For mediation and negotiation training, see our <a href="/training">training page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual consulting services &emdash; including conflict audits and reporting, dispute resolution systems design and meeting facilitation &emdash; for organizations. <em>Consulting sessions cost $175 per hour per participant.</em> Optionally, a neutral can lead consulting services on-site at an organization, pursuant to the <a href="/prices">travel policy</a>. For individual-focused coaching sessions, see our <a href="/coaching">coaching page</a>. For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>. For mediation and negotiation training, see our <a href="/training">training page</a>.
 	</p>
 	<h2>Our Value</h2>
 	<p>
@@ -27,7 +27,7 @@
 
 	<h3>Conflict Consulting</h3>
 
-	<p>Neutral-led conflict virtual training session for one, four or eight hours, optionally on-site at an organization. Conflict consulting engagements are typically focused on addressing organizational systems that generate chronic conflict. <em>Conflict consulting costs $175 per hour per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a conflict consultation</a></p>
+	<p>Neutral-led conflict virtual training session for one, four or eight hours.  Conflict consulting engagements are typically focused on addressing organizational systems that generate chronic conflict. <em>Conflict consulting costs $175 per hour per participant.</em> <a href="https://neutral.setmore.com/">Click here to book a conflict consultation</a></p>
 
 	<h3>Mediation Consulting</h3>
 
