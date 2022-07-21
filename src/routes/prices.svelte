@@ -16,7 +16,7 @@
 
 	<h3>Booking Options</h3>
 
-	<p class="has-text-align-left">Neutral Mediation offers flexible rates and scheduling options and session availability during evenings throughout the week and all day on weekends. Book by the hour, or schedule a flat-rate negotiation coaching or mediation session.</p>
+	<p class="has-text-align-left">Neutral Mediation offers flexible rates and scheduling options, with session availability during evenings throughout the week and all day on weekends. Book by the hour, or schedule a flat-rate negotiation coaching or mediation session.</p>
 
 	<p class="has-text-align-left">Mediation costs are customarily split by participants and prices are shown here <em>per individual</em> participant. </p>
 
