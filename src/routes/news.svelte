@@ -21,8 +21,8 @@
 		let postsData = [{
 			href: '#',
 			description: 'foo bar'
-		}];
-		const dataPromise = getNews();
+		}]
+		const dataPromise = getNews()
 		dataPromise.then((data, err) => {
 			if (!!data && !!data.posts) {
 				let posts = [];
