@@ -21,20 +21,20 @@
 	</a>
 
 	<ul class="menu-navigation">
-	    <li class:active={$page.url.pathname === '/contact'}>
-			<a sveltekit:prefetch href="/contact">Contact</a>
-		</li>
 	    <li class:active={$page.url.pathname === '/about'}>
 			<a sveltekit:prefetch href="/about">About</a>
-		</li>
-	    <li class:active={$page.url.pathname === '/prices'}>
-			<a sveltekit:prefetch href="/prices">Prices</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/neutral'}>
 			<a sveltekit:prefetch href="/background">Background</a>
 		</li>
+	    <li class:active={$page.url.pathname === '/contact'}>
+			<a sveltekit:prefetch href="/contact">Contact</a>
+		</li>
 	    <li class:active={$page.url.pathname === '/ethics'}>
 			<a sveltekit:prefetch href="/ethics">Ethics</a>
+		</li>
+	    <li class:active={$page.url.pathname === '/prices'}>
+			<a sveltekit:prefetch href="/prices">Prices</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/disclaimer'}>
 			<a sveltekit:prefetch href="/disclaimer">Disclaimer</a>

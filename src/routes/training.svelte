@@ -17,7 +17,7 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual training and practice for people and organizations, optionally on-site at an customer facility. <em>Training sessions start at $1250 per day per participant.</em> For more information about lunch stipends for full-day training sessions, see our <a href="/prices">pricing page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual training and practice for people and organizations, optionally on-site at an customer facility. <em>Training sessions start at $1,250 per day per participant.</em> For more information about lunch stipends for full-day training sessions, see our <a href="/prices">pricing page</a>.
 	</p>
 
 	<h2>Our Value</h2>
