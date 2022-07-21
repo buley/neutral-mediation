@@ -21,30 +21,33 @@
 		There is so much untapped potential out there, and as a result so much conflict. Conflict coaching is a tested and effective approach to improving performance in our personal or executive lives. Conflict coaching empowers invididuals to feel more confident and make hard more decisions more rationally even when faced with opportunities for growth. With the help of a third-party service like Neutral Mediation, a client can learn and practice skills, techniques, and appraoches to conflict that minimize anxiety and worrying, stop self-sabotaging behaviors, and put an end to procrastination. Under the help and accountability of a trained coaching professional, dedicated to your progress, a conflict coach can help people better manage the human but negative emotions that bear corporial witness to conflict via stress and unhappiness.
 	</p>
 	<p>
-		A conflict coach invites you into a proces of mutual self-discovery, changing yourself, your relationship to the world and, as a result, the world around you. They not only help to improve skills and success, but encourage people to believe in themselves, who they are and who they can become. A coach invites you to risk discovering who you are by receiving honest feedback and improve your skills, attitudes and behaviors -- joyously opening yourself to new ideas and taking risks you may have avoided. 
+		Fixed mindsets personas lead to beating yourself up or blaming other people for obstacles you may face. In contrast, a conflict coach invites you into a proces of self-discovery: changing yourself, your relationship to the world and, as a result, more effectively and positively influencing the circumstances around you. Coaches not only help to improve communication skills and success, but encourage people to believe in themselves, who they are and who they can become. A coach invites you to dangerously  discover who you are by receiving honest feedback tailored to improve and supplement your skills, attitudes and behaviors. Clients joyously open themselves to new experiences and ideas and take conscious risks they may have otherwise avoided. 
 	</p>
 	<p>
-	There are several tested models for life coaching available. They are often named after their acronym (or backronym). Most of them do the same thing: empower a third-party to help someone set goals and then reach them, sometimes through indentifying false or negative beliefs and behaviors. Useful coaching models include:
-		</p>
-		<ul>
-			<li><strong>GROW</strong>: Goal, Reality, Options, Way Forward</li>
-			<li><strong>SMART</strong>: Specific, Measurable, Attainable, Realistic, Time-bound</li>
-			<li><strong>HEART</strong>: Honest, Exact, Authentic, Realistic, Timely</li>
-			<li><strong>STEPPPA</strong>: Subject, Target, Emotions, Perception, Plan, Pace, Action</li>
-			<li><strong>OSKAR</strong>: Outcome, Scaling, Know-How, Affirming Action, Review</li>
-			<li><strong>CLEAR</strong>: Contract, Listen, Explore, Action, Review</li>
-		</ul>
+		There are several tested models for life coaching available. They are often named after their acronym (or backronym). Most of them do the same thing: empower a third-party to help someone set goals and then reach them, sometimes through indentifying false or negative beliefs and behaviors. Useful coaching models include:
+	</p>
+	<ul>
+		<li><strong>GROW</strong>: Goal, Reality, Options, Way Forward</li>
+		<li><strong>SMART</strong>: Specific, Measurable, Attainable, Realistic, Time-bound</li>
+		<li><strong>HEART</strong>: Honest, Exact, Authentic, Realistic, Timely</li>
+		<li><strong>STEPPPA</strong>: Subject, Target, Emotions, Perception, Plan, Pace, Action</li>
+		<li><strong>OSKAR</strong>: Outcome, Scaling, Know-How, Affirming Action, Review</li>
+		<li><strong>CLEAR</strong>: Contract, Listen, Explore, Action, Review</li>
+	</ul>
 	<p>
-		<strong>Awareness can be cultivated, exercised and enhanced.</strong> Living authentically can require greater energy, but long term there is more balance than living incongruously outside of integrity with our internal self. Congruence is a quality of connectiness of our thoughts, feelings, worlds, tone of voice, body language, facial expressions and actions. Increased awareness allows us to truly see and hear. Courageous listening focuses on opportunities and possibilities for learning, transformation and transcendance.
+		To be successful in social life we need to be self-aware, understanding and honoring our sense of integrity and self -- living in so-called "congruence." Our thoughts, feelings, words, tone of voice, body language, facial expressions and actions are all connected and engaged through emotion and storytelling. Congruence is a quality of these connections at the node and network levels. Authentic interactions occur when the cognitive and body-based systems are firing together and our actions work in accord with our perceived self-image.
 	</p>
 	<p>
-		By increasing self-awareness through third-party conflict coaching, people can better use internal and external feedback to improve their skills and performance. Clients can also be more authentic, skillful and content with who we are as human beings. Peacemakers discover the vibrancy of the day-to-day world around them and become clearer, more authentic people. Nobody shouldbe under the illusion that this is an easy processes, but there is no alternative for peace of mind but to cultivate awareness, authenticity, congruence and commitment.
+		Thankfully, self-image can be coached and the resulting awareness engenders the congruence that brings us peace. Self-awareness is a trait that can be cultivated, exercised and enhanced by any determined individual. Living authentically and self-aware can require greater situational stamina in the moment, but, long term, life is more balanced by living in congruence with principles and a positive self-image. Remarkably, increased awareness of our self also allows us to truly see and hear others, too. Self-aware, courageous coaching sessions focus on opportunities and possibilities for learning, transformation and transcendance.
 	</p>
 	<p>
-		Once we are clear about the origins of our behaviors, we can counterbalance our strengths and weaknesses, live congruently with our values and discover more deeply who we are without denying or overcompensating for our past. We wake up, uder our awareness to transform our external conditions and then authentically transend those external conditions and help outhers do the same with a sense of identity, balance and perspective.
+		By increasing self-awareness through third-party conflict coaching, people can better use internal and external social feedback to improve their skills and performance, communication and otherwise. Clients can also be more authentic, skillful and content with who they are as human beings. Peacemakers can discover the vibrancy of the day-to-day world around them and become clearer, more authentic people. Nobody shouldbe under the illusion that this is an easy processes, but there is no alternative for peace of mind but to cultivate awareness, authenticity, congruence and commitment.
 	</p>
 	<p>
-		A conflict coach helps client understand new ways for communicating, overcoming defensiveness and identifying targeted solutions. A coach helps you learn from problems and play with solutions. A coach brings clarity, intention, power of observation and personal commitment to improving the coaching relationship. Great coaches use the process to transform themselves and learn new methods and insights, approaches and opportunities for growth.
+		Once coaches and clients are clear about the origins of negative or destructive behaviors, a coach can help counterbalance our strengths and weaknesses. Clients live congruently with their values and discover more deeply who they are without denying or overcompensating for their past. They wake up, gaining a sense of identity, balance and perspective &mdash; often by transforming external conditions and duress into an opportunity for growth &mdash; and encourage the same for those around them.
+	</p>
+	<p>
+		A conflict coach helps client understand new ways for communicating, overcoming defensiveness and identifying targeted solutions to everyday conflicts. A coach helps clients learn from problems and play with solutions. A coach brings clarity, intention, power of observation and personal commitment to improving the coaching relationship. Great coaches also use the process to transform themselves, too, and learn new methods and insights, approaches and opportunities for growth.
 	</p>
 
 	<h2>Our Services</h2>
