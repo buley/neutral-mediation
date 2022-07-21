@@ -17,34 +17,41 @@
 		});
 	}
 
-	var postsData = [];
-	var dataPromise = getNews();
-	
-	dataPromise.then((data, err) => {
-		let rej = function(err) {
-			console.log("ERROR",err);
-		}
-		if (null !== err && undefined !== err) {
-			rej(err);
-		} else if (!!data && !!data.posts) {
-			let posts = [];
-			for(let z = 0; z < data.posts.length; z += 1) {
-				try {
-					posts.push({
-						href: data.posts[z].href,
-						description: data.posts[z].description,
-						tags: data.posts[z].tags
-					});
-				} catch (ee) {
-					rej(ee);
-				}
+	let postsData = [];
+	let dataPromise = getNews();
+	let templatePromise = new Promise((resolve, reject) => {
+		console.log("RESOLVE",resolve);
+
+		dataPromise.then((data, err) => {
+			let rej = function(err) {
+				console.log("ERROR",err);
 			}
-			postsData = posts;
-		} else {
-			rej(new Error("Failure to plan"));
-		}
+			if (null !== err && undefined !== err) {
+				rej(err);
+			} else if (!!data && !!data.posts) {
+				let posts = [];
+				for(let z = 0; z < data.posts.length; z += 1) {
+					try {
+						posts.push({
+							href: data.posts[z].href,
+							description: data.posts[z].description,
+							tags: data.posts[z].tags
+						});
+					} catch (ee) {
+						rej(ee);
+					}
+				}
+				postsData = posts;
+				console.log("postsData",postsData);
+				resolve();
+				
+			} else {
+				rej(new Error("Failure to plan"));
+			}
+		});
+
 	});
-	
+
 </script>
 
 <svelte:head>
@@ -53,9 +60,6 @@
 </svelte:head>
 
 <div class="content">
-{#await dataPromise}
-	<h1>{!!postsData && postsData.length > 0 ? 'Goodbye' : 'Hello' } World</h1>
-{:then postsData}
 	<h1>News</h1>
 	<p>
 		<em>
@@ -71,10 +75,6 @@
 		</li>
 		{/each}
 	</ul>
-{:catch error}
-	<h1>Error</h1>
-    <p>{error.name}: {error.message}</p>
-{/await}
 
 </div>
 
