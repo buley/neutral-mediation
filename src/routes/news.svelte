@@ -16,39 +16,34 @@
 	}
 
 	let postsData = [];
-	const dataPromise = getNews();
-	const templatePromise = new Promise((resolve, reject) => {
-		console.log("RESOLVE",resolve);
+	let dataPromise;
 
+	let templatePromise = new Promise((resolve, reject) => {
+		dataPromise = getNews();
 		dataPromise.then((data, err) => {
-			let rej = function(err) {
-				console.log("ERROR",err);
-			}
-			if (null !== err && undefined !== err) {
-				rej(err);
-			} else if (!!data && !!data.posts) {
+			if (!!data && !!data.posts) {
 				let posts = [];
 				for(let z = 0; z < data.posts.length; z += 1) {
-					try {
-						posts.push({
-							href: data.posts[z].href,
-							description: data.posts[z].description,
-							tags: data.posts[z].tags
-						});
-					} catch (ee) {
-						rej(ee);
-					}
+					posts.push({
+						href: data.posts[z].href,
+						description: data.posts[z].description,
+						tags: data.posts[z].tags
+					});
 				}
 				postsData = posts;
+			}
+		}).finally((data, err) => {
+			if (null !== err && undefined !== err) {
+				reject(err);
+			} else if (!!postsData && postsData.length >= 0) {
+				resolve(postsData);
 				console.log("postsData",postsData);
-				resolve();
-				
 			} else {
-				rej(new Error("Failure to plan"));
+				reject(new Error("Failure to plan"));
 			}
 		});
-
 	});
+
 
 </script>
 
@@ -62,10 +57,16 @@
 	<h1>News</h1>
 	<p>
 		<em>
+			Loading...
+		</em>
+	</p>
+{:then resultsData}
+	<h1>News</h1>
+	<p>
+		<em>
 			This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.
 		</em>
 	</p>
-{:then postsData}
 	<ul id="news-links">
 		{#each postsData as postItem}
 		<li>
@@ -89,4 +90,3 @@
 		margin: var(--column-margin-top) auto 0 auto;
 	}
 </style>
-
