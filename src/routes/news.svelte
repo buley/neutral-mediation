@@ -67,6 +67,8 @@
 			This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.
 		</em>
 	</p>
+	{resultsData.toString()}
+
 	<ul id="news-links">
 		{#each postsData as postItem}
 		<li>
