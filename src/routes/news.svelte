@@ -5,7 +5,7 @@
 	export const prerender = true;
 	import { default as Pinboard } from 'node-pinboard'
 
-	console.log('Pinboard',Pinboard);
+	console.log('Pinboard!',Pinboard);
 
 	import qs from 'querystring';
 
