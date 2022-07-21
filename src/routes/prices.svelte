@@ -38,7 +38,7 @@
 
 	<h3>Travel Policy</h3>
 
-	Neither travel expenses nor time are part of the regular hourly rate, which applies only to virtual settings. Travel time plus extraordinary expenses are billed in addition to the relevant rate for on-site mediation, negotiation, consulting and training services.
+	<p>Neither travel expenses nor travel time are part of the regular hourly rate, which applies only to virtual settings. Travel time and extraordinary expenses are billed to clients in addition to the relevant rate for on-site mediation, negotiation, consulting or training services.</p>
 
 	<h3>How to Book</h3>
 
