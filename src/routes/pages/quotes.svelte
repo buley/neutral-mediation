@@ -202,6 +202,15 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p><em>De gustibus non est disputandum, or de gustibus non disputandum est.</em></p>
+			<p>In matters of taste, there can be no disputes.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Roman proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>I'm not concerned with your liking or disliking me… All I ask is that you respect me as a human being.</p>
 		</blockquote>
 		<figcaption class="pullquote">
