@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>Conflict Coaching</title>
+	<title>Coaching</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Conflict Coaching</h1>
+	<h1>Coaching</h1>
 	<h2>Our Practice</h2>
 	<p>
 		Neutral Mediation offers flexibly-scheduled virtual conflict coaching sessions led by a trained professional neutral. <em>Conflict coaching sessions cost $175 per hour per participant.</em> For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/mediation">mediation page</a>. For mediation and negotiation training, see our <a href="/training">training page</a>. For mediation, negotiation and conflict consulting, see our <a href="/consulting">consulting page</a>.
