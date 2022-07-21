@@ -6,24 +6,22 @@
 	export const prerender = true;
 	import { default as Pinboard } from 'node-pinboard'
 	import qs from 'querystring';
+	let postsData = [{
+		href: '#',
+		description: 'foo bar'
+	}];
 
 	let P = Pinboard.default || Pinboard;
 	let pin = new P("tb:09609A3FC3DCC28DDEAC");
 
-	let getNews = function () {
+	const getNews = () => {
 		return pin.get({
 			tag: ['mediation', 'negotiation']
 		});
 	}
 
-
-	let templatePromise = new Promise((resolve, reject) => {
-		let postsData = [{
-			href: '#',
-			description: 'foo bar'
-		}]
-		const dataPromise = getNews()
-		dataPromise.then((data, err) => {
+	const templatePromise = new Promise((resolve, reject) => {
+		getNews().then((data, err) => {
 			if (!!data && !!data.posts) {
 				let posts = [];
 				for(let z = 0; z < data.posts.length; z += 1) {
@@ -33,6 +31,7 @@
 						tags: data.posts[z].tags
 					});
 				}
+				console.log("REPLACING",postsData, posts);
 				postsData = posts;
 			}
 		}).finally((data, err) => {
@@ -62,6 +61,7 @@
 		</em>
 	</p>
 {:then resultsData}
+{resultsData[0].href}
 	<h1>News</h1>
 	<p>
 		<em>
@@ -69,7 +69,7 @@
 		</em>
 	</p>
 	<ul id="news-links">
-		{#each resultsData as postItem}
+		{#each resultsData as postItem (postItem.href)}
 		<li>
 			<a href="{postItem.href}">
 				{postItem.description}

@@ -31,16 +31,13 @@
 			<a sveltekit:prefetch href="/prices">Prices</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/neutral'}>
-			<a sveltekit:prefetch href="/neutral">Neutral</a>
+			<a sveltekit:prefetch href="/background">Background</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/ethics'}>
 			<a sveltekit:prefetch href="/ethics">Ethics</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/disclaimer'}>
 			<a sveltekit:prefetch href="/disclaimer">Disclaimer</a>
-		</li>
-	    <li class:active={$page.url.pathname === '/pages/quotes'}>
-			<a sveltekit:prefetch href="/pages/quotes">Quotes</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/documents'}>
 			<a sveltekit:prefetch href="/documents">Documents</a>
