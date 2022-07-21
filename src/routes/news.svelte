@@ -3,7 +3,7 @@
 	export const hydrate = dev
 	export const router = browser
 	export const prerender = true;
-	import Pinboard from 'node-pinboard'
+	import { default as Pinboard } from 'node-pinboard'
 
 	console.log('Pinboard',Pinboard);
 
@@ -28,13 +28,13 @@
 
 	}
 
-	var dataPromise = getNews();
 	var postsData = [];
-	let rej = function(err) {
-		console.log("ERROR",err);
-	}
-
+	var dataPromise = getNews();
+	
 	dataPromise.then((data, err) => {
+		let rej = function(err) {
+			console.log("ERROR",err);
+		}
 		if (null !== err && undefined !== err) {
 			rej(err);
 		} else if (!!data && !!data.posts) {
