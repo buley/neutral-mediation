@@ -16,12 +16,12 @@
 		});
 	}
 
-	let postsData = [{
-		href: '#',
-		description: 'foo bar'
-	}];
 
 	let templatePromise = new Promise((resolve, reject) => {
+		let postsData = [{
+			href: '#',
+			description: 'foo bar'
+		}];
 		const dataPromise = getNews();
 		dataPromise.then((data, err) => {
 			if (!!data && !!data.posts) {
@@ -69,7 +69,7 @@
 		</em>
 	</p>
 	<ul id="news-links">
-		{#each postsData as postItem}
+		{#each resultsData as postItem}
 		<li>
 			<a href="{postItem.href}">
 				{postItem.description}
