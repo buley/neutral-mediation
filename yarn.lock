@@ -17,6 +17,11 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
+"@fontsource/bebas-neue@^4.5.7":
+  version "4.5.7"
+  resolved "https://registry.yarnpkg.com/@fontsource/bebas-neue/-/bebas-neue-4.5.7.tgz#8fe7b6a44443d1593ade495fd96782839a990bc6"
+  integrity sha512-wVPVtSxQD3BVYs9F2ENBq9Qx2PZW0X9GOMhtbny+kKQAAaKWrFv29r8swJ6uNuXM+f+CcNmjb3P/aWC7tPaR+w==
+
 "@fontsource/fira-mono@^4.5.0":
   version "4.5.8"
   resolved "https://registry.npmjs.org/@fontsource/fira-mono/-/fira-mono-4.5.8.tgz"

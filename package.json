@@ -32,6 +32,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource/bebas-neue": "^4.5.7",
 		"@fontsource/fira-mono": "^4.5.0",
 		"@fontsource/open-sans": "^4.5.10",
 		"@fontsource/pt-serif": "^4.5.9",

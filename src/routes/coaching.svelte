@@ -23,21 +23,22 @@
 	<p>
 		A conflict coach invites you into a proces of mutual self-discovery, changing yourself, your relationship to the world and, as a result, the world around you. They not only help to improve skills and success, but encourage people to believe in themselves, who they are and who they can become. A coach invites you to risk discovering who you are by receiving honest feedback and improve your skills, attitudes and behaviors -- joyously opening yourself to new ideas and taking risks you may have avoided. 
 	</p>
-	<p>There are several tested models for life coaching available. They are often named after their acronym (or backronym). Most of them do the same thing: empower a third-party to help someone set goals and then reach them, sometimes through indentifying false or negative beliefs and behaviors. Examples coaching models include:
+	<p>
+	There are several tested models for life coaching available. They are often named after their acronym (or backronym). Most of them do the same thing: empower a third-party to help someone set goals and then reach them, sometimes through indentifying false or negative beliefs and behaviors. Useful coaching models include:
+		</p>
 		<ul>
-			<li>GROW: Goal, Reality, Options, Way Forward</li>
-			<li>SMART: Specific, Measurable, Attainable, Realistic, Time-bound</li>
-			<li>HEART: Honest, Exact, Authentic, Realistic, Timely</li>
-			<li>STEPPPA: Subject, Target, Emotions, Perception, Plan, Pace, Action</li>
-			<li>OSKAR: Outcome, Scaling, Know-How, Affirming Action, Review</li>
-			<li>CLEAR: Contract, Listen, Explore, Action, Review</li>
+			<li><strong>GROW</strong>: Goal, Reality, Options, Way Forward</li>
+			<li><strong>SMART</strong>: Specific, Measurable, Attainable, Realistic, Time-bound</li>
+			<li><strong>HEART</strong>: Honest, Exact, Authentic, Realistic, Timely</li>
+			<li><strong>STEPPPA</strong>: Subject, Target, Emotions, Perception, Plan, Pace, Action</li>
+			<li><strong>OSKAR</strong>: Outcome, Scaling, Know-How, Affirming Action, Review</li>
+			<li><strong>CLEAR</strong>: Contract, Listen, Explore, Action, Review</li>
 		</ul>
+	<p>
+		<strong>Awareness can be cultivated, exercised and enhanced.</strong> Living authentically can require greater energy, but long term there is more balance than living incongruously outside of integrity with our internal self. Congruence is a quality of connectiness of our thoughts, feelings, worlds, tone of voice, body language, facial expressions and actions. Increased awareness allows us to truly see and hear. Courageous listening focuses on opportunities and possibilities for learning, transformation and transcendance.
 	</p>
 	<p>
-		By increasing our awareness we can better use internal and external feedback to improve our skills and performance. We can also be more authentic, skillful and content with who we are as human beings. We can discover the vibrancy of the day-to-day world around us and become clearer, more authentic people. A coach is not under the illusion that this is an easy processes: but that there is no atlernative but to cultivate awareness, authenticity, congruence and commitment.
-	</p>
-	<p>
-		Awareness can be cultivated, exercised and enhanced. Living authentically can require greater energy, but long term there is more balance than living incongruously outside of integrity with our internal self. Congruence is a quality of connectiness of our thoughts, feelings, worlds, tone of voice, body language, facial expressions and actions. Increased awareness allows us to truly see and hear. Courageous listening focuses on opportunities and possibilities for learning, transformation and transcendance.
+		By increasing self-awareness through third-party conflict coaching, people can better use internal and external feedback to improve their skills and performance. Clients can also be more authentic, skillful and content with who we are as human beings. Peacemakers discover the vibrancy of the day-to-day world around them and become clearer, more authentic people. Nobody shouldbe under the illusion that this is an easy processes, but there is no alternative for peace of mind but to cultivate awareness, authenticity, congruence and commitment.
 	</p>
 	<p>
 		Once we are clear about the origins of our behaviors, we can counterbalance our strengths and weaknesses, live congruently with our values and discover more deeply who we are without denying or overcompensating for our past. We wake up, uder our awareness to transform our external conditions and then authentically transend those external conditions and help outhers do the same with a sense of identity, balance and perspective.
