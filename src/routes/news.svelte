@@ -1,4 +1,5 @@
 <script context="module">
+
 	import { browser, dev } from '$app/env'
 	export const hydrate = dev
 	export const router = browser
@@ -15,11 +16,13 @@
 		});
 	}
 
-	let postsData = [];
-	let dataPromise;
+	let postsData = [{
+		href: '#',
+		description: 'foo bar'
+	}];
 
 	let templatePromise = new Promise((resolve, reject) => {
-		dataPromise = getNews();
+		const dataPromise = getNews();
 		dataPromise.then((data, err) => {
 			if (!!data && !!data.posts) {
 				let posts = [];
@@ -37,13 +40,11 @@
 				reject(err);
 			} else if (!!postsData && postsData.length >= 0) {
 				resolve(postsData);
-				console.log("postsData",postsData);
 			} else {
 				reject(new Error("Failure to plan"));
 			}
 		});
 	});
-
 
 </script>
 
@@ -67,8 +68,6 @@
 			This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.
 		</em>
 	</p>
-	{resultsData.toString()}
-
 	<ul id="news-links">
 		{#each postsData as postItem}
 		<li>
