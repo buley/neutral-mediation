@@ -23,7 +23,10 @@
 	<ul>
 		<li>Negotiation Consultation Request Form</li>
 	</ul>
-
+	<h4>Coaching</h4>
+	<ul>
+		<li><a href="/forms/goals">Goal Discovery</a></li>
+	</ul>
 	<h3>Questionnaires</h3>
 	<ul>
 		<li>Mediation Consultation Participant Questionnaire</li>
