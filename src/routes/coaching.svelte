@@ -14,7 +14,7 @@
 	<h1>Coaching</h1>
 	<h2>Our Practice</h2>
 	<p>
-		Neutral Mediation offers invididuals flexibly-scheduled virtual conflict coaching sessions &mdash creating and executing personal goals amid internal or external conflict. The coaching is led by a trained professional neutral and typically ongoing for a short period, until a client is comfortable practicing the conflict resolution techniques that empower them to move forward. <em>Conflict coaching sessions cost $175 per hour per participant.</em> For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>. For mediation and negotiation training, see our <a href="/training">training page</a>. For mediation, negotiation and conflict consulting for organizations, see our <a href="/consulting">consulting page</a>.
+		Neutral Mediation offers invididuals flexibly-scheduled virtual conflict coaching sessions &mdash creating and achieving personal goals amid pervasive internal and external conflict. The coaching is led by a trained professional neutral and typically ongoing only until a client is comfortable practicing the conflict resolution techniques that empower them to move forward. <em>Conflict coaching sessions cost $175 per hour per participant.</em> For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>. For mediation and negotiation training, see our <a href="/training">training page</a>. For mediation, negotiation and conflict consulting for organizations, see our <a href="/consulting">consulting page</a>.
 	</p>
 	<h2>Our Value</h2>
 	<p>
