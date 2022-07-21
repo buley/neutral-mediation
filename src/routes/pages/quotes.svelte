@@ -814,6 +814,14 @@ the very complex.</p>
 	<h2 id="self-reflection">Self-Reflection Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Neurons that fire together, wire together.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Donald Hebb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>A master in the art of living knows no sharp distinction between his work and his play, his labor and his leisure, his mind and his body, his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing and leaves others to determine whether he is working or playing. To himself he always seems to be doing both.</p>
 		</blockquote>
 		<figcaption class="pullquote">
