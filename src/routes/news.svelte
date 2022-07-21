@@ -4,6 +4,9 @@
 	export const router = browser
 	export const prerender = true;
 	import Pinboard from 'node-pinboard'
+
+	console.log('Pinboard',Pinboard);
+
 	import qs from 'querystring';
 
 	let getNews = function () {
@@ -16,13 +19,13 @@
 			tags: ["mediation","negotiation"],
 			shared: 'yes'
 		}).then((res) => {
-		  //{ result_code: 'done' }
 		  console.log(res);;
 		});*/
 
 		return pin.get({
 			tag: ['mediation', 'negotiation']
 		});
+
 	}
 
 	var dataPromise = getNews();
@@ -30,6 +33,7 @@
 	let rej = function(err) {
 		console.log("ERROR",err);
 	}
+
 	dataPromise.then((data, err) => {
 		if (null !== err && undefined !== err) {
 			rej(err);
