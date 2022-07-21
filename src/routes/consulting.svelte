@@ -16,13 +16,16 @@
 	
 	<h2>Our Practice</h2>
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual consulting services &mdash; such as public and private meeting facilitation, conflict audits and reporting and dispute resolution systems design &mdash; for organizations such as businesses and nonprofits.</p>
+		Neutral Mediation offers flexibly-scheduled virtual consulting services &mdash; such as public and private meeting facilitation, conflict audits and reporting, and dispute resolution systems design &mdash; for organizations such as businesses and nonprofits.</p>
 		<p><em>Consulting sessions cost $175 per hour per participant.</em> Optionally, a neutral can lead consulting services on-site at an organization, pursuant to the <a href="/prices">travel policy</a>.</p>
 		<p>For individual-focused coaching sessions, see our <a href="/coaching">coaching page</a>. For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>. For mediation and negotiation training, see our <a href="/training">training page</a>.
 	</p>
 	<h2>Our Value</h2>
 	<p>
 		A consultant spares emotional trauma, time and expense associated with organizational systems that generate chronic conflict.
+	</p>
+	<p>
+		A neutral creates a safe environment in which participants can develop rapport and explore the emotional vulnerability necessary to move beyond conflict. A neutral teaches and uses tools like active listening, empathy and creativity to inspire teambuilding, challenging limiting and false beliefs, and generating ideas that move people forward.
 	</p>
 
 	<h2>Our Services</h2>
