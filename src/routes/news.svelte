@@ -3,29 +3,55 @@
 	export const hydrate = dev
 	export const router = browser
 	export const prerender = true;
-	let Pinboard;
+	import Pinboard from 'node-pinboard'
+	import qs from 'querystring';
+
+	let getNews = function () {
+		
+		let pin = new Pinboard("tb:09609A3FC3DCC28DDEAC");
+
+		/*pin.add({
+			url: "http://google.com",
+			description: "Test desc",
+			tags: ["mediation","negotiation"],
+			shared: 'yes'
+		}).then((res) => {
+		  //{ result_code: 'done' }
+		  console.log(res);;
+		});*/
+
+		return pin.get({
+			tag: ['mediation', 'negotiation']
+		});
+	}
+
+	var dataPromise = getNews();
+	var postsData = [];
+	let rej = function(err) {
+		console.log("ERROR",err);
+	}
+	dataPromise.then((data, err) => {
+		if (null !== err && undefined !== err) {
+			rej(err);
+		} else if (!!data && !!data.posts) {
+			let posts = [];
+			for(let z = 0; z < data.posts.length; z += 1) {
+				try {
+					posts.push({
+						href: data.posts[z].href,
+						description: data.posts[z].description,
+						tags: data.posts[z].tags
+					});
+				} catch (ee) {
+					rej(ee);
+				}
+			}
+			postsData = posts;
+		} else {
+			rej(new Error("Failure to plan"));
+		}
+	});
 	
-
-	var getNews2 = function() {
-		return new Promise(function(resolve, reject) {
-			import('node-pinboard').then((PinboardMod) => {
-				Pinboard = (!!PinboardMod.default && !!PinboardMod.default.default) ? PinboardMod.default.default : PinboardMod.default;
-				new Pinboard("tb:09609A3FC3DCC28DDEAC").get({ tag: ['negotiation', 'mediation'] }).then(function(apiData) {
-					resolve(apiData.posts);
-				});
-			});
-		});
-	}
-
-	var getNews = function() {
-		return new Promise(function(resolve, reject) {
-			resolve([{
-				href:'#',
-				description: 'Bye'
-			}]);
-		});
-	}
-
 </script>
 
 <svelte:head>
@@ -34,20 +60,28 @@
 </svelte:head>
 
 <div class="content">
-{#await getNews() then data}
+{#await dataPromise}
+	<h1>{!!postsData && postsData.length > 0 ? 'Goodbye' : 'Hello' } World</h1>
+{:then postsData}
 	<h1>News</h1>
 	<p>
-		<em>This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.</em>
+		<em>
+			This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.
+		</em>
 	</p>
 	<ul id="news-links">
-		{#each data as link}
+		{#each postsData as postItem}
 		<li>
-			<a href="{link.href}">{link.description}</a>
+			<a href="{postItem.href}">
+				{postItem.description}
+			</a>
 		</li>
 		{/each}
 	</ul>
+{:catch error}
+	<h1>Error</h1>
+    <p>{error.name}: {error.message}</p>
 {/await}
-
 
 </div>
 

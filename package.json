@@ -41,6 +41,7 @@
 		"cookie": "^0.4.1",
 		"hamburger-menu-svelte": "^2.2.0",
 		"node-pinboard": "^2.0.1",
+		"querystring": "^0.2.1",
 		"svelte2tsx": "^0.5.11"
 	}
 }
