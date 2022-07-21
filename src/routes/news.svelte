@@ -4,13 +4,13 @@
 	export const router = browser
 	export const prerender = true;
 	import { default as Pinboard } from 'node-pinboard'
+	import qs from 'querystring';
 
 	console.log('Pinboard!',Pinboard);
 
-	import qs from 'querystring';
-
 	let getNews = function () {
 		
+		console.log("PIN?",Pinboard);
 		let pin = new Pinboard("tb:09609A3FC3DCC28DDEAC");
 
 		/*pin.add({
