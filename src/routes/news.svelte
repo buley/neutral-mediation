@@ -12,16 +12,7 @@
 		
 		console.log("PIN?",Pinboard);
 		let pin = new Pinboard("tb:09609A3FC3DCC28DDEAC");
-
-		/*pin.add({
-			url: "http://google.com",
-			description: "Test desc",
-			tags: ["mediation","negotiation"],
-			shared: 'yes'
-		}).then((res) => {
-		  console.log(res);;
-		});*/
-
+		console.log("PIN!",pin);
 		return pin.get({
 			tag: ['mediation', 'negotiation']
 		});
