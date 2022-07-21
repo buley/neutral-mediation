@@ -16,7 +16,7 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. <em>Mediation sessions start at $400 per participant.</em> For mediation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/prices">pricing page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral. Optionally, a neutral can lead mediation services on-site at an organization, pursuant to the <a href="/prices">travel policy</a>. <em>Mediation sessions start at $400 per participant.</em> For mediation consulting, see our <a href="/consulting">consulting page</a>. For more information about lunch stipends for full-day sessions, see our <a href="/prices">pricing page</a>.
 	</p>
 
 	<h2>Our Value</h2>
