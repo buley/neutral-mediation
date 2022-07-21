@@ -18,8 +18,8 @@
 	}
 
 	let postsData = [];
-	let dataPromise = getNews();
-	let templatePromise = new Promise((resolve, reject) => {
+	const dataPromise = getNews();
+	const templatePromise = new Promise((resolve, reject) => {
 		console.log("RESOLVE",resolve);
 
 		dataPromise.then((data, err) => {
@@ -60,12 +60,14 @@
 </svelte:head>
 
 <div class="content">
+{#await templatePromise}
 	<h1>News</h1>
 	<p>
 		<em>
 			This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.
 		</em>
 	</p>
+{:then postsData}
 	<ul id="news-links">
 		{#each postsData as postItem}
 		<li>
@@ -75,6 +77,10 @@
 		</li>
 		{/each}
 	</ul>
+{:catch error}
+	<h1>Error</h1>
+    <p>{error.name}: {error.message}</p>
+{/await}
 
 </div>
 
