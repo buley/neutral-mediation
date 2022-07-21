@@ -6,13 +6,10 @@
 	import { default as Pinboard } from 'node-pinboard'
 	import qs from 'querystring';
 
-	console.log('Pinboard!',Pinboard);
+	let P = Pinboard.default || Pinboard;
+	let pin = new P("tb:09609A3FC3DCC28DDEAC");
 
 	let getNews = function () {
-		console.log("PIN?",Pinboard);
-		let P = Pinboard.default || Pinboard;
-		let pin = new P("tb:09609A3FC3DCC28DDEAC");
-		console.log("PIN!",pin);
 		return pin.get({
 			tag: ['mediation', 'negotiation']
 		});
