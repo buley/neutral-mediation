@@ -469,8 +469,15 @@ footer ul li {
 		font-family: var(--sans-serif-font);
 	}
 
+.menu-primary a, .menu-primary a: hover {
+	border-bottom:  0;
+	color: var(--heading-color);
+	text-decoration: none;
+}
+
 .menu-policy, 
 .menu-policy a {
 	font-size:  .75rem;
 	color: #666666;
+	
 }
