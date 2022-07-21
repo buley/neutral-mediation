@@ -10,7 +10,8 @@
 
 	let getNews = function () {
 		console.log("PIN?",Pinboard);
-		let pin = new Pinboard("tb:09609A3FC3DCC28DDEAC");
+		let P = Pinboard.default || Pinboard;
+		let pin = new P("tb:09609A3FC3DCC28DDEAC");
 		console.log("PIN!",pin);
 		return pin.get({
 			tag: ['mediation', 'negotiation']
