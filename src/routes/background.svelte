@@ -21,7 +21,7 @@
 		<p><strong>Taylor Buley</strong></p>
 	</figure>
 
-	<p>At Penn, Taylor studied human choice and behavior earned an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. He studies dispute resolution at Pepperdine's Caruso School of Law.</p>
+	<p>At Penn, Taylor studied human choice and behavior earned an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. At Pepperdine's Caruso School of Law, he studies dispute resolution.</p>
 
 	<p>Taylor is a certified coach with experience in CBT and REBT, with an research focus on emotions, empathy and forgiveness. He instructs meditation and breathing exercises. Taylor has practiced mediation for over two decades.</p>
 
