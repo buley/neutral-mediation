@@ -21,13 +21,13 @@
 		<p><strong>Taylor Buley</strong>, <em>Neutral</em></p>
 	</figure>
 
-	<p>Taylor has focused his career on improving individual choices through improved information.</p>
+	<p>Taylor has practiced mediation for over two decades. At Penn, he studied human choice and behavior earning an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. He studies dispute resolution at Pepperdine's Caruso School of Law.</p>
 
-	<p>In the Ivy League, he studied human choice and behavior and earned an undergraduate degree from Penn in Philosophy, Politics and Economics. He received a master’s degree in Communications from Stanford and studies dispute resolution at Pepperdine's Caruso School of Law.</p>
+	<p>Taylor is a certified coach with experience in CBT and REBT, with a focus on emotions, empathy and forgiveness. He teaches meditation and breathing.</p>
 
-	<p>He's been teaching peer mediation since 1998. Today, he's a certified coach with experience in CBT, REBT, empathy and forgiveness. He teaches meditation and breathing. Read his <a href="/resume">Resume</a> to see Taylor’s professional background as a journalist, programmer and media executive.</p>
+	<p>He worked for the White House Council of Economic Advisors, reason magazine, The Wall Street Journal and was a staff writer at Forbes Magazine. Today he works as a media technology executive. Read his <a href="/resume">Resume</a> to see Taylor’s full professional background.</p>
 
-	<p>Taylor explains Neutral Mediation’s practice and style in the mission and culture statements below. He also wants you to know about Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> processes in detail.</p>
+	<p>Neutral Mediation’s practice and style are expressed in the mission and culture statements below. See also Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> processes in detail.</p>
 
 	<h4>More Information</h4>
 
