@@ -22,7 +22,7 @@
 
 	<p class="has-text-align-left">Half-daily rates include as many as four hours in a session. Daily rates include up to eight hours in session. Full-day and evening half-day sessions can go up to two hours beyond their scheduled four-hour time period for a maximum of ten and six hours per day in-session, respectively, not including meal breaks. </p>
 
-	<p>The meditation session will, by default, take place virtually via secure Zoom meetings. Optionally, it may also take place in any neutral location agreed upon by the two parties, pursuant to the travel policy detailed below.</p>
+	<p>The meditation session will, by default, take place virtually via secure Zoom meetings. Optionally, it may also take place in any neutral location agreed-upon by the two parties, pursuant to the travel policy detailed below.</p>
 
 	<h3>Rates</h3>
 
