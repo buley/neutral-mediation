@@ -23,7 +23,7 @@
 
 	<p>At Penn, Taylor studied human choice and behavior earned an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. At Pepperdine's Caruso School of Law, he studies dispute resolution.</p>
 
-	<p>Taylor is a certified coach with experience in CBT and REBT, with an research focus on emotions, empathy and forgiveness. He instructs meditation and breathing exercises. Taylor has practiced mediation for over two decades.</p>
+	<p>Taylor is a certified coach with experience in CBT and REBT. He specializes in deescalation, empathy and forgiveness. He instructs meditation and breathing exercises. Taylor has practiced mediation for over two decades.</p>
 
 	<p>He has worked for the White House Council of Economic Advisors, reason magazine, The Wall Street Journal and was a staff writer at Forbes Magazine. Today he works as a media technology executive. Read his <a href="/resume">resume</a> to see Taylor’s full history as an executive, board member and volunteer.</p>
 
