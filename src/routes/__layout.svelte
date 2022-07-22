@@ -40,7 +40,7 @@
 			<a sveltekit:prefetch href="/disclaimer">Disclaimer</a>
 		</li>
 	    <li class:active={$page.url.pathname === '/documents'}>
-			<a sveltekit:prefetch href="/documents">Documents</a>
+			<a sveltekit:prefetch href="/documents">Forms & Documents</a>
 		</li>
 	</ul>
 
