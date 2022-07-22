@@ -22,7 +22,7 @@
 		<p><strong>Taylor Buley</strong>, <em>Neutral</em></p>
 	</figure>
 
-	<p>Taylor Buley founded Neutral Mediation to minimize the energetic and financial expense, time and trauma of handling complex disputes. As a professional third-party neutral, Taylor creates conversational spaces of trust, openness and psychological safety where he offers mediation, negotiation, consulting, training and conflict coaching services.</p>
+	<p>Taylor Buley founded Neutral Mediation to minimize the cognitive and financial expense, time and trauma of embroiling complex disputes. As a professional third-party neutral, Taylor creates conversational spaces of trust, openness and psychological safety where he offers mediation, negotiation, consulting, training and conflict coaching services.</p>
 
 	<h2>Our Values</h2>
 
