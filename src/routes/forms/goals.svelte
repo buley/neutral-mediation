@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>Information Security</title>
+	<title>Goal Discovery Form</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Goal Discovery Form</h1>
+	<h1>Goal Discovery</h1>
 	<p>
 		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdeRm9vg250M0qh7HohEryMR3ChC1SFsM8HMYGCznNewrQ35w/viewform" border=0 style="width:100%;min-height:800px;">
 	</p>
