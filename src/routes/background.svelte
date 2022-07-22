@@ -21,11 +21,11 @@
 		<p><strong>Taylor Buley</strong>, <em>Neutral</em></p>
 	</figure>
 
-	<p>Taylor has practiced mediation for over two decades. At Penn, he studied human choice and behavior earning an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. He studies dispute resolution at Pepperdine's Caruso School of Law.</p>
+	<p>At Penn, Taylor studied human choice and behavior earned an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. He studies dispute resolution at Pepperdine's Caruso School of Law.</p>
 
-	<p>Taylor is a certified coach with experience in CBT and REBT, with a focus on emotions, empathy and forgiveness. He teaches meditation and breathing.</p>
+	<p>Taylor is a certified coach with experience in CBT and REBT, with an research focus on emotions, empathy and forgiveness. He instructs meditation and breathing exercises. Taylor has practiced mediation for over two decades.</p>
 
-	<p>He worked for the White House Council of Economic Advisors, reason magazine, The Wall Street Journal and was a staff writer at Forbes Magazine. Today he works as a media technology executive. Read his <a href="/resume">Resume</a> to see Taylor’s full executive, board and volunteer history.</p>
+	<p>He has worked for the White House Council of Economic Advisors, reason magazine, The Wall Street Journal and was a staff writer at Forbes Magazine. Today he works as a media technology executive. Read his <a href="/resume">Resume</a> to see Taylor’s full history as a professional, board member and volunteer.</p>
 
 	<p>Neutral Mediation’s practice and style are expressed in the mission and culture statements below. See also Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> processes in detail.</p>
 
