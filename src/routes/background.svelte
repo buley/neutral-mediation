@@ -18,7 +18,7 @@
 
 	<figure class="headshot">
 		<img src="{headshot}" alt="Headshot of Taylor Buley.">
-		<p><strong>Taylor Buley</strong>, <em>Neutral</em></p>
+		<p><strong>Taylor Buley</strong></p>
 	</figure>
 
 	<p>At Penn, Taylor studied human choice and behavior earned an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. He studies dispute resolution at Pepperdine's Caruso School of Law.</p>
