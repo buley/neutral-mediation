@@ -17,7 +17,7 @@
 	<h2>Our Practice</h2>
 
 	<p>
-		Neutral Mediation offers flexibly-scheduled virtual training and practice for people and organizations, led by a professional neutral. <a href="/background">Read about our neutral here</a>. Optionally, training sessions can be held on-premise at an organization or other agreed-upon location, pursuant to the <a href="/prices">travel policy</a>. <em>Training sessions start at $1,250 per day per participant.</em> For more information about lunch stipends for full-day training sessions, see our <a href="/prices">pricing page</a>.
+		Neutral Mediation offers flexibly-scheduled virtual training and practice for people and organizations, led by a professional neutral. <a href="/background">Read about our neutral here</a>. Optionally, training sessions can be held on-premise at an organization or other agreed-upon location, pursuant to the <a href="/prices">travel policy</a>. <em>Training sessions start at $1,250 per day per participant.</em> For more information about lunch stipends for full-day training sessions, see our <a href="/prices">pricing page</a>. For individual-focused coaching sessions, see our <a href="/coaching">coaching page</a>. For neutral-led mediation sessions, see our <a href="/mediation">mediation page</a>. For neutral-led negotiation sessions, see our <a href="/negotiation">negotiation page</a>. For mediation, negotiation and conflict consulting for organizations, see our <a href="/consulting">consulting page</a>.
 	</p>
 
 	<h2>Our Value</h2>
