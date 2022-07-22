@@ -34,7 +34,9 @@
 
 	<p>Neutral Mediation exists to create an informal and safe environment for people to hear and be heard while pursuing creative options and solutions to relationship problems. It views each conflict as an opportunity for practicing peace and seeks resolution beyond dispute with empathy, education and empowerment.</p>
 
-	<p>Neutral Mediation values, above all else, ethics and personal integrity. It believes that a mediator with integrity should be neutral in name, word and deed. It believes in trusting others, too, to do what they say act in accordance with their stated values. It believes that with diversity comes the blessing of multiple viewpoints and an opportunity for commonality. </p>
+	<p>Neutral Mediation values, above all else, ethics and personal integrity. It believes that a mediator with integrity should be neutral in name, word and deed. It believes in trusting others, too, to do what they say act in accordance with their stated values.</p>
+
+	<p>Neutral Mediation believes in curiousity and acceptance. It believes in validating experience and feelings. It believes that with diversity comes the blessing of multiple viewpoints and an opportunity for commonality.</p>
 
 	<p>Neutral Mediation is relentlessly welcoming of diverse opinions and backgrounds. It believes in face-to-face meetings and taking people at face value. It believes in using first names, good faith and eye contact.</p>
 
