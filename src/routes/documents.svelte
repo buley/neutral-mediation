@@ -13,6 +13,13 @@
 <div class="content">
 	<h1>Documents & Forms</h1>
 
+	<ul>
+		<li><a href="/forms/assessment">Self-Assessment</a></li>
+		<li><a href="/forms/autopilot">Autopilot Analysis</a></li>
+		<li><a href="/forms/coaching">Coaching Analysis</a></li>
+		<li><a href="/forms/conflict">Conflict Analysis</a></li>
+		<li><a href="/forms/goals"></a></li>
+	</ul>
 	<h3>Request Forms</h3>
 
 	<h4>Mediation</h4>
