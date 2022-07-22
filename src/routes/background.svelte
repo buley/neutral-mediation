@@ -25,7 +25,7 @@
 
 	<p>Taylor is a certified coach with experience in CBT and REBT, with a focus on emotions, empathy and forgiveness. He teaches meditation and breathing.</p>
 
-	<p>He worked for the White House Council of Economic Advisors, reason magazine, The Wall Street Journal and was a staff writer at Forbes Magazine. Today he works as a media technology executive. Read his <a href="/resume">Resume</a> to see Taylor’s full professional background.</p>
+	<p>He worked for the White House Council of Economic Advisors, reason magazine, The Wall Street Journal and was a staff writer at Forbes Magazine. Today he works as a media technology executive. Read his <a href="/resume">Resume</a> to see Taylor’s full executive, board and volunteer history.</p>
 
 	<p>Neutral Mediation’s practice and style are expressed in the mission and culture statements below. See also Neutral Mediation’s approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> processes in detail.</p>
 
