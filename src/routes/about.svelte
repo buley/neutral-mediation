@@ -22,7 +22,7 @@
 		<p><a href="/background"><strong>Taylor Buley</strong>, <em>Neutral</em></a></p>
 	</figure>
 
-	<p>Taylor Buley founded Neutral Mediation to minimize the cognitive and financial expense, time and trauma of embroiling complex disputes. As a professional third-party neutral, Taylor creates conversational spaces of trust, openness and psychological safety where he offers mediation, negotiation, consulting, training and conflict coaching services to help clients find paths forward beyond conflict.</p>
+	<p>Taylor Buley founded Neutral Mediation to minimize the trauma, time and financial expense of complex disputes. As a professional third-party neutral, Taylor creates conversational spaces of trust, openness and psychological safety where he offers mediation, negotiation, consulting, training and conflict coaching services to help clients find paths forward beyond conflict.</p>
 
 	<p><em>Neutral Mediation’s EIN is 87-2105551. <a href="/w9">Click here for a downloadable W-9</a>.</em></p>
 
