@@ -656,6 +656,17 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Nothing moves forward in a story except through conflict.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Robert McKee, <em>Story: Substance, Structure, Style, and the Principles of Screenwriting</em>
+		</figcaption>
+	</figure>
+
+
+
+	<figure>
+		<blockquote class="pullquote">
 			<p>Our ‘opponents’ are our co-creators, for they have something to give which we have not. The basis of all cooperative activity is integrated diversity.... What people often mean by getting rid of conflict is getting rid	of diversity, and it is of the utmost importance that these should not be considered the same. We may wish to abolish conflict, but we cannot get rid of diversity. We must face life as it is and understand that diversity is its most essential feature... Fear of difference is dread of life itself. It is possible to conceive conflict as not necessarily a wasteful outbreak of incompatibilities, but a normal process by which socially valuable differences register themselves for the enrichment of all concerned.</p>
 		</blockquote>
 		<figcaption class="pullquote">
