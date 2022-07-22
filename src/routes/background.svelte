@@ -23,7 +23,7 @@
 
 	<p>At Penn, Taylor studied human choice and behavior earned an undergraduate degree in Philosophy, Politics and Economics. At Stanford, he received a master’s degree in Communications. At Pepperdine's Caruso School of Law, he studies dispute resolution.</p>
 
-	<p>Taylor has practiced and proselytized peer mediation for most of his life. He is a certified coach with experience in CBT and REBT. He specializes in deescalation, empathy and forgiveness. Taylor teaches meditation and breathing practice.</p>
+	<p>Taylor has practiced and proselytized peer mediation for most of his life. He is a certified coach with training in Cognitive Behaviorial Theory (CBT) and Rational Emotional Behavioral Theory (REBT). He specializes in deescalation, empathy and forgiveness. Taylor teaches meditation and breathing practice.</p>
 
 	<p>Neutral Mediation’s practice and style are expressed in its <a href="/about">mission</a> and <a href="/about">culture statements</a>. See also its approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> processes in detail.</p>
 
