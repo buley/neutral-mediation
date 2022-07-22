@@ -13,16 +13,18 @@
 <div class="content">
 	<h1>Forms & Documents</h1>
 
-	<h3>Request Forms</h3>
+	<h3>Client Forms</h3>
 
 	<h4>Mediation</h4>
 	<ul>
 		<li>Mediation Consultation Request Form</li>
 	</ul>
+
 	<h4>Negotiation</h4>
 	<ul>
 		<li>Negotiation Consultation Request Form</li>
 	</ul>
+
 	<h4>Coaching</h4>
 	<ul>
 		<li><a href="/forms/assessment">Self-Assessment</a></li>
@@ -31,6 +33,7 @@
 		<li><a href="/forms/conflict">Conflict Analysis</a></li>
 		<li><a href="/forms/goals">Goals Analysis</a></li>
 	</ul>
+
 	<h3>Questionnaires</h3>
 	<ul>
 		<li>Mediation Consultation Participant Questionnaire</li>
