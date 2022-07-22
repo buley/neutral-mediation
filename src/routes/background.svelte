@@ -27,7 +27,7 @@
 
 	<p>He has worked for the White House Council of Economic Advisors, reason magazine, The Wall Street Journal and was a staff writer at Forbes Magazine. Today he works as a media technology executive. Read his <a href="/resume">resume</a> to see Taylor’s full history as an executive, board member and volunteer.</p>
 
-	<p>Neutral Mediation’s practice and style are expressed in its <a href="/about">mission</a> and <a href="/about">culture statements</a>. See also its approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> processes in detail.</p>
+	<p>Neutral Mediation’s practice and style are expressed in its <a href="/about">mission</a> and <a href="/about">culture statements</a>. See also its approach to <a href="/ethics">ethics</a>, <a href="/pages/mediation/mediation-confidentiality">confidentiality</a> and <a href="/security">information security</a>. He outlines his <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a>, <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a> processes in detail.</p>
 
 	<h4>More Information</h4>
 
