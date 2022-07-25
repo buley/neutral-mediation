@@ -766,10 +766,10 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Like a dance, conflict escalation generally requires the participation of both parties.</p>
+			<p>I know they wanna see me go, I'm on a roll<br>I mean I'm back on this again, I'm here again<br>You know the truth, this not pretend, I'm not your friend<br>Not your guy, I'm not your buddy, show no lovin'</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Brian Mistler
+			Drake, <em>6 Man</em>
 		</figcaption>
 	</figure>
 	<figure>
