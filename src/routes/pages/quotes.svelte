@@ -839,6 +839,14 @@ the very complex.</p>
 	<h2 id="self-reflection">Self-Reflection Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Almost everything will work again if you unplug it for a few minutes, including you.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Anne Lamott
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Neurons that fire together, wire together.</p>
 		</blockquote>
 		<figcaption class="pullquote">
