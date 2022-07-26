@@ -142,6 +142,17 @@ the very complex.</p>
 			Desmond Tutu
 		</figcaption>
 	</figure>
+
+	
+
+	<figure>
+		<blockquote class="pullquote">
+			<p>The rules of the game: learn everything, read everything, inquire into everything.... When two texts, or two assertions, or perhaps two ideas, are in contradiction, be ready to reconcile them rather than cancel one by the other; regard them as two different facets, or two successive stages of the same reality, a reality convincingly human just because it is complex.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marguerite Yourcenar
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Our lives begin to end the day we become silent about things that matter.</p>
