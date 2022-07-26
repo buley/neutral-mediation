@@ -338,6 +338,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Battle not with monsters, lest ye become a monster, and if you gaze into the abyss, the abyss gazes also into you.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Friedrich Nietzsche, <em><cite>Beyond Good and Evil</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Men decide far more problems by hate, love, lust, rage, sorrow, joy, hope, fear, illusion or some other inward emotion, than by reality, authority, any legal standard, judicial precedent, or statute.</p>
 		</blockquote>
 		<figcaption class="pullquote">
