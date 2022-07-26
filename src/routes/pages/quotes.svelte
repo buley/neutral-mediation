@@ -26,7 +26,7 @@
 			<p>While you may prefer a simple step-by-step guide guaranteed to help you navigate life's difficulties, we have found the rescipe approach to dispute resolution hopelessly inadequate.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Kenneth Cloke
+			Kenneth Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
