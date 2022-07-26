@@ -27,11 +27,12 @@
 
 	<h4>Coaching</h4>
 	<ul>
-		<li><a href="/forms/assessment">Self-Assessment</a></li>
 		<li><a href="/forms/autopilot">Autopilot Analysis</a></li>
 		<li><a href="/forms/coaching">Coaching Analysis</a></li>
 		<li><a href="/forms/conflict">Conflict Analysis</a></li>
 		<li><a href="/forms/goals">Goals Analysis</a></li>
+		<li><a href="/forms/conflict">Positive Conflict Analysis</a></li>
+		<li><a href="/forms/assessment">Self-Assessment</a></li>
 	</ul>
 
 	<h3>Questionnaires</h3>
