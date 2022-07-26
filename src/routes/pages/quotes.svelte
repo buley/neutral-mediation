@@ -1051,6 +1051,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>If this man had not maintained peace in the world, and revived the economy of the empire, his personal fortunes and misfortunes would have moved me less.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marguerite Yourcenar, <em><cite>Memoirs of Hadrian</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The gold old fays may not return<br>The rocks might melt, and the sea may burn.</p>
 		</blockquote>
 		<figcaption class="pullquote">
