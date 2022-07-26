@@ -142,15 +142,12 @@ the very complex.</p>
 			Desmond Tutu
 		</figcaption>
 	</figure>
-
-	
-
 	<figure>
 		<blockquote class="pullquote">
-			<p>The rules of the game: learn everything, read everything, inquire into everything.... When two texts, or two assertions, or perhaps two ideas, are in contradiction, be ready to reconcile them rather than cancel one by the other; regard them as two different facets, or two successive stages of the same reality, a reality convincingly human just because it is complex.</p>
+			<p>The rules of the game: learn everything, read everything, inquire into everything, while at the same time adapting to one's ends the Spiritual Exercises of Ignatius of Loyola, or the method of Hindu ascetics, who for years, and to the point of exhaustion, try to visualize ever more exactly the images which they create beneath their closed eyelids. Through hundreds of card notes pursue each incident to the very moment that it occurred; endeavor to restore the mobility and suppleness of life to those visages known only to us in stone. When two texts, or two assertions, or perhaps two ideas, are in contradiction, be ready to reconcile them rather than cancel one by the other; regard them as two different facets, or two successive stages of the same reality, a reality convincingly human just because it is complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Marguerite Yourcenar
+			Marguerite Yourcenar, <em><cite>Memoirs of Hadrian</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -966,6 +963,24 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Zen proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>I have read nearly everything that our historians and poets have written, and even our story-tellers, although the latter are considered frivolous; and to such reading I owe perhaps more instruction than I have gathered in the somewhat varied situations of my own life.</p>
+			<p>The written word has taught me to listen to the human voice, much as great unchanging statues have taught me to appreciate bodily motions. On the other hand, but more slowly, life has thrown light for me on the meaning of books.</p>
+			<p>But books lie, even those that are most sincere.</p>
+			<p>[...]</p>
+			<p>The poets transport us into a world which is vaster and more beautiful than our own, with more ardor and sweetness, different therefore, and in practice almost uninhabitable.</p>
+			<p>The philosophers, in order to study reality pure, subject it to about the same transformation as fire or pestle make substance undergo: nothing that we have known of a person or a fact seems to subsist in those ashes or those crystals to which they are reduced.</p>
+			<p>Historians propose to us systems too perfect for explaining the past, with sequence of cause and effect much too exact and clear to have been entirely true;</p>
+			<p>[...]</p>
+			<p>Direct observation of man is a method still less satisfactory, limited as it frequently is to the cheap reflections which human malice enjoys.</p>
+			<p>[...]</p>
+			<p>Almost everything that we know about anyone else is at second hand.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marguerite Yourcenar, <em><cite>Memoirs of Hadrian</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
