@@ -23,6 +23,14 @@
 	<h2 id="mediation">Mediation Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
+			<p>While you may prefer a simple step-by-step guide guaranteed to help you navigate life's difficulties, we have found the rescipe approach to dispute resolution hopelessly inadequate.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Kenneth Cloke
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>We don’t have to do all of it alone. We were never meant to.</p>
 		</blockquote>
 		<figcaption class="pullquote">
