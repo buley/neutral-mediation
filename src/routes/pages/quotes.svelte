@@ -218,6 +218,16 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>In conflict resolution, the way out is through.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	
+
+	<figure>
+		<blockquote class="pullquote">
 			<p><em>De gustibus non est disputandum, or de gustibus non disputandum est.</em></p>
 			<p>In matters of taste, there can be no disputes.</p>
 		</blockquote>
