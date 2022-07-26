@@ -322,6 +322,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>When we are in conflict, we say things we do not mean and mean things we do not say. Only rarely do we communicate at a deep level what we really, honestly think and feel, or do so in ways that are empathetic. We seldom spreak from our hearts or expose our vulnerability in ways our opponent can hear.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>When dealing with people, remember you are not dealing with creatures of logic, but with creatures of emotion.</p>
 		</blockquote>
 		<figcaption class="pullquote">
