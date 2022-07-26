@@ -847,6 +847,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>These are the times in which a genius would wish to live. It is not in the still calm of life, or the repose of a pacific station, that great characters are formed. The habits of a vigorous mind are formed in contending with difficulties. Great necessities call out great virtues. When a mind is raised, and animated by scenes that engage the heart, then those qualities which would otherwise lay dormant, wake into life and form the character of the hero and the statesman.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Abigail Adams
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Neurons that fire together, wire together.</p>
 		</blockquote>
 		<figcaption class="pullquote">
