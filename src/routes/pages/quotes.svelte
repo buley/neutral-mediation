@@ -224,8 +224,6 @@ the very complex.</p>
 			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
 		</figcaption>
 	</figure>
-	
-
 	<figure>
 		<blockquote class="pullquote">
 			<p><em>De gustibus non est disputandum, or de gustibus non disputandum est.</em></p>
@@ -941,6 +939,14 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			John Ruskin
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p><em>If it bleeds, it leads.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Newsroom proverb
 		</figcaption>
 	</figure>
 	<figure>
