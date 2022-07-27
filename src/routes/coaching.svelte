@@ -27,7 +27,7 @@
 		Fixed mindsets personas lead to beating yourself up or blaming other people for obstacles you may face. In contrast, a conflict coach invites you into a proces of self-discovery: changing yourself, your relationship to the world and, as a result, more effectively and positively influencing the circumstances around you. Coaches not only help to improve communication skills and success, but encourage people to believe in themselves, who they are and who they can become. A coach invites you to dangerously  discover who you are by receiving honest feedback tailored to improve and supplement your skills, attitudes and behaviors. Clients joyously open themselves to new experiences and ideas and take conscious risks they may have otherwise avoided. 
 	</p>
 	<p>
-		There are several tested models for life coaching available. They are often named after their acronym (or backronym). Most of them do the same thing: empower a third-party to help someone set goals and then reach them, incrementally and iteratively, often achieving personal growth through indentifying false or negative beliefs and behaviors. Example coaching models include the following:
+		There are several tested models for life coaching available. They are often named after their acronym (or backronym). Most of them do the same thing: empower a third-party to help someone set goals and then reach them, incrementally and iteratively, often achieving personal growth through indentifying false or negative beliefs and behaviors. Example goal frameworks for coaching include the following:
 	</p>
 	<ul>
 		<li><strong>GROW</strong>: Goal, Reality, Options, Way Forward</li>
