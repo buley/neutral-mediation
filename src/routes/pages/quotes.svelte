@@ -444,6 +444,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Talk comes cheap.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Clark Shutt
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>It only takes <em>one</em> to stop the tango, and that one could be you.</p>
 		</blockquote>
 		<figcaption class="pullquote">
