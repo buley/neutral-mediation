@@ -53,7 +53,7 @@
 		<li><a href="/pages/mediation/limits-of-mediation">Limits of Mediation</a></li>
 		<li><a href="/pages/mediation/mediation-process">Mediation Process</a></li>
 		<li><a href="/pages/mediation/who-mediators-are">Who Mediators Are</a></li>
-		<li><a href="/pages/mediation/how-to-involve-a-neutral">How to Unvolve a Mediator</a></li>
+		<li><a href="/pages/mediation/how-to-involve-a-neutral">How to Involve a Mediator</a></li>
 		<li><a href="/pages/mediation/how-mediators-add-value">How Mediators Add Value</a></li>
 		<li><a href="/pages/mediation/what-a-mediator-does">What a Mediator Does</a></li>
 		<li><a href="/pages/mediation/how-mediators-add-value">Why a Mediator Is Worthwhile</a></li>
