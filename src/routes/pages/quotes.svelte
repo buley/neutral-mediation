@@ -452,6 +452,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>... as much as talent counts, effort counts twice.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Angela Duckworth, <em><cite>Grit</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>It only takes <em>one</em> to stop the tango, and that one could be you.</p>
 		</blockquote>
 		<figcaption class="pullquote">
