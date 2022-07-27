@@ -320,6 +320,16 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>So it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you are saying? You will just be speaking into the air.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			1 Corinthians, <em>14:9</em>
+		</figcaption>
+	</figure>
+
+
+	<figure>
+		<blockquote class="pullquote">
 			<p>Listening is a magnetic and strange thing, a creative force … When we are listened to, it creates us, makes us unfold and expand. Ideas actually begin to grow within us and come to life. … It makes people happy and free when they are listened to.</p>
 		</blockquote>
 		<figcaption class="pullquote">
