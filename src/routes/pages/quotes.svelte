@@ -184,6 +184,22 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>When you are quiet you are connected<br>Your silence brings out<br>Your self understanding that<br>You are part of the sacred world<br>It's your silence that connects you to the sacred world.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Tuhunnu and Pesio, <em><cite>IR9 Indigenous & Black Wisdubs</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>When we listen to people, our language softens. Listening may be the cardinal act of giving... It is the source of peace.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Paul Hawken, <em><cite>Growing a Business</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Everyone wants to change the world, but no one wants to start with themselves.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -312,7 +328,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Listening is not something that we do all the time. It’s work. It’s a commitment.</p>
+			<p>Listening is not something that we do all the time. It's work. It's a commitment.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Krista Tippett
