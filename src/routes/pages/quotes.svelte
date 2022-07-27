@@ -444,10 +444,10 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Talk comes cheap.</p>
+			<p>Talk is cheap, but it can cost you plenty.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Clark Shutt
+			Charles F. Glassman
 		</figcaption>
 	</figure>
 	<figure>
