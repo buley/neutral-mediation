@@ -842,6 +842,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>... like all self-fulfilling prophecies, hostile attitudes generate hostile realities.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The most dangerous person is the one who listens, thinks and observes.</p>
 		</blockquote>
 		<figcaption class="pullquote">
