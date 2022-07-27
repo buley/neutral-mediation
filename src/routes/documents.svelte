@@ -30,6 +30,7 @@
 		<li><a href="/forms/autopilot">Autopilot Analysis</a></li>
 		<li><a href="/forms/coaching">Coaching Analysis</a></li>
 		<li><a href="/forms/collaboration">Collaboration Analysis</a></li>
+		<li><a href="/forms/communication">Communication Analysis</a></li>
 		<li><a href="/forms/conflict">Conflict Analysis</a></li>
 		<li><a href="/forms/goals">Goals Analysis</a></li>
 		<li><a href="/forms/conflict">Positive Conflict Analysis</a></li>
