@@ -349,7 +349,7 @@ the very complex.</p>
 			</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Brenda Ueland, <em><cite>The Art of Listening</cite></em>
+			Brenda Ueland, <em><cite>Tell Me More: On the Fine Art of Listening</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
