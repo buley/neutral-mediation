@@ -313,6 +313,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>It is a bitter truth that victories won in anger lead to long-term defeat.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>A person cannot teach another person directly; a person can only facilitate another's learning.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -374,6 +382,14 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Seneca
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It only takes <em>one</em> to stop the tango, and that one could be you.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
