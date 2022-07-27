@@ -31,7 +31,7 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>We don’t have to do all of it alone. We were never meant to.</p>
+			<p>We don't have to do all of it alone. We were never meant to.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Brené Brown
@@ -96,7 +96,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Genuine politics – politics worthy of the name, and the only politics I am willing to devote myself to – is simply a matter of serving those around us: serving the community, and serving those who will come after us. It's deepest roots are moral because it is a responsibility … [T]here is only one way to strive for decency, reason, responsibility, sincerity, civility, and	tolerance, and that is decently, reasonably, responsibly, sincerely, civilly, and tolerantly. I’m aware that, in everyday politics, this is not seen as the most practical way of going about it.</p>
+			<p>Genuine politics – politics worthy of the name, and the only politics I am willing to devote myself to – is simply a matter of serving those around us: serving the community, and serving those who will come after us. It's deepest roots are moral because it is a responsibility … [T]here is only one way to strive for decency, reason, responsibility, sincerity, civility, and	tolerance, and that is decently, reasonably, responsibly, sincerely, civilly, and tolerantly. I'm aware that, in everyday politics, this is not seen as the most practical way of going about it.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Vaclav Havel
@@ -197,7 +197,7 @@ the very complex.</p>
 			<p>We should all know this: that listening, not talking, is the gifted and great role, and the imaginative role. And the true listener is much more beloved, magnetic than the talker, and he is more effective and learns more and does more good. And so try listening. Listen to your wife, your husband, your father, your mother, your children, your friends; to those who love you and those who don't, to those who bore you, to your enemies. It will work a small miracle. And perhaps a great one.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Brenda Ueland, <em><cite>The art of listening</cite></em>
+			Brenda Ueland, <em><cite>The Art of Listening</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -243,7 +243,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>A culture that allows the concept of ‘safety’ to creep so far that it equates emotional discomfort with physical danger is a culture that encourages people to systematically protect one another from the very experiences embedded in everyday life that they need in order to become strong and healthy.</p>
+			<p>A culture that allows the concept of ‘safety' to creep so far that it equates emotional discomfort with physical danger is a culture that encourages people to systematically protect one another from the very experiences embedded in everyday life that they need in order to become strong and healthy.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Jonathan Haidt and Greg Lukianoff, <em><em>The Coddling of the American Mind</em></em>
@@ -296,7 +296,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>No person hands out their money to passersby, but to how many do each of us hand out our lives! We’re tight-fisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.</p>
+			<p>No person hands out their money to passersby, but to how many do each of us hand out our lives! We're tight-fisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Seneca, <em>On the Brevity of Life</em>
@@ -304,7 +304,31 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>It is quite true that man lives by bread alone — when there is no bread. But what happens to man’s desires when there is plenty of bread and when his belly is chronically filled?</p>
+			<p>Listening is a magnetic and strange thing, a creative force … When we are listened to, it creates us, makes us unfold and expand. Ideas actually begin to grow within us and come to life. … It makes people happy and free when they are listened to.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brenda Ueland, <em><cite>Tell Me More: On the Fine Art of Listening</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Listening is not something that we do all the time. It’s work. It’s a commitment.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Krista Tippett
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It's easy to listen if we like what the other person is saying. However, we don't listen well when we're under fire because we are hard wired for defensiveness... When we listen defensively, we automatically listen for what we don't agree with. We listen for the exaggerations, errors and distortions that will inevitably be there... Let's face it. Almost all of us are more invested in improving our talking skills than in improving our listening skills. Our desire to be understood is far stronger than our desire to understand the other person.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Dr. Harriet Lerner
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It is quite true that man lives by bread alone — when there is no bread. But what happens to man's desires when there is plenty of bread and when his belly is chronically filled?</p>
 			<p>At once other (and 'higher') needs emerge and these, rather than physiological hungers, dominate the organism. And when these in turn are satisfied, again new (and still 'higher') needs emerge and so on. This is what we mean by saying that the basic human needs are organized into a hierarchy of relative prepotency.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -338,7 +362,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>You shouldn’t give circumstances the power to rouse anger, for they don’t care at all.</p>
+			<p>You shouldn't give circumstances the power to rouse anger, for they don't care at all.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Marcus Aurelius
@@ -394,7 +418,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>The greatest and most important problems of life are all in a certain sense insoluble…. They can never be solved, but only outgrown…. This ‘outgrowing’, as I formerly called it, on further experience was seen to consist in a new level of consciousness. Some higher or wider interest arose on the person’s horizon, and through this widening of view, the insoluble problem lost its urgency. It was not solved logically in its own terms, but faded out when confronted with a new and stronger life-tendency.</p>
+			<p>The greatest and most important problems of life are all in a certain sense insoluble…. They can never be solved, but only outgrown…. This ‘outgrowing', as I formerly called it, on further experience was seen to consist in a new level of consciousness. Some higher or wider interest arose on the person's horizon, and through this widening of view, the insoluble problem lost its urgency. It was not solved logically in its own terms, but faded out when confronted with a new and stronger life-tendency.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Carl Jung
@@ -477,7 +501,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Keep this thought handy when you feel a fit of rage coming on— it isn’t manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. A real man doesn’t give way to anger and discontent, and such a person has strength, courage, and endurance— unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength.</p>
+			<p>Keep this thought handy when you feel a fit of rage coming on— it isn't manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. A real man doesn't give way to anger and discontent, and such a person has strength, courage, and endurance— unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Marcus Aurelius
@@ -555,8 +579,8 @@ the very complex.</p>
 			<p>Stones and sticks break only skin, while words are ghosts that haunt me.</p>
 			<p>Slant and curved the word-swords fall, it pierces and sticks inside me.</p>
 			<p>Bats and bricks may ache through bones, but words can mortify me.</p>
-			<p>Pain from words has left its’ scar, on mind and hear that’s tender.</p>
-			<p>Cuts and bruises have not healed, it’s words that I remember.</p>
+			<p>Pain from words has left its' scar, on mind and hear that's tender.</p>
+			<p>Cuts and bruises have not healed, it's words that I remember.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Ruby Redfort, <em>Sticks and Stones</em>
@@ -636,7 +660,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>It doesn’t hurt me unless I interpret it’s happening as harmful to me. I can choose not to.</p>
+			<p>It doesn't hurt me unless I interpret it's happening as harmful to me. I can choose not to.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Marcus Aurelius
@@ -653,7 +677,7 @@ the very complex.</p>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Today, Creator, grant me the courage and the will to forgive the people I love the most. Help me to forgive	every injustice I feel in my mind, and to love other people unconditionally. I know the only way to heal all the pain in my heart is through forgiveness.</p>
-			<p>Today, Creator, strengthen my will to forgive everyone who has hurt me, even if I believe the offense is unforgivable. I know that forgiveness is an act of self-love. Help me to love myself so much that I forgive every offense. Let me choose forgiveness because I don’t want to suffer every time I remember the offense.</p>
+			<p>Today, Creator, strengthen my will to forgive everyone who has hurt me, even if I believe the offense is unforgivable. I know that forgiveness is an act of self-love. Help me to love myself so much that I forgive every offense. Let me choose forgiveness because I don't want to suffer every time I remember the offense.</p>
 			<p>Today, Creator, help me to heal all the guilt in my heart by accepting the forgiveness of everyone I have hurt in my life. Help me to sincerely recognize the mistakes I have made out of ignorance, and give me the wisdom	and determination to refrain from making the same mistakes. I know that love and forgiveness will transform every relationship in the most positive way.</p>
 			<p>Thank you, Creator, for giving me the capacity to love and forgive. Today I open my heart to love and forgiveness, so that I can share my love without fear. Today I will enjoy a reunion with the people I love the most. Amen.</p>
 		</blockquote>
@@ -671,7 +695,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Anger is not impressive or tough— it’s a mistake. It’s weakness. Depending on what you’re doing, it might even be a trap that someone laid for you.</p>
+			<p>Anger is not impressive or tough— it's a mistake. It's weakness. Depending on what you're doing, it might even be a trap that someone laid for you.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Ryan Holiday and Stephen Hanselman, <em>The Daily Stoic</em>
@@ -679,7 +703,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Keep in mind that it isn’t the one who has it in for you and takes a swipe that harms you, but rather the harm comes from your own belief about the abuse. So when someone arouses your anger, know that it’s really your own opinion fueling it. Instead, make it your first response not to be carried away by such impressions, for with time and distance self-mastery is more easily achieved.</p>
+			<p>Keep in mind that it isn't the one who has it in for you and takes a swipe that harms you, but rather the harm comes from your own belief about the abuse. So when someone arouses your anger, know that it's really your own opinion fueling it. Instead, make it your first response not to be carried away by such impressions, for with time and distance self-mastery is more easily achieved.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Epictetus
@@ -695,7 +719,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Everybody in the world is seeking happiness—and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn’t depend on outward conditions. It depends on inner conditions. It isn’t what you have or who you are or what you are doing that makes you happy or unhappy. It is what you think about it.</p>
+			<p>Everybody in the world is seeking happiness—and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions. It isn't what you have or who you are or what you are doing that makes you happy or unhappy. It is what you think about it.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Dale Carnegie,&nbsp;<em>How to Win Friends and Influence People</em>
@@ -720,7 +744,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>The absence of conflict is not harmony, it’s apathy. If you’re in a group where people never disagree, the only way that could really happen is if people don’t care enough to speak their minds.</p>
+			<p>The absence of conflict is not harmony, it's apathy. If you're in a group where people never disagree, the only way that could really happen is if people don't care enough to speak their minds.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Adam Grant
@@ -728,7 +752,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Our ‘opponents’ are our co-creators, for they have something to give which we have not. The basis of all cooperative activity is integrated diversity.... What people often mean by getting rid of conflict is getting rid	of diversity, and it is of the utmost importance that these should not be considered the same. We may wish to abolish conflict, but we cannot get rid of diversity. We must face life as it is and understand that diversity is its most essential feature... Fear of difference is dread of life itself. It is possible to conceive conflict as not necessarily a wasteful outbreak of incompatibilities, but a normal process by which socially valuable differences register themselves for the enrichment of all concerned.</p>
+			<p>Our ‘opponents' are our co-creators, for they have something to give which we have not. The basis of all cooperative activity is integrated diversity.... What people often mean by getting rid of conflict is getting rid	of diversity, and it is of the utmost importance that these should not be considered the same. We may wish to abolish conflict, but we cannot get rid of diversity. We must face life as it is and understand that diversity is its most essential feature... Fear of difference is dread of life itself. It is possible to conceive conflict as not necessarily a wasteful outbreak of incompatibilities, but a normal process by which socially valuable differences register themselves for the enrichment of all concerned.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Mary Parker Follett
@@ -784,9 +808,9 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>First, never use a one-size-fits-all decision-making process. Many decisions are reversible, two-way doors. Those decisions can use a light-weight process. For those, so what if you’re wrong?<br>
+			<p>First, never use a one-size-fits-all decision-making process. Many decisions are reversible, two-way doors. Those decisions can use a light-weight process. For those, so what if you're wrong?<br>
 			<br>
-			…Second, most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you’re probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you’re good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.</p>
+			…Second, most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you're good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Jeff Bezos
@@ -854,7 +878,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>I say, let no one rob me of a single day who isn’t going to make a full return on the loss.</p>
+			<p>I say, let no one rob me of a single day who isn't going to make a full return on the loss.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Seneca,&nbsp;<em>On Tranquility of Mind</em>
@@ -927,7 +951,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>How many times do we pay for one mistake? The answer is thousands of times. The human is the only animal on earth that pays a thousand times for the same mistake. The rest of the animals pay once for every mistake they make. But not us. We have a powerful memory. We make a mistake, we judge ourselves, we find ourselves guilty, and we punish ourselves. If justice exists, then that was enough; we don’t need to do it again. But every time we remember, we judge ourselves again, we are guilty again, and we punish ourselves again, and again, and again. If we have a wife or husband he or she also reminds us of the mistake, so we can judge ourselves again, punish ourselves again, and find ourselves guilty again. Is this fair?</p>
+			<p>How many times do we pay for one mistake? The answer is thousands of times. The human is the only animal on earth that pays a thousand times for the same mistake. The rest of the animals pay once for every mistake they make. But not us. We have a powerful memory. We make a mistake, we judge ourselves, we find ourselves guilty, and we punish ourselves. If justice exists, then that was enough; we don't need to do it again. But every time we remember, we judge ourselves again, we are guilty again, and we punish ourselves again, and again, and again. If we have a wife or husband he or she also reminds us of the mistake, so we can judge ourselves again, punish ourselves again, and find ourselves guilty again. Is this fair?</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Miguel Ruiz, <em><cite>The Four Agreements: A Practical Guide to Personal Freedom</cite></em>
@@ -1013,7 +1037,7 @@ the very complex.</p>
 			<p>A senior monk and a junior monk were traveling together. At one point, they came to a river with a strong current. As the monks were preparing to cross the river, they saw a very young and beautiful woman also attempting to cross. The young woman asked if they could help her cross to the other side.</p>
 			<p>The two monks glanced at one another because they had taken vows not to touch a woman.</p>
 			<p>Then, without a word, the older monk picked up the woman, carried her across the river, placed her gently on the other side, and carried on his journey.</p>
-			<p>The younger monk couldn’t believe what had just happened. After rejoining his companion, he was speechless, and an hour passed without a word between them.</p>
+			<p>The younger monk couldn't believe what had just happened. After rejoining his companion, he was speechless, and an hour passed without a word between them.</p>
 			<p>Two more hours passed, then three, finally the younger monk could contain himself any longer, and blurted out “As monks, we are not permitted a woman, how could you then carry that woman on your shoulders?”</p>
 			<p>The older monk looked at him and replied, “Brother, I set her down on the other side of the river, why are you still carrying her?”</p>
 		</blockquote>
@@ -1253,7 +1277,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Have a lot of ways of representing things. If one way doesn’t work, switch quickly to another one.</p>
+			<p>Have a lot of ways of representing things. If one way doesn't work, switch quickly to another one.</p>
 			<p>The important thing is not to persist; I think the reason most people fail is that they are too determined to make something work only because they are attached to it.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -1294,7 +1318,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Words like ‘freedom,’ ‘justice,’ and ‘democracy’ are not common concepts; on the contrary, they are rare. People are not born knowing what these are. It takes enormous, and above all, individual effort to arrive at the respect for other people that these words	imply.</p>
+			<p>Words like ‘freedom,' ‘justice,' and ‘democracy' are not common concepts; on the contrary, they are rare. People are not born knowing what these are. It takes enormous, and above all, individual effort to arrive at the respect for other people that these words	imply.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			James Baldwin
@@ -1330,7 +1354,7 @@ the very complex.</p>
 	<figure>
 		<blockquote class="pullquote">
 			<p>We may have democracy, or we may have wealth concentrated in the hands of a few,
-	but we can’t have both.</p>
+	but we can't have both.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Justice Louis Brandeis
