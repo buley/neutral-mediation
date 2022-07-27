@@ -326,8 +326,6 @@ the very complex.</p>
 			1 Corinthians, <em>14:9</em>
 		</figcaption>
 	</figure>
-
-
 	<figure>
 		<blockquote class="pullquote">
 			<p>Listening is a magnetic and strange thing, a creative force … When we are listened to, it creates us, makes us unfold and expand. Ideas actually begin to grow within us and come to life. … It makes people happy and free when they are listened to.</p>
