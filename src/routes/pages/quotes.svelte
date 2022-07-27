@@ -344,6 +344,16 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>I want to write about the great and powerful thing that listening is. And how we forget it. And how we don’t listen to our children, or those we love. And least of all – which is so important, too – to those we do not love. But we should. Because listening is a magnetic and strange thing, a creative force. Think how the friends that really listen to us are the ones we move toward, and we want to sit in their radius as though it did us good, like ultraviolet rays.</p>
+			<p>This is the reason: When we are listened to, it creates us, makes us unfold and expand. Ideas actually begin to grow within us and come to life. You know how if a person laughs at your jokes you become funnier and funnier, and if he does not, every tiny little joke in you weakens up and dies. Well, that is the principle of it. It makes people happy and free when they are listened to. And if you are a listener, it is the secret of having a good time in society (because everybody around you becomes lively and interesting), of comforting people, of doing them good.
+			</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brenda Ueland, <em><cite>The Art of Listening</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>It is quite true that man lives by bread alone — when there is no bread. But what happens to man's desires when there is plenty of bread and when his belly is chronically filled?</p>
 			<p>At once other (and 'higher') needs emerge and these, rather than physiological hungers, dominate the organism. And when these in turn are satisfied, again new (and still 'higher') needs emerge and so on. This is what we mean by saying that the basic human needs are organized into a hierarchy of relative prepotency.</p>
 		</blockquote>
