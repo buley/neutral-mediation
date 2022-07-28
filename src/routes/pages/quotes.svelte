@@ -1075,20 +1075,7 @@ the very complex.</p>
 		<blockquote class="pullquote">
 			<p>since feeling is first<br>
 			who pays any attention <br>
-			to the syntax of things<br>
-			will never wholly kiss you;</p>
-			<p>wholly to be a fool<br>
-			while Spring is in the world</p>
-			<p>my blood approves,<br>
-			and kisses are a better fate<br> 
-			than wisdom<br>
-			lady i swear by all flowers. Don’t cry<br>
-			—the best gesture of my brain is less than<br>
-			your eyelids’ flutter which says</p>
-			<p>we are for each other: then<br>
-			laugh, leaning back in my arms<br>
-			for life’s not a paragraph</p>
-			<p>And death i think is no parenthesis</p>
+			to the syntax of things</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			e.e. cummings, <em><cite>since feeling is first</cite></em>
