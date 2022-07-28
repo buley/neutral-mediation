@@ -1073,6 +1073,29 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>since feeling is first<br>
+			who pays any attention <br>
+			to the syntax of things<br>
+			will never wholly kiss you;</p>
+			<p>wholly to be a fool<br>
+			while Spring is in the world</p>
+			<p>my blood approves,<br>
+			and kisses are a better fate<br> 
+			than wisdom<br>
+			lady i swear by all flowers. Don’t cry<br>
+			—the best gesture of my brain is less than<br>
+			your eyelids’ flutter which says</p>
+			<p>we are for each other: then<br>
+			laugh, leaning back in my arms<br>
+			for life’s not a paragraph</p>
+			<p>And death i think is no parenthesis</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			e.e. cummings, <em><cite>since feeling is first</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The Perfectibility of Man! Ah heaven, what a dreary theme! The perfectibility of the Ford car! The perfectibility of which man? I am many men. Which of them are you going to perfect? I am not a mechanical contrivance.</p>
 			<p>Education! Which of the various me's do you propose to educate, and which do you propose to suppress?</p>
 			<p>Anyhow, I defy you. I defy you, oh society, to educate me or to suppress me, according to your dummy standards.</p>
