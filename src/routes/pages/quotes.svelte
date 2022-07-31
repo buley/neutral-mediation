@@ -110,6 +110,15 @@ the very complex.</p>
 			Wei Zheng
 		</figcaption>
 	</figure>
+
+	<figure>
+		<blockquote class="pullquote">
+			<p>An autobiography is the truest of all books; for while it inevitably consists mainly of extinctions of the truth, shirkings of the truth, partial revealments of the truth, with hardly an instance of plain straight truth, the remorseless truth is there, between the lines, where the author-cat is raking dust upon it which hides from the disinterested spectator neither it nor its smell (though I didn't use that figure)--the result being that the reader knows the author in spite of his wily diligences.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Mark Twain, <em><cite>Letter to William D. Howells,  1904</cite></em>
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Take time to listen to what is said without words, to obey the law too subtle to be written, to worship the unnameable and to embrace the unformed.</p>
