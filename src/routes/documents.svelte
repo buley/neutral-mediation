@@ -36,6 +36,7 @@
 		<li><a href="/forms/goals">Goals Analysis</a></li>
 		<li><a href="/forms/layered">Layered Conflict Analysis</a></li>
 		<li><a href="/forms/positive">Positive Conflict Analysis</a></li>
+		<li><a href="/forms/role-reversal">Role-Reversal Analysis</a></li>
 		<li><a href="/forms/self-assessment">Self-Assessment</a></li>
 	</ul>
 	<h3>Questionnaires</h3>
