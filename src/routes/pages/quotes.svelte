@@ -55,6 +55,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>In conflict resolution, the deeper you look, the more there is to discover.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>There are three great frontiers in science: the very big, the very small and
 the very complex.</p>
 		</blockquote>
