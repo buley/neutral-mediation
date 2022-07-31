@@ -104,10 +104,18 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Listen to both sides and you will be enlightened; listen to only one side and you will be left in the dark</p>
+			<p>Listen to both sides and you will be enlightened; listen to only one side and you will be left in the dark.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Wei Zheng
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Take time to listen to what is said without words, to obey the law too subtle to be written, to worship the unnameable and to embrace the unformed.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Lao Tzu
 		</figcaption>
 	</figure>
 	<figure>
