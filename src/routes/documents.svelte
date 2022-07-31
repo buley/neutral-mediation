@@ -27,6 +27,7 @@
 
 	<h4>Coaching</h4>
 	<ul>
+		<li><a href="/forms/arrogance">Arrogance Analysis</a></li>
 		<li><a href="/forms/autopilot">Autopilot Analysis</a></li>
 		<li><a href="/forms/coaching">Coaching Analysis</a></li>
 		<li><a href="/forms/collaboration">Collaboration Analysis</a></li>
