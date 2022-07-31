@@ -33,6 +33,7 @@
 		<li><a href="/forms/collaboration">Collaboration Analysis</a></li>
 		<li><a href="/forms/communication">Communication Analysis</a></li>
 		<li><a href="/forms/conflict">Conflict Analysis</a></li>
+		<li><a href="/forms/emotional">Emotions Analysis</a></li>
 		<li><a href="/forms/goals">Goals Analysis</a></li>
 		<li><a href="/forms/honesty">Honesty Analysis</a></li>
 		<li><a href="/forms/layered">Layered Conflict Analysis</a></li>
