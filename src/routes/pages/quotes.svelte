@@ -39,6 +39,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Human reason needs only to will more strongly than fate, and she is fate.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Thomas Mann, <em><cite>The Magic Mountain</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>How much better to heal than seek revenge from injury. Vengeance wastes a lot of time and exposes you to many more injuries than the first that sparked it. Anger always outlasts hurt. Best to take the opposite course.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -201,6 +209,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>We are most likely to get angry and excited in our opposition to some idea when we ourselves are not quite certain of our own position, and are inwardly tempted to take the other side.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Thomas Mann, <em><cite>Buddenbrooks</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>People don't resist change. They resist being changed.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -272,6 +288,14 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Roman proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The writer’s joy is the thought that can become emotion, the emotion that can wholly become a thought.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Thomas Mann, <em><cite>Death in Venice</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
