@@ -201,6 +201,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>A man whose desire is to be something separate from himself, to be a member of Parliament, or a successful grocer, or a prominent solicitor, or a judge, or something equally tedious, invariably succeeds in being what he wants to be. That is his punishment. Those who want a mask have to wear it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Oscar Wilde
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If you cry, 'Forward!' you must be sure to make clear the direction in which to go. Don't you see that if you fail to do that and simply call out the word to a monk and a revolutionary, they will go in precisely	opposite directions?</p>
 		</blockquote>
 		<figcaption class="pullquote">
