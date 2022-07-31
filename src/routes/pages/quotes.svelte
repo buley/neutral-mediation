@@ -337,6 +337,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>The more you can find your authentic conflict voice, the easier it will be to recognize and elicit the authentic voices of others.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>No person hands out their money to passersby, but to how many do each of us hand out our lives! We're tight-fisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.</p>
 		</blockquote>
 		<figcaption class="pullquote">
