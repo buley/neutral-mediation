@@ -345,6 +345,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>By embracing the inescapable, I lost my fear of it. I’ll tell you a secret about fear: its an absolutist. With fear, its all or nothing. Either, like any bullying tyrant, it rules your life with a stupid blinding omnipotence, or else you overthrow it, and its power vanishes like a puff of smoke. And another secret: the revolution against fear, the engendering of that tawdry despots fall, has more or less nothing to do with ‘courage’. It is driven by something much more straightforward: the simple need to get on with your life.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Salman Rushdie, <em><cite>The Moors Last Sigh</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>No person hands out their money to passersby, but to how many do each of us hand out our lives! We're tight-fisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.</p>
 		</blockquote>
 		<figcaption class="pullquote">
