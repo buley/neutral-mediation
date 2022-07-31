@@ -631,7 +631,6 @@ the very complex.</p>
 			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
 		</figcaption>
 	</figure>
-
 	<figure>
 		<blockquote class="pullquote">
 			<p>I remember Rudi [a friend and teacher] saying once that all life is about transcendence. If you’re ugly you have to transcend your ugliness, if you’re beautiful you have to transcend your beauty, if you’re poor you have to transcend your poverty, if you’re rich you have to transcend your wealth… There is nothing worse than being born extraordinarily beautiful, nothing more potentially damaging to the self. You could say the same for being born inordinately rich. You suddenly realize how wise the idea is that you get nothing at birth except things to transcend. That’s all you get.</p>
