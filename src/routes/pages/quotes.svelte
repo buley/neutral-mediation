@@ -760,6 +760,14 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Attach no importance to self-seeking, rejection, arrogance, oppression and enmity. Heed them not. Deal in the contrary way. Be kind in truth, not only in appearance and outwardly. Every soul of the friends of God must concentrate his mind on this, that he may manifest the mercy of God and the bounty of the Forgiving One. He must do good to every soul whom he encounters, and render benefit to him, becoming the cause of improving the morals and correcting the thoughts so that the light of guidance may shine forth and the bounty of His Holiness the Merciful One may encompass. Love is light in whatsoever house it may shine and enmity is darkness in whatsoever abode it dwell.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			‘Abdu’l-Bahá, <em>Bahá’í World Faith</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>It is possible to curb your arrogance, to overcome pleasure and pain, to rise above your ambition, and to not be angry with stupid and ungrateful people— yes, even to care for them.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -1246,7 +1254,7 @@ the very complex.</p>
 			Gary Zukav, <em><cite>Seat of the Soul</cite></em>
 		</figcaption>
 	</figure>
-<figure>
+	<figure>
 		<blockquote class="pullquote">
 			<p>It doesn't matter how deep the water is, all you can do is swim.</p>
 		</blockquote>
@@ -1254,8 +1262,14 @@ the very complex.</p>
 			Steven Wright
 		</figcaption>
 	</figure>
-	
-
+	<figure>
+		<blockquote class="pullquote">
+			<p>The shining spark of truth cometh forth only after the clash of differing opinions.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			‘Abdu’l-Bahá, <em><cite>Selections from the Writings of ‘Abdu’l-Bahá</cite></em>
+		</figcaption>
+	</figure>	
 	<figure>
 		<blockquote class="pullquote">
 			<p>
