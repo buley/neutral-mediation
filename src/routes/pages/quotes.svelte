@@ -1246,6 +1246,16 @@ the very complex.</p>
 			Gary Zukav, <em><cite>Seat of the Soul</cite></em>
 		</figcaption>
 	</figure>
+<figure>
+		<blockquote class="pullquote">
+			<p>It doesn't matter how deep the water is, all you can do is swim.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Steven Wright
+		</figcaption>
+	</figure>
+	
+
 	<figure>
 		<blockquote class="pullquote">
 			<p>
