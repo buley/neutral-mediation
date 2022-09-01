@@ -13,16 +13,16 @@
 <div class="content">
 	<h1>Disclaimer</h1>
 	<p>
-		Neutral Mediation offers <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a> and conflict <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a>. It does <em>not</em> in any way offer any legal advice or therapy.</p>
-		<p>In fact, while Neutral Mediation works with a fastidious understanding of human behavior and American dispute resolution law, it believes in the possibility of a idyllic world that has no need for therapists and lawyers. Neutral Mediation does not want to take the place of a lawyer or doctor, professionals that are necessary in certain situations to stem and heal the trauma of conflict; rather, it wants to reduce the demand for these professionals' services by solving the conflict that creates this trauma in the first place.
+		Neutral Mediation offers <a href="/mediation">mediation</a>, <a href="/negotiation">negotiation</a> and conflict <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">coaching</a>. It does <em>not</em> in any way offer legal advice or therapy.</p>
+		<p>While Neutral Mediation works with a fastidious understanding of human behavior and American dispute resolution law, it believes in the possibility of an idyllic world that does not need therapists and lawyers. Neutral Mediation does not want to take the place of a lawyer, doctor, or other professional necessary in certain situations to stem and heal the trauma of conflict. Rather, it seeks to reduce the demand for these professionals' services by solving the conflict that creates this trauma in the first place.
 	</p>
 	<h3><em>Not</em> a Lawyer</h3>
 	<p>
-		Our neutrals are not licensed to practice law nor want to be lawyers. They are fully-capable and willing to conduct arbitrations, but would only do so from the perspective of a dispute resolution expert and not a legal expert. <strong>No aspect of coaching, training, consulting, neogotiation or mediation should be construed as legal advice.</strong>
+		Our neutrals are not licensed to practice law nor want to be lawyers. They are capable and willing to conduct arbitration hearings, but would only do so from the perspective of a dispute resolution expert and not a legal expert. <strong>Customers should not construe any aspect or element of coaching, training, consulting, negotiation, or mediation as legal advice.</strong>
 	</p>
 	<h3><em>Not</em> a Therapist</h3>
 	<p>
-		Therapy is not in the scope of coaching, mediation, consulting or training. Neutral Mediation's services are not meant for people coping with depression, or any other mental issues -- individuals seeking mental help should consult a therapist. A dispute resolution professional can reduce and respond to trauma but a therapist is the correct professional for healing past trauma, coping with traumatic loss, abuse, addiction, violence or relationship tumult. A neutral cannot treat mental illness, clinical anxiety or depression. <strong>No aspect of coaching, training, consulting, neogotiation or mediation should be construed as theraputic advice.</strong>
+		Therapy is not in the scope of coaching, mediation, consulting, or training. Neutral Mediation services are not for people coping with major depression, or any other mental issues -- individuals seeking mental help should consult a therapist. A dispute resolution professional can reduce and respond to trauma, however a therapist is a correct professional for healing past trauma, coping with traumatic loss, abuse, addiction, violence, or relationship tumult. A neutral cannot treat mental illness, clinical anxiety, or depression. <strong>Customers should not construe any aspect or element of coaching, training, consulting, negotiation, or mediation as therapeutic advice.</strong>
 	</p>
 </div>
 
