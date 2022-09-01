@@ -13,19 +13,19 @@
 <div class="content">
 	<h1>Pillars of Mediation</h1>
 
-	<p>The pillars of mediation are that it's voluntary, neutral and confidential.</p>
+	<p>The pillars of mediation are that it's voluntary, neutral, and confidential.</p>
 
 	<h4>Self-Determination</h4>
 
 	<p>Too often, convening the participants is the hardest phase of the mediation process. Not only is there paperwork necessary for a mediator to prepare, and legal documentation to sign helping to shore up its legal legitimacy, but it also takes courage by the parties on top of procedural determination to choose to mediate.</p>
 
-	<p>That mutual self-determination -- each party choosing on their own terms to begin the end of a conflict by seeking a mediator's help -- is critical to the rampant success of mediation as a participant-controlled alternative to the courtroom. American participants report that -- simply by using age-old mediative techniques to communicate and negotiate plainly -- they are, overall, happier with outcomes compared to similar results obtained through the emotionally, financially and time-consuming modern legal system.</p>
+	<p>That mutual self-determination -- each party choosing on their terms to begin the end of a conflict by seeking a mediator's help -- is critical to the rampant success of mediation as a participant-controlled alternative to the courtroom. American participants report that -- simply by using age-old mediative techniques to communicate and negotiate plainly -- they are, overall, happier with outcomes compared to similar results obtained through the emotionally, financially and time-consuming modern legal system.</p>
 
 	<p><a href="https://neutrals.io/ethics">Read about how ethics shape our approach to mediation. </a></p>
 
 	<h4>Neutrality</h4>
 
-	<p>A mediator involves themself in a dispute but has no skin in the game, as far as how it plays out, beyond being an enthusiastic, energetic and optimistic advocate of reaching a beneficial outcome for all concerned. A mediator's role is as a neutral third party. At the most fundamental level, a mediator simply connects with people to build the necessary trust that helps them lean into the emotional and often vulnerable discussions that are productive to move forward..</p>
+	<p>A mediator involves themself in a dispute but has no skin in the game, as far as how it plays out, beyond being an enthusiastic, energetic, and optimistic advocate of reaching a beneficial outcome for all concerned. A mediator's role is as a neutral third party. At the most fundamental level, a mediator simply connects with people to build the necessary trust that helps them lean into the emotional and often vulnerable discussions that are productive to move forward..</p>
 
 	<p>A mediator states her goals clearly, aids participants in structuring the discussion space and timeline, asks difficult questions, says what needs to be said, doesn't say what needs to be held in confidence, and helps participants surmount the cognitive barriers to agreement.</p>
 
@@ -39,7 +39,7 @@
 
 	<p>The public benefit that results from a mediator's ability to create a safe environment to explore resolution options -- helping disputants "cut to the chase" in the roughly 19 out of 20 cases that settle before reaching the courtroom -- is so obvious that even those who profit from litigation swear by the power of <a href="https://neutrals.io/process">the mediation process</a> to benefit all concerned.</p>
 
-	<p>Once a mediator is engaged after each party signs a <a href="https://neutrals.io/example-mediation-engagement-letter/">Mediation Engagement Letter</a>, <a href="https://neutrals.io/forms/mediation-disclosure-notification/">Mediation Disclosure Notification</a> and <a href="https://neutrals.io/confidentiality-agreement/">Confidentiality Agreement</a>, participants shore up their mutual assurance of legally-protected confidentiality and embark on a path to resolution that lets them move forward with the peace of mind that nothing from the process is admissible in court. After all, the parties have freely agreed in writing to mutual confidence through the well-known and well-specified private mediation process: it's hard to argue with mediation's proven ability to produce resolution beyond dispute.</p>
+	<p>Once a mediator is engaged after each party signs a <a href="https://neutrals.io/example-mediation-engagement-letter/">Mediation Engagement Letter</a>, <a href="https://neutrals.io/forms/mediation-disclosure-notification/">Mediation Disclosure Notification</a> and <a href="https://neutrals.io/confidentiality-agreement/">Confidentiality Agreement</a>, participants shore up their mutual assurance of legally-protected confidentiality and embark on a path to resolution that lets them move forward with the peace of mind that nothing from the process is admissible in court. After all, the parties have freely agreed in writing to confidence through the well-known and well-specified private mediation process: it's hard to argue with mediation's proven ability to produce resolution beyond dispute.</p>
 
 	<p><a href="https://neutrals.io/confidentiality">Read about mediation confidentiality -- and understand its limitations in and out of the courtroom.</a></p>
 

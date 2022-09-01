@@ -13,7 +13,7 @@
 <div class="content">
 	<h1>What A Mediator Does</h1>
 	
-	<p>A mediator fixes problems through "The 3 E's" — education, empathy and empowerment.</p>
+	<p>A mediator fixes problems through "The 3 E's" — education, empathy, and empowerment.</p>
 
 	
 	<h4>Empathy</h4>
@@ -25,7 +25,7 @@
 	<p>Support communication/draw out information</p>
 	
 	
-	<p>Explore/inform parties of risks of litigation. Remind parties of costs of continuing the dispute.</p>
+	<p>Explore/inform parties of risks of litigation. Remind parties of the costs of continuing the dispute.</p>
 	
 	
 	<p>Encourage flexibility about offers, explain tactics</p>

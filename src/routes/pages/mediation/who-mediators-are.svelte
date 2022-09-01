@@ -13,7 +13,7 @@
 <div class="content">
 	<h1>Who Mediators Are</h1>
 
-	<p>Mediators are craftsmen at the art of compromise. They settle disputes with expertise, resolve and creativity.</p>
+	<p>Mediators are craftsmen at the art of compromise. They settle disputes with expertise, resolve, and creativity.</p>
 	
 	<p>Their expertise is typically derived from training and practice. They are not licensed or regulated and. </p>
 	

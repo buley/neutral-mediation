@@ -13,7 +13,7 @@
 <div class="content">
 	<h1>Why a Mediator Is Worthwhile</h1>
 	
-	<p>Hosts a faster less expensive and more satisfactory experience.</p>
+	<p>A neutral hosts a faster, less expensive and more satisfactory resolution to conflict by creating a safe and collaborative communication environment.</p>
 	
 </div>
 
