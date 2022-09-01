@@ -19,9 +19,7 @@
 
 	<ul><li>Discuss prep, format and administration issues<ul><li>When, where and who</li><li>Feelings on face-to-face, private caucuses, mediator’s proposal</li></ul></li><li>Start to form a working relationship</li><li>Begin substantive work, especially on emotional or relationship issues</li></ul>
 
-	<p>Important that everyone follows the rules, including and perhaps especially the mediator.</p>
-
-	<p> </p>
+	<p>It's important that everyone follows the rules, including and, perhaps, especially, the mediator.</p>
 
 	<h3>Introduction</h3>
 
@@ -57,9 +55,9 @@
 
 	<p>What are you looking for in the communication phase? Information related to the issues. Lead them toward resolution. Discovering information they need to make a decision. And also what the arbitrator needs to know. Emphasizing the parts that need to be heard.</p>
 
-	<p>Pacing is very important. Have to hold people in the phase as long as necessary. The longer you can hold them into the Communication phase the more they go from combative to collaborative.&nbsp; Want to keep them out of the negotiation phase as long as you can. Slowing down to speed up.</p>
+	<p>Pacing is very important. The neutral must hold people in the phase as long as necessary. The longer you can hold them into the Communication phase the more they go from combative to collaborative.&nbsp; It's best to keep participants out of the negotiation phase for as long as possible: a neutral sometimes slows things down to speed things up.</p>
 
-	<p>Mediators and participants communicate via words, intonation and body language. </p>
+	<p>Mediators and participants communicate via words, intonation, and body language. </p>
 
 	<p>Restatement</p>
 
@@ -83,7 +81,7 @@
 
 	<p>Unless for physical injury, settlement is taxable.</p>
 
-	<p>Reach closure faster in time sensitive matters without expensive and time consuming litigation.</p>
+	<p>Reach closure faster in time-sensitive matters without expensive and time-consuming litigation.</p>
 
 	<h4>Questions</h4>
 
@@ -139,7 +137,7 @@
 
 	<h3>Closing</h3>
 
-	<p>Hard sell vs. consultative selling. During closing phase, mediator runs the highest risk of being a bully.</p>
+	<p>Hard sell vs. consultative selling. During the closing phase, the mediator runs the highest risk of being a bully.</p>
 
 	<p>The mediator becomes the salesperson. Someone needs to say the resolution is better than continued fighting. Advocate for resolution.</p>
 
