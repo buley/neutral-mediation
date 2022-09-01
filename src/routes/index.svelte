@@ -24,15 +24,25 @@
 		Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led <a href="/mediation">mediation</a> and <a href="/negotiation">negotiation</a>, in addition to <a href="/training">training</a>, <a href="/consulting">consulting</a> and <a href="/coaching">conflict coaching</a>.
 	</p>
 
-	<button class="welcome-book-text">
-		<a href="https://neutral.setmore.com" class="welcome-book-button">
-			<span class="welcome-book-contact-icon">
-				<img src={calendar} height="24px" width="24px" class="welcome-book-icon">
-			</span>
-			BOOK NOW
-		</a>
-	</button>
+	<div id="cta">
+		<button class="welcome-book-text">
+			<a href="https://neutral.setmore.com" class="welcome-book-button">
+				<span class="welcome-book-contact-icon">
+					<img src={calendar} height="24px" width="24px" class="welcome-book-icon">
+				</span>
+				BOOK NOW
+			</a>
+		</button>
 
+		<button class="welcome-call-text">
+			<a href="tel:16503537653" class="welcome-call-button">
+				<span class="welcome-call-contact-icon">
+					<img src={phone} height="24px" width="24px" class="welcome-call-icon">
+				</span>
+				CALL NOW
+			</a>
+		</button>
+	</div>
 
 	<span class="welcome">
 		<picture>

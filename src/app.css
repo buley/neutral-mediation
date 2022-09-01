@@ -222,6 +222,13 @@ footer ul li {
 	right: 50%;
 	width: 100vw;
 }
+@media (max-width: 766px) {
+	#cta > button {
+	    margin: 0 auto 20px auto;
+	    width: 100%;
+	}
+}
+
 @media (min-width: 767px) {
 	.content {
 		margin: 60px auto 0 auto;
@@ -284,10 +291,34 @@ h1 {
 .welcome-book-contact-icon {
 	text-align: vertical;
 }
+
+.welcome-call-text {
+	margin: 0 auto 40px auto;
+	padding: 10px 10px 5px 10px;
+	vertical-align: middle;
+	font-family: var(--sans-serif-font);
+	background-image: linear-gradient(to right, var(--primary-color), var(--secondary-color), var(--tertiary-color));
+	border: 1px solid;
+}
+.welcome-call-text a, .welcome-call-text a:hover {
+	border: none;
+	text-decoration: none;
+	font-size: 1.5rem;
+	color: var(--accent-color);
+	font-size: 2em;
+	padding: 0 10px;
+}
+.welcome-call-contact-icon {
+	text-align: vertical;
+}
+#cta > button:nth-child(1) {
+    margin-right: 20px;
+}
 @media (min-width: 767px) {
 	.homepage-icon {
 		padding-top: 55px;
 	}
+
 }
 button {
 	background-color: #fff;
