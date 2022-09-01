@@ -12,7 +12,7 @@
 
 <div class="content">
 	<h1>Limits of Mediation</h1>
-	<p></p>
+	<p>This content is not yet available.</p>
 
 </div>
 
