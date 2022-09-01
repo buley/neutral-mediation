@@ -13,7 +13,7 @@
 <div class="content">
 	<h3>Refund Policy</h3>
 	<p>
-		Neutral Mediation reserves the right to withdraw from an engagement at any time, for any reason, and in that case will refund all payments. Pro-rated refunds are offered under conditions for recusal. Otherwise, there are no refunds for cancellation.
+		Neutral Mediation reserves the right to withdraw from an engagement at any time, for any reason, and, in that case, will refund all payments. It offers pro-rated refunds under certain conditions for recusal. Otherwise, there are no refunds for cancellation.
 	</p>
 </div>
 
