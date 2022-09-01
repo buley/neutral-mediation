@@ -25,14 +25,6 @@
 	</p>
 
 	<div id="cta">
-		<button class="welcome-book-text">
-			<a href="https://neutral.setmore.com" class="welcome-book-button">
-				<span class="welcome-book-contact-icon">
-					<img src={calendar} height="24px" width="24px" class="welcome-book-icon">
-				</span>
-				BOOK NOW
-			</a>
-		</button>
 
 		<button class="welcome-call-text">
 			<a href="tel:16503537653" class="welcome-call-button">
@@ -42,6 +34,16 @@
 				CALL NOW
 			</a>
 		</button>
+		
+		<button class="welcome-book-text">
+			<a href="https://neutral.setmore.com" class="welcome-book-button">
+				<span class="welcome-book-contact-icon">
+					<img src={calendar} height="24px" width="24px" class="welcome-book-icon">
+				</span>
+				BOOK NOW
+			</a>
+		</button>
+
 	</div>
 
 	<span class="welcome">
