@@ -900,10 +900,26 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allah will cause it between them. Indeed, Allah is ever Knowing and Acquainted [with all things].</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Qur'an, 4:35
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The absence of conflict is not harmony, it's apathy. If you're in a group where people never disagree, the only way that could really happen is if people don't care enough to speak their minds.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Adam Grant
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>And if two factions among the believers should fight, then make settlement between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the ordinance of Allah . And if it returns, then make settlement between them in justice and act justly. Indeed, Allah loves those who act justly.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Qur'an, 49:9
 		</figcaption>
 	</figure>
 	<figure>
