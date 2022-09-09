@@ -22,14 +22,12 @@ const config = {
 	    prerender: {
 	      default: true
 	    }
+
 	},
 	
-
 	experimental: {
 		useVitePreprocess: true
 	}
-
-
 };
 
 export default config;
