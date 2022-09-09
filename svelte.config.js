@@ -21,10 +21,7 @@ const config = {
 
 	    prerender: {
 	      default: true
-	    },
-
-	    postbuild: "npx svelte-sitemap --domain https://neutrals.io"
-
+	    }
 	},
 	
 	experimental: {
