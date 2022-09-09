@@ -9,9 +9,6 @@
 	import { page } from '$app/stores';
 	import '../app.css';
 
-	import { createSitemap } from 'svelte-sitemap/src/index.js';
-	createSitemap('https://neutrals.io', { debug: true });
-
 </script>
 
 <Header />
