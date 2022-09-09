@@ -13,7 +13,7 @@
 <div class="content">
 	<h1>Benefits of Mediation</h1>
 	<p>
-		Mediation helps solve problems with minimal damage to relationships. A resolution can be more difficult, but still achievable when the parties are not likely to share a future. Mediation is a good choice for complex, emotionally charged disputes and a mediator can assist counsel by framing the options in a way that doesn’t compromise an advocate’s strong advocacy.
+		Mediation helps solve problems with minimal damage to relationships. A resolution can be more difficult, but still achievable, when the parties are not likely to share a future. Mediation is a good choice for complex, emotionally-charged disputes and a mediator can assist counsel by framing the options in a way that doesn’t compromise an advocate’s strong advocacy.
 	</p>
 	<p>
 		While good mediation is often not cheap, and cheap mediation is often not good, the amount participants can expect to save overwhelmingly surpasses the expected costs to be otherwise endured. Those involved in the legal process will spend not just time and money, but also emotions. The opportunity cost of not pursuing other endeavors, rather than investing time, energy and money into legal remediation, can also be considerable.
