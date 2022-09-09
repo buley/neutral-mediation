@@ -12,7 +12,9 @@
 
 <div class="content">
 	<h1>Example Mediation Scenarios</h1>
-	<p>The usefulness of mediation generally grows with a problem's distance from money. Difficult, complex, and emotional issues are well within the erudite mediator’s wheelhouse. For example, meditation may be a good choice in these difficult situations:</p>
+	<p>Mediation is a quick, cheap option for negotiating monetary settlements; however, the usefulness of mediation generally grows with a problem's distance from money.<p>
+	<p>Difficult, complex, and emotional issues are well within a mediator’s wheelhouse.</p>
+	<p>Mediation may be a good choice in these difficult situations:</p>
 	    <ul>
 	        <li>Commercial disputes</li>
 	        <li>Divorce cases</li>
