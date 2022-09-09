@@ -21,7 +21,9 @@ const config = {
 
 	    prerender: {
 	      default: true
-	    }
+	    },
+
+	    postbuild: "npx svelte-sitemap --domain https://neutrals.io"
 
 	},
 	
@@ -29,7 +31,6 @@ const config = {
 		useVitePreprocess: true
 	},
 
-    postbuild: "npx svelte-sitemap --domain https://neutrals.io"
 
 };
 
