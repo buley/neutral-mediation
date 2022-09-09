@@ -678,6 +678,14 @@
 			Abraham H. Maslow, <em>A Theory of Human Motivation</em>
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>If knowledge does not liberate the self from the self then ignorance is better than such knowledge.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Sanâ'î's Diwân
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

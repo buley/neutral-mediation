@@ -14,6 +14,14 @@
 	<h1>Forgiveness Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
+			<p>I say, let no one rob me of a single day who isn't going to make a full return on the loss.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Seneca, <em>On Tranquility of Mind</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If you are pained by external things, it is not that they pain you, but your own judgment of them; and it is in your power to wipe out that judgment now.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -95,6 +103,7 @@
 			Seneca, <em>On the Brevity of Life</em>
 		</figcaption>
 	</figure>
+
 </div>
 <style>
 	.content {

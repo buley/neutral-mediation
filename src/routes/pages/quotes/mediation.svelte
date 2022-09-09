@@ -14,6 +14,14 @@
 	<h1>Mediation Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Nothing moves forward in a story except through conflict.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Robert McKee, <em>Story: Substance, Structure, Style, and the Principles of Screenwriting</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>While you may prefer a simple step-by-step guide guaranteed to help you navigate life's difficulties, we have found the rescipe approach to dispute resolution hopelessly inadequate.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -248,6 +256,52 @@
 		<figcaption class="pullquote">
 			Carl Rogers, <em>Client-centered therapy</em>
 		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allah will cause it between them. Indeed, Allah is ever Knowing and Acquainted [with all things].</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Qur'an, 4:35
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>And if two factions among the believers should fight, then make settlement between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the ordinance of Allah . And if it returns, then make settlement between them in justice and act justly. Indeed, Allah loves those who act justly.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Qur'an, 49:9
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The absence of conflict is not harmony, it's apathy. If you're in a group where people never disagree, the only way that could really happen is if people don't care enough to speak their minds.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Adam Grant
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Our ‘opponents' are our co-creators, for they have something to give which we have not. The basis of all cooperative activity is integrated diversity... What people often mean by getting rid of conflict is getting rid of diversity, and it is of the utmost importance that these should not be considered the same. We may wish to abolish conflict, but we cannot get rid of diversity. We must face life as it is and understand that diversity is its most essential feature... Fear of difference is dread of life itself. It is possible to conceive conflict as not necessarily a wasteful outbreak of incompatibilities, but a normal process by which socially valuable differences register themselves for the enrichment of all concerned.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Mary Parker Follett
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Henry David Thoreau
+		</figcaption>
+	</figure>
+	<figure>
+	    <blockquote class="pullquote">
+	        <p>In any system, once a relative orderliness has been achieved, the only means by which a broader and more complex interrelationship among the various elements can be achieved is by introducing or generating disorder. The system can come apart to be put together in a much more integrated way. Any system that resists this creative disintegration and re-integration can only suffer the gradual erosion of its established order due to the energy required to protect the system from change.</p>
+	    </blockquote>
+	    <figcaption class="pullquote">George Ainsworth Land</figcaption>
 	</figure>
 </div>
 <style>

@@ -14,6 +14,30 @@
 	<h1>Attitude Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
+			<p>When you shut down vulnerability you shut down opportunity.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brené Brown
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>A gem cannot be polished without friction, nor a man perfected without trials.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Chinese proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Non-resistance is one of principle of Aikido. Because there is no resistance, you have won before even starting. People whose mind are evil or who enjoy fighting are defeated without a fight.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Morihei Ueshiba
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>If you understand, things are just as they are; If you do not understand, things are just as they are.</p>
 		</blockquote>
 		<figcaption class="pullquote">
