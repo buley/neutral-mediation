@@ -1,4 +1,6 @@
 <script lang="ts">
+	
+
 	import Header from '$lib/header/Header.svelte';
 	import logo from '$lib/assets/ClearIcon.png';
 	import email from '$lib/assets/email-icon.svg';
@@ -6,6 +8,10 @@
 	import calendar from '$lib/assets/calendar-accent.svg';
 	import { page } from '$app/stores';
 	import '../app.css';
+
+	import { createSitemap } from 'svelte-sitemap/src/index.js';
+	createSitemap('https://neutrals.io', { debug: true });
+
 </script>
 
 <Header />
