@@ -78,6 +78,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>The good life is a process, not a state of being. It is a direction not a destination.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Carl Rogers, <em>Person to person</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -187,6 +195,22 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Haim G. Ginott, <em>Teacher and Child</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>A master in the art of living knows no sharp distinction between his work and his play, his labor and his leisure, his mind and his body, his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing and leaves others to determine whether he is working or playing. To himself he always seems to be doing both.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			George Bernard Shaw
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Theodore Roosevelt
 		</figcaption>
 	</figure>
 </div>

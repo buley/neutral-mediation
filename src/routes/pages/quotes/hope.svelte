@@ -100,6 +100,14 @@
 			Aristotle
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The gold old days may not return<br>The rocks might melt, and the sea may burn</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Tom Petty, <em><cite>Learning To Fly</cite></em>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

@@ -173,6 +173,32 @@
 			Ernest Hemingway, <em>The Sun Also Rises</em>
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Just because someone tells you something with a lot of confidence and detail and emotion, it doesn't mean it actually happened. You need independent corroboration to know whether you're dealing with an authentic memory, or something that is a product of some other process.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Elizabeth Loftus
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Just the place for a Snark! I have said it twice: That alone should encourage the crew.</p>
+			<p>Just the place for a Snark! I have said it thrice: What I tell you three times is true.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Lewis Carol, <em>The Hunting of the Snark</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Have a lot of ways of representing things. If one way doesn't work, switch quickly to another one.</p>
+			<p>The important thing is not to persist; I think the reason most people fail is that they are too determined to make something work only because they are attached to it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Richard Feynman
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

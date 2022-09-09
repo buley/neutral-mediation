@@ -14,6 +14,14 @@
 	<h1>Mediation Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
+			<p>It doesn't matter how deep the water is, all you can do is swim.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Steven Wright
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Nothing moves forward in a story except through conflict.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -106,14 +114,6 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Desmond Tutu
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>The rules of the game: learn everything, read everything, inquire into everything, while at the same time adapting to one's ends the Spiritual Exercises of Ignatius of Loyola, or the method of Hindu ascetics, who for years, and to the point of exhaustion, try to visualize ever more exactly the images which they create beneath their closed eyelids. Through hundreds of card notes pursue each incident to the very moment that it occurred; endeavor to restore the mobility and suppleness of life to those visages known only to us in stone. When two texts, or two assertions, or perhaps two ideas, are in contradiction, be ready to reconcile them rather than cancel one by the other; regard them as two different facets, or two successive stages of the same reality, a reality convincingly human just because it is complex.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Marguerite Yourcenar, <em><cite>Memoirs of Hadrian</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -302,6 +302,30 @@
 	        <p>In any system, once a relative orderliness has been achieved, the only means by which a broader and more complex interrelationship among the various elements can be achieved is by introducing or generating disorder. The system can come apart to be put together in a much more integrated way. Any system that resists this creative disintegration and re-integration can only suffer the gradual erosion of its established order due to the energy required to protect the system from change.</p>
 	    </blockquote>
 	    <figcaption class="pullquote">George Ainsworth Land</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The great mediator of any community is human morality.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Armstrong Williams
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The shining spark of truth cometh forth only after the clash of differing opinions.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			‘Abdu’l-Bahá, <em><cite>Selections from the Writings of ‘Abdu’l-Bahá</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Let us speak, though we show all our faults and weaknesses,—for it is a sign of strength to be weak, to know it, and out with it; not in set way and ostentatiously, though, but incidentally and without premeditation. But I am falling into my old foible,—preaching.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Herman Melville
+		</figcaption>
 	</figure>
 </div>
 <style>

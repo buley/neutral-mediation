@@ -294,7 +294,32 @@
 			Seneca
 		</figcaption>
 	</figure>
-
+	<figure>
+		<blockquote class="pullquote">
+			<p><em>If it bleeds, it leads.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Newsroom proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>since feeling is first<br>
+			who pays any attention <br>
+			to the syntax of things</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			e.e. cummings, <em><cite>since feeling is first</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Voice or no voice, the people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the peacemakers for lack of patriotism and exposing the country to danger. It works the same in any country.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Hermann Goering
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

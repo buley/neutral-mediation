@@ -14,6 +14,14 @@
 	<h1>Forgiveness Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Accusations are useless.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Dominique de Villepin
+		</figcaption>
+	</figure>	
+	<figure>
+		<blockquote class="pullquote">
 			<p>I say, let no one rob me of a single day who isn't going to make a full return on the loss.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -103,7 +111,51 @@
 			Seneca, <em>On the Brevity of Life</em>
 		</figcaption>
 	</figure>
-
+	<figure>
+		<blockquote class="pullquote">
+			<p>How many times do we pay for one mistake? The answer is thousands of times. The human is the only animal on earth that pays a thousand times for the same mistake. The rest of the animals pay once for every mistake they make. But not us. We have a powerful memory. We make a mistake, we judge ourselves, we find ourselves guilty, and we punish ourselves. If justice exists, then that was enough; we don't need to do it again. But every time we remember, we judge ourselves again, we are guilty again, and we punish ourselves again, and again, and again. If we have a wife or husband he or she also reminds us of the mistake, so we can judge ourselves again, punish ourselves again, and find ourselves guilty again. Is this fair?</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Miguel Ruiz, <em><cite>The Four Agreements: A Practical Guide to Personal Freedom</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>A senior monk and a junior monk were traveling together. At one point, they came to a river with a strong current. As the monks were preparing to cross the river, they saw a very young and beautiful woman also attempting to cross. The young woman asked if they could help her cross to the other side.</p>
+			<p>The two monks glanced at one another because they had taken vows not to touch a woman.</p>
+			<p>Then, without a word, the older monk picked up the woman, carried her across the river, placed her gently on the other side, and carried on his journey.</p>
+			<p>The younger monk couldn't believe what had just happened. After rejoining his companion, he was speechless, and an hour passed without a word between them.</p>
+			<p>Two more hours passed, then three, finally the younger monk could contain himself any longer, and blurted out “As monks, we are not permitted a woman, how could you then carry that woman on your shoulders?”</p>
+			<p>The older monk looked at him and replied, “Brother, I set her down on the other side of the river, why are you still carrying her?”</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Zen proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>True justice is paying only once for each mistake. True injustice is paying more than once for each mistake.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Don Miguel Ruiz, <em><cite>The Four Agreements: A Practical Guide to Personal Freedom</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Ego non baptizo te in nomine patris, sed in nomine diaboli!" deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Herman Melville, <em><cite>Moby Dick or, the Whale</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The recipe is not the cake.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Proverb
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {
