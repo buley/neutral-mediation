@@ -311,6 +311,14 @@
 			 Herman Melville
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>“If your brother or sister sins, go and point out their fault, just between the two of you. If they listen to you, you have won them over.</p><p>But if they will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’</p><p>If they still refuse to listen, tell it to the church; and if they refuse to listen even to the church, treat them as you would a pagan or a tax collector.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 <cite><em>Bible</em>, Matthew 18:15-17</cite>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

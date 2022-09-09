@@ -156,6 +156,15 @@
 			Proverb
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>When you are on the way to court with your accuser, try to settle the matter before you get there. Otherwise, your accuser may drag you before the judge, who will hand you over to an officer, who will throw you into prison.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Jesus, Bible Luke 12:58
+		</figcaption>
+	</figure>
+
 </div>
 <style>
 	.content {
