@@ -4,4 +4,4 @@ export { module };
 export const index = 65;
 export const entry = 'pages/pages/mediation/who-mediators-are.svelte-8ccaee8f.js';
 export const js = ["pages/pages/mediation/who-mediators-are.svelte-8ccaee8f.js","chunks/index-2c309845.js","chunks/env-5493c761.js"];
-export const css = ["assets/pages/pages/coaching/limitations-of-conflict-coaching.svelte-1d509735.css"];
+export const css = ["assets/pages/terms.svelte-cb5f953f.css"];
