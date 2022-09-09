@@ -28,6 +28,9 @@ const config = {
 	experimental: {
 		useVitePreprocess: true
 	}
+
+    "postbuild": "npx svelte-sitemap --domain https://neutrals.io"
+
 };
 
 export default config;
