@@ -161,10 +161,17 @@
 			<p>When you are on the way to court with your accuser, try to settle the matter before you get there. Otherwise, your accuser may drag you before the judge, who will hand you over to an officer, who will throw you into prison.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Jesus, Bible Luke 12:58
+			Jesus, <cite><em>Bible</em>, Luke 12:58</cite>
 		</figcaption>
 	</figure>
-
+	<figure>
+		<blockquote class="pullquote">
+			<p>If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?</p><p>And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Jesus, <cite><em>Bible</em>, Matthew 18:12-13</cite>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {
