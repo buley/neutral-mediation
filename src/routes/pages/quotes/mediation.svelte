@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Useful Quotes</title>
+	<title>Mediation Quotes</title>
 	<meta name="description" content="" />
 </svelte:head>
 

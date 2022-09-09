@@ -14,7 +14,7 @@
 	<h1>Useful Quotes</h1>
 	<ul class="centered-list">
 		<li><a href="/pages/quotes/mediation">Mediation</a></li>
-		<li><a href="/pages/quotes/mediation">Negotiation</a></li>
+		<li><a href="/pages/quotes/negotiation">Negotiation</a></li>
 		<li><a href="/pages/quotes/coaching">Coaching</a></li>
 	</ul>
 </div>

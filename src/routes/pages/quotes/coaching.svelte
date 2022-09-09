@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Useful Quotes</title>
+	<title>Coaching Quotes</title>
 	<meta name="description" content="" />
 </svelte:head>
 
