@@ -4,4 +4,4 @@ export { module };
 export const index = 7;
 export const entry = 'pages/consulting.svelte-95348c88.js';
 export const js = ["pages/consulting.svelte-95348c88.js","chunks/index-2c309845.js","chunks/env-5493c761.js"];
-export const css = ["assets/pages/terms.svelte-cb5f953f.css"];
+export const css = ["assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"];

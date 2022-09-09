@@ -4,4 +4,4 @@ export { module };
 export const index = 70;
 export const entry = 'pages/pages/negotiation/pillars-of-negotiation.svelte-de20a8fd.js';
 export const js = ["pages/pages/negotiation/pillars-of-negotiation.svelte-de20a8fd.js","chunks/index-2c309845.js","chunks/env-5493c761.js"];
-export const css = ["assets/pages/terms.svelte-cb5f953f.css"];
+export const css = ["assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"];
