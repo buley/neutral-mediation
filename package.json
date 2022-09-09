@@ -39,7 +39,7 @@
 		"@fontsource/pt-serif": "^4.5.9",
 		"@fontsource/roboto": "^4.5.7",
 		"@playwright/test": "^1.23.0",
-		"@sveltejs/adapter-static": "^1.0.0-next.34",
+		"@sveltejs/adapter-static": "1.0.0-next.34",
 		"cookie": "^0.4.1",
 		"hamburger-menu-svelte": "^2.2.0",
 		"node-pinboard": "^2.0.1",
