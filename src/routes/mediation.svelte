@@ -44,6 +44,7 @@
 	<h3>More Information</h3>
 
 	<ul>
+		<li><a href="/pages/quotes/mediation">Mediation Quotes</a></li>
 		<li><a href="/pages/mediation/what-mediation-is">What Mediation Is</a></li>
 		<li><a href="/pages/mediation/benefits-of-mediation">Benefits of Mediation</a></li>
 		<li><a href="/pages/mediation/mediation-confidentiality">Mediation Confidentiality</a></li>

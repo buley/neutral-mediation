@@ -51,6 +51,7 @@
 	<h2>More Information</h2>
 
 	<ul>
+		<li><a href="/pages/quotes/negotiation">Negotiation Quotes</a></li>
 		<li><a href="/pages/negotiation/what-is-negotiation">What Is Negotiation?</a></li>
 		<li><a href="/pages/negotiation/benefits-of-negotiation">Benefits of Negotiation</a></li>
 		<li><a href="/pages/negotiation/example-negotiation-scenarios">Example Negotiation Scenarios</a></li>

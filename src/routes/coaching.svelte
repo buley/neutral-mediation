@@ -62,6 +62,7 @@
 	<h3>More Information</h3>
 
 	<ul>
+		<li><a href="/pages/quotes/coaching">Coaching Quotes</a></li>
 		<li><a href="/pages/coaching/what-is-conflict-coaching">What Conflict Coaching Is</a></li>
 		<li><a href="/pages/coaching/benefits-of-conflict-coaching">Benefits of Conflict Coaching</a></li>
 		<li><a href="/pages/coaching/example-conflict-coaching-scenarios">Example Conflict Coaching Scenarios</a></li>
