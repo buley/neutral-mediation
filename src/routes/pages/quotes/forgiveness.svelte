@@ -12,7 +12,15 @@
 
 <div class="content">
 	<h1>Forgiveness Quotes</h1>
-<figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>If you are pained by external things, it is not that they pain you, but your own judgment of them; and it is in your power to wipe out that judgment now.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marcus Aurelius, <em><cite>Meditations: A New Translation</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
 		<blockquote class="pullquote">
 			<p>It doesn't hurt me unless I interpret it's happening as harmful to me. I can choose not to.</p>
 		</blockquote>

@@ -22,10 +22,10 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>If you are pained by external things, it is not that they pain you, but your own judgment of them; and it is in your power to wipe out that judgment now.</p>
+			<p>If a battle cannot be won, do not fight it.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Marcus Aurelius, <em><cite>Meditations: A New Translation</cite></em>
+			Sun Tzu, <em>Art of War</em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -34,14 +34,6 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Ryan Holiday and Stephen Hanselman, <em><cite>The Daily Stoic</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>If a battle cannot be won,&nbsp;do not fight it.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Sun Tzu, <em>Art of War</em>
 		</figcaption>
 	</figure>
 	<figure>
