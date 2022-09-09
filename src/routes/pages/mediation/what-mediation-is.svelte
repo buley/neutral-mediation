@@ -22,7 +22,7 @@
 		Unlike litigation and arbitration, resolution during mediation is completely within the control of the participants, rather than up to the whims of third-party judges or juries. Also unlike arbitration and ligation, mediation helps to address the emotional issues that so often underpin discord, bringing much-needed healing and closure and, overall, more satisfaction — in no small part due to the participatory nature of the mediated resolution, rather than compelled outcomes through arbitration or litigation. Like litigation, but often faster, mediation allows for legally binding, monetary solutions; however, mediation is also a place for parties to explore, with the help of a mediator, creative and non-monetary options to negotiated situations.
 	</p>
 	<p>
-		<a href="/ethics">Read our ethics for Neutral Mediation’s views on the importance of neutrality and self-determination in mediation</a>.
+		<a href="/ethics">Read our ethics for Neutral Mediation’s views on the importance of neutrality and self-determination in mediation.</a>
 	</p>
 
 </div>
