@@ -134,33 +134,6 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Today, Creator, grant me the courage and the will to forgive the people I love the most. Help me to forgive	every injustice I feel in my mind, and to love other people unconditionally. I know the only way to heal all the pain in my heart is through forgiveness.</p>
-			<p>Today, Creator, strengthen my will to forgive everyone who has hurt me, even if I believe the offense is unforgivable. I know that forgiveness is an act of self-love. Help me to love myself so much that I forgive every offense. Let me choose forgiveness because I don't want to suffer every time I remember the offense.</p>
-			<p>Today, Creator, help me to heal all the guilt in my heart by accepting the forgiveness of everyone I have hurt in my life. Help me to sincerely recognize the mistakes I have made out of ignorance, and give me the wisdom	and determination to refrain from making the same mistakes. I know that love and forgiveness will transform every relationship in the most positive way.</p>
-			<p>Thank you, Creator, for giving me the capacity to love and forgive. Today I open my heart to love and forgiveness, so that I can share my love without fear. Today I will enjoy a reunion with the people I love the most. Amen.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Don Miguel Ruiz, <em><cite>Prayers, A Communion with our Creator</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>An angry man opens his mouth and shuts his eyes.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Cato The Elder
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Anger is not impressive or tough— it's a mistake. It's weakness. Depending on what you're doing, it might even be a trap that someone laid for you.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Ryan Holiday and Stephen Hanselman, <em>The Daily Stoic</em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>Keep in mind that it isn't the one who has it in for you and takes a swipe that harms you, but rather the harm comes from your own belief about the abuse. So when someone arouses your anger, know that it's really your own opinion fueling it. Instead, make it your first response not to be carried away by such impressions, for with time and distance self-mastery is more easily achieved.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -169,18 +142,18 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Toxic positivity is forced,&nbsp;false positivity.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Brené Brown
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>Everybody in the world is seeking happiness—and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions. It isn't what you have or who you are or what you are doing that makes you happy or unhappy. It is what you think about it.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Dale Carnegie,&nbsp;<em>How to Win Friends and Influence People</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Toxic positivity is forced, false positivity.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brené Brown
 		</figcaption>
 	</figure>
 </div>

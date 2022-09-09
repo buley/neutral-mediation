@@ -245,6 +245,22 @@
 			Chuck Norris
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>An angry man opens his mouth and shuts his eyes.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Cato The Elder
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Anger is not impressive or tough— it's a mistake. It's weakness. Depending on what you're doing, it might even be a trap that someone laid for you.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Ryan Holiday and Stephen Hanselman, <em>The Daily Stoic</em>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {
