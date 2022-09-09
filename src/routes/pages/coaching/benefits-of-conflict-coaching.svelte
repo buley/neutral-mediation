@@ -18,7 +18,7 @@
 	</p>
 	
 	<p>
-		They help set and achieve goals, make life changes, increase motivation, facilitate learning new skills and discover and change self-identity.
+		Conflict coaches help set and achieve goals, make life changes, increase motivation, facilitate learning new skills and discover and change self-identity.
 	</p>
 	<p>
 		Honesty, vulnerability and acceptance are among the key skills that a conflict coach can help someone develop. A coach helps make sure a client's actions are consitent with their abmitiations, aspirations, core values and beliefs.
