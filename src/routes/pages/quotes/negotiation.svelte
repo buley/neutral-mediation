@@ -14,10 +14,10 @@
 	<h1>Negotiation Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
-			<p>It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.</p>
+			<p>You train to become a warrior, not a fighter. The warrior knows the hell he can let loose, so he chooses the path of peace and respect.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Albert Einstein
+			Shi Yan You
 		</figcaption>
 	</figure>
 	<figure>

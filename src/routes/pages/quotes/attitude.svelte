@@ -54,6 +54,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Albert Einstein
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>Attach no importance to self-seeking, rejection, arrogance, oppression and enmity. Heed them not. Deal in the contrary way. Be kind in truth, not only in appearance and outwardly. Every soul of the friends of God must concentrate his mind on this, that he may manifest the mercy of God and the bounty of the Forgiving One. He must do good to every soul whom he encounters, and render benefit to him, becoming the cause of improving the morals and correcting the thoughts so that the light of guidance may shine forth and the bounty of His Holiness the Merciful One may encompass. Love is light in whatsoever house it may shine and enmity is darkness in whatsoever abode it dwell.</p>
 		</blockquote>
 		<figcaption class="pullquote">

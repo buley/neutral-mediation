@@ -22,6 +22,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>How much better to heal than seek revenge from injury. Vengeance wastes a lot of time and exposes you to many more injuries than the first that sparked it. Anger always outlasts hurt. Best to take the opposite course.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Seneca
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>It doesn't hurt me unless I interpret it's happening as harmful to me. I can choose not to.</p>
 		</blockquote>
 		<figcaption class="pullquote">

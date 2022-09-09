@@ -14,6 +14,14 @@
 	<h1>Emotion Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Human reason needs only to will more strongly than fate, and she is fate.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Thomas Mann, <em><cite>The Magic Mountain</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The emotional qualities are antagonistic to clear reasoning.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -269,6 +277,7 @@
 			Seneca
 		</figcaption>
 	</figure>
+
 </div>
 <style>
 	.content {

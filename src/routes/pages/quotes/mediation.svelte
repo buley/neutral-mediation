@@ -30,30 +30,6 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Human reason needs only to will more strongly than fate, and she is fate.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Thomas Mann, <em><cite>The Magic Mountain</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>How much better to heal than seek revenge from injury. Vengeance wastes a lot of time and exposes you to many more injuries than the first that sparked it. Anger always outlasts hurt. Best to take the opposite course.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Seneca
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>You train to become a warrior, not a fighter. The warrior knows the hell he can let loose, so he chooses the path of peace and respect.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Shi Yan You
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>In conflict resolution, the deeper you look, the more there is to discover.</p>
 		</blockquote>
 		<figcaption class="pullquote">
