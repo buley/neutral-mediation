@@ -24,9 +24,10 @@ const config = {
 	    }
 	},
 	
+
 	experimental: {
 		useVitePreprocess: true
-	},
+	}
 
 
 };
