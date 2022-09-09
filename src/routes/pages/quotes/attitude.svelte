@@ -54,19 +54,6 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Sticks and stones may break my bones, but words can also hurt me.</p>
-			<p>Stones and sticks break only skin, while words are ghosts that haunt me.</p>
-			<p>Slant and curved the word-swords fall, it pierces and sticks inside me.</p>
-			<p>Bats and bricks may ache through bones, but words can mortify me.</p>
-			<p>Pain from words has left its' scar, on mind and hear that's tender.</p>
-			<p>Cuts and bruises have not healed, it's words that I remember.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Ruby Redfort, <em>Sticks and Stones</em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>I have gradually come to one negative conclusion about the good life. It seems to me that the good life is not any fixed state. It is not, in my estimation, a state of virtue, or contentment, or nirvana, or happiness. It is not a condition in which the individual is adjusted or fulfilled or actualized. To use psychological terms, it is not a state of drive-reduction, or tension-reduction, or homeostasis.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -79,14 +66,6 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Seneca
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>He'll never be frightened. He knows too damn much.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Ernest Hemingway, <em>The Sun Also Rises</em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -135,14 +114,6 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Dan Millman, <em>Way of the Peaceful Warrior</em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Men are like steel. When they lose their temper, they lose their worth.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Chuck Norris
 		</figcaption>
 	</figure>
 	<figure>

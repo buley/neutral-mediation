@@ -13,10 +13,11 @@
 <div class="content">
 	<h1>Coaching Quotes</h1>
 	<ul class="centered-list">
-		<li><a href="/pages/quotes/emotion">Emotion</a></li>
 		<li><a href="/pages/quotes/attitude">Attitude</a></li>
-		<li><a href="/pages/quotes/reflection">Reflection</a></li>
+		<li><a href="/pages/quotes/emotion">Emotion</a></li>
+		<li><a href="/pages/quotes/forgiveness">Forgiveness</a></li>
 		<li><a href="/pages/quotes/hope">Hope</a></li>
+		<li><a href="/pages/quotes/reflection">Reflection</a></li>
 	</ul>
 </div>
 <style>

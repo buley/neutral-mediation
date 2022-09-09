@@ -224,6 +224,27 @@
 			Carl Rogers, <em>Client-centered therapy</em>
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Sticks and stones may break my bones, but words can also hurt me.</p>
+			<p>Stones and sticks break only skin, while words are ghosts that haunt me.</p>
+			<p>Slant and curved the word-swords fall, it pierces and sticks inside me.</p>
+			<p>Bats and bricks may ache through bones, but words can mortify me.</p>
+			<p>Pain from words has left its' scar, on mind and hear that's tender.</p>
+			<p>Cuts and bruises have not healed, it's words that I remember.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Ruby Redfort, <em>Sticks and Stones</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Men are like steel. When they lose their temper, they lose their worth.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Chuck Norris
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

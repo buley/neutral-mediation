@@ -226,6 +226,14 @@
 			Brené Brown
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>He'll never be frightened. He knows too damn much.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Ernest Hemingway, <em>The Sun Also Rises</em>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {
