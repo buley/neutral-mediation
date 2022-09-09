@@ -166,10 +166,11 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?</p><p>And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off.</p>
+			<p>"If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?</p><p>And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off."</p>
+			<p>... Peter came up and said to him, “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?” Jesus said to him, “I do not say to you seven times, but seventy-seven times.</p>
 		</blockquote>
 		<figcaption class="pullquote">
-			Jesus, <cite><em>Bible</em>, Matthew 18:12-13</cite>
+			Jesus, <cite><em>Bible</em>, Matthew 18:12-13, 21-22</cite>
 		</figcaption>
 	</figure>
 </div>
