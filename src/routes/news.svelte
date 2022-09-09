@@ -81,7 +81,7 @@
 	<h1>Error</h1>
     <p>{error.name}: {error.message}</p>
 {/await}
-	<p><small><a href="/sitemap.xml">Click here for our sitemap</a>.</a></small></p>
+	<p><small><a href="/sitemap.xml">Click here for our sitemap.</a></small></p>
 </div>
 
 <style>

@@ -5,11 +5,13 @@
 	import phone from '$lib/assets/phone.svg';
 	import logo from '$lib/assets/neutral-logo-trans-crop.svg';
 	import splash from '$lib/assets/anonymous-couple-talking.webp';
+	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Neutral Mediation" />
+	<MetaTags title="Neutral Mediation" description="ENeutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led mediation and negotiation, in addition to training, consulting nad conflict coaching." />
 </svelte:head>
 
 <section>
