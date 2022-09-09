@@ -3,7 +3,7 @@ export const manifest = {
 	assets: new Set(["FavIcon.png"]),
 	mimeTypes: {".png":"image/png"},
 	_: {
-		entry: {"file":"start-a0ba3433.js","js":["start-a0ba3433.js","chunks/index-2c309845.js"],"css":[]},
+		entry: {"file":"start-a7c68d73.js","js":["start-a7c68d73.js","chunks/index-2c309845.js"],"css":[]},
 		nodes: [
 			() => import('./nodes/0.js'),
 			() => import('./nodes/1.js'),
@@ -111,6 +111,14 @@ export const manifest = {
 				shadow: null,
 				a: [0,2],
 				b: [1]
+			},
+			{
+				type: 'endpoint',
+				id: "sitemap.xml",
+				pattern: /^\/sitemap\.xml$/,
+				names: [],
+				types: [],
+				load: () => import('./entries/endpoints/sitemap.xml.js')
 			},
 			{
 				type: 'endpoint',

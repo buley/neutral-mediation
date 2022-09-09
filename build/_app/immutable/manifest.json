@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a0ba3433.js",
+    "file": "start-a7c68d73.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -166,7 +166,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/background.svelte": {
@@ -180,7 +180,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/cancellation.svelte": {
@@ -193,7 +193,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/coaching.svelte": {
@@ -206,7 +206,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/consulting.svelte": {
@@ -219,7 +219,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/contact.svelte": {
@@ -245,7 +245,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/disclaimer.svelte": {
@@ -258,7 +258,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/documents.svelte": {
@@ -271,7 +271,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/ethics.svelte": {
@@ -284,7 +284,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/forms/arrogance.svelte": {
@@ -462,7 +462,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/mediation.svelte": {
@@ -475,7 +475,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/negotiation.svelte": {
@@ -488,7 +488,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/news.svelte": {
@@ -501,7 +501,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/acceptance.svelte": {
@@ -514,7 +514,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/apology.svelte": {
@@ -527,7 +527,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/benefits-of-conflict-coaching.svelte": {
@@ -540,7 +540,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/breathwork.svelte": {
@@ -553,7 +553,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/cbt.svelte": {
@@ -566,7 +566,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/conflict-coaching-process.svelte": {
@@ -579,7 +579,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/emotions.svelte": {
@@ -592,7 +592,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/empathy.svelte": {
@@ -605,7 +605,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/example-conflict-coaching-scenarios.svelte": {
@@ -618,7 +618,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/forgiveness.svelte": {
@@ -631,7 +631,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/gratitude.svelte": {
@@ -644,7 +644,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/humility.svelte": {
@@ -657,7 +657,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/limitations-of-conflict-coaching.svelte": {
@@ -670,7 +670,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/meditation.svelte": {
@@ -683,7 +683,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/mindset-assessment.svelte": {
@@ -696,7 +696,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/pillars-of-conflict-coaching.svelte": {
@@ -709,7 +709,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/rebt.svelte": {
@@ -722,7 +722,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/relationships.svelte": {
@@ -735,7 +735,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/coaching/what-is-conflict-coaching.svelte": {
@@ -748,7 +748,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/benefits-of-mediation.svelte": {
@@ -761,7 +761,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/example-mediation-provisions.svelte": {
@@ -774,7 +774,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/example-mediation-scenarios.svelte": {
@@ -787,7 +787,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/how-mediators-add-value.svelte": {
@@ -800,7 +800,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/how-to-involve-a-neutral.svelte": {
@@ -813,7 +813,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/limits-of-mediation.svelte": {
@@ -826,7 +826,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/mediation-best-practices.svelte": {
@@ -839,7 +839,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/mediation-confidentiality.svelte": {
@@ -852,7 +852,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/mediation-law.svelte": {
@@ -865,7 +865,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/mediation-process.svelte": {
@@ -878,7 +878,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/pillars-of-mediation.svelte": {
@@ -891,7 +891,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/what-a-mediator-does.svelte": {
@@ -904,7 +904,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/what-mediation-is.svelte": {
@@ -917,7 +917,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/who-mediators-are.svelte": {
@@ -930,7 +930,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/mediation/why-a-medator-is-worthwhile.svelte": {
@@ -943,7 +943,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/negotiation/benefits-of-negotiation.svelte": {
@@ -956,7 +956,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/negotiation/example-negotiation-scenarios.svelte": {
@@ -969,7 +969,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/negotiation/limitations-of-negotiation.svelte": {
@@ -982,7 +982,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/negotiation/pillars-of-negotiation.svelte": {
@@ -995,7 +995,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/negotiation/what-is-negotiation.svelte": {
@@ -1008,7 +1008,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/attitude.svelte": {
@@ -1021,7 +1021,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/coaching.svelte": {
@@ -1034,7 +1034,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/emotion.svelte": {
@@ -1047,7 +1047,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/forgiveness.svelte": {
@@ -1060,7 +1060,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/hope.svelte": {
@@ -1073,7 +1073,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/mediation.svelte": {
@@ -1086,7 +1086,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/negotiation.svelte": {
@@ -1099,7 +1099,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/politics.svelte": {
@@ -1112,7 +1112,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/reflection.svelte": {
@@ -1125,7 +1125,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes/storytelling.svelte": {
@@ -1138,7 +1138,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/pages/quotes.svelte": {
@@ -1151,7 +1151,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/press.svelte": {
@@ -1164,7 +1164,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/prices.svelte": {
@@ -1177,7 +1177,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/privacy.svelte": {
@@ -1190,7 +1190,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/recusal.svelte": {
@@ -1203,7 +1203,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/refunds.svelte": {
@@ -1216,7 +1216,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/resume.svelte": {
@@ -1229,7 +1229,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/security.svelte": {
@@ -1242,7 +1242,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/terms.svelte": {
@@ -1255,7 +1255,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/thanks.svelte": {
@@ -1268,7 +1268,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/training.svelte": {
@@ -1281,7 +1281,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "src/routes/w9.svelte": {
@@ -1294,7 +1294,7 @@
       "_env-5493c761.js"
     ],
     "css": [
-      "assets/pages/pages/mediation/why-a-medator-is-worthwhile.svelte-a5954f57.css"
+      "assets/pages/cookies.svelte-bceb1179.css"
     ]
   },
   "_index-2c309845.js": {

@@ -10,6 +10,11 @@
       "src/hooks.ts"
     ]
   },
+  "src/routes/sitemap.xml.js": {
+    "file": "entries/endpoints/sitemap.xml.js",
+    "src": "src/routes/sitemap.xml.js",
+    "isEntry": true
+  },
   "src/routes/random.js": {
     "file": "entries/endpoints/random.js",
     "src": "src/routes/random.js",
