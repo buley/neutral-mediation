@@ -15,7 +15,7 @@
 	<ul class="centered-list">
 		<li><a href="#emotion">Emotion</a></li>
 		<li><a href="#attitude">Attitude</a></li>
-		<li><a href="#self-reflection">Self-Reflection</a></li>
+		<li><a href="#selfreflection">Self-Reflection</a></li>
 		<li><a href="#hope">Hope</a></li>
 	</ul>
 	<h2 id="emotion">Emotion Quotes</h2>
@@ -432,7 +432,7 @@
 			Dale Carnegie,&nbsp;<em>How to Win Friends and Influence People</em>
 		</figcaption>
 	</figure>
-	<h2 id="self-reflection">Self-Reflection Quotes</h2>
+	<h2 id="selfreflection">Self-Reflection Quotes</h2>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Almost everything will work again if you unplug it for a few minutes, including you.</p>
