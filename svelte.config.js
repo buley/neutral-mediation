@@ -29,7 +29,7 @@ const config = {
 		useVitePreprocess: true
 	},
 
-    "postbuild": "npx svelte-sitemap --domain https://neutrals.io"
+    postbuild: "npx svelte-sitemap --domain https://neutrals.io"
 
 };
 
