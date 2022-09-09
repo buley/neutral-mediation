@@ -1,0 +1,234 @@
+<script context="module">
+	import { browser, dev } from '$app/env';
+	export const hydrate = dev;
+	export const router = browser;
+	export const prerender = true;
+</script>
+
+<svelte:head>
+	<title>Emotion Quotes</title>
+	<meta name="description" content="" />
+</svelte:head>
+
+<div class="content">
+	<h1>Emotion Quotes</h1>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The emotional qualities are antagonistic to clear reasoning.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Sir Arthur Conan Doyle, <em>Sherlock Holmes</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>You shouldn't give circumstances the power to rouse anger, for they don't care at all.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marcus Aurelius
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>When we are in conflict, we say things we do not mean and mean things we do not say. Only rarely do we communicate at a deep level what we really, honestly think and feel, or do so in ways that are empathetic. We seldom spreak from our hearts or expose our vulnerability in ways our opponent can hear.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>When dealing with people, remember you are not dealing with creatures of logic, but with creatures of emotion.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Dale Carnegie
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Battle not with monsters, lest ye become a monster, and if you gaze into the abyss, the abyss gazes also into you.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Friedrich Nietzsche, <em><cite>Beyond Good and Evil</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Men decide far more problems by hate, love, lust, rage, sorrow, joy, hope, fear, illusion or some other inward emotion, than by reality, authority, any legal standard, judicial precedent, or statute.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marcus Tullius Cicero
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>We are more often frightened than hurt; and we suffer more from imagination than from reality.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Seneca
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Talk is cheap, but it can cost you plenty.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Charles F. Glassman
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>... as much as talent counts, effort counts twice.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Angela Duckworth, <em><cite>Grit</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It only takes <em>one</em> to stop the tango, and that one could be you.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The greatest and most important problems of life are all in a certain sense insoluble…. They can never be solved, but only outgrown…. This ‘outgrowing', as I formerly called it, on further experience was seen to consist in a new level of consciousness. Some higher or wider interest arose on the person's horizon, and through this widening of view, the insoluble problem lost its urgency. It was not solved logically in its own terms, but faded out when confronted with a new and stronger life-tendency.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Carl Jung
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>&nbsp;"Vulnerability is the birthplace of love, belonging, joy courage, empathy, and creativity. It is the source of hope empathy, accountability, and authenticity.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brené Brown
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Vulnerability is scary, but it's better than getting to the end of your life and realizing that you didn't show up or be seen.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brené Brown, <em>Dare Greatly</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Those who are skilled in combat do not become angered, those who are skilled at winning do not become afraid. Thus the wise win before the fight, while the ignorant fight to win.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Morihei Ueshiba
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Anyone can become angry…That is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose, and in the right way—that is not easy.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Aristotle, <em>Nicomachean Ethics</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Understand at last that you have something in you more powerful and divine than what causes the bodily passions and pulls you like a mere puppet.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marcus Aurelius
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote" id="go-to-your-bosom-knock-there-and-ask-your-heart-what-it-doth-know">
+			<p>Go to your bosom; Knock there, and ask your heart what it doth know.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			William Shakespeare, <em>Measure for Measure</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The definition of vulnerability is uncertainty, risk, and emotional exposure.</p>
+			<p>But vulnerability is not weakness; it's our most accurate measure of courage.</p>
+			<p>When the barrier is our belief about vulnerability, the question becomes: 'Are we willing to show up and be seen when we can't control the outcome?'</p>
+			<p>When the barrier to vulnerability is about safety, the question becomes: 'Are we willing to create courageous spaces so we can be fully seen?'</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Brené Brown, <em>Braving the Wilderness</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Any person capable of angering you becomes your master; he can anger you only when you permit yourself to be disturbed by him.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Epictetus
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Anger is a barometer of caring.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>I remember Rudi [a friend and teacher] saying once that all life is about transcendence. If you’re ugly you have to transcend your ugliness, if you’re beautiful you have to transcend your beauty, if you’re poor you have to transcend your poverty, if you’re rich you have to transcend your wealth… There is nothing worse than being born extraordinarily beautiful, nothing more potentially damaging to the self. You could say the same for being born inordinately rich. You suddenly realize how wise the idea is that you get nothing at birth except things to transcend. That’s all you get.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Milton Glase, Joan Evelyn Ames' <em><cite>Mastery: Interviews with 30 Remarkable People</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The greatest remedy for anger is delay.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Seneca
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Keep this thought handy when you feel a fit of rage coming on— it isn't manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. A real man doesn't give way to anger and discontent, and such a person has strength, courage, and endurance— unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marcus Aurelius
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>True knowledge of God is gained when the lover comes in contact with the Beloved through secret communion with Him.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Sufi proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Tending the garden is a relaxing pastime, but it does not prepare one for the inevitable battles of life. It is easy to be calm in a serene setting.</p>
+			<p>To be calm and serene when under attack is much more difficult; therefore, I tell you that it is far better to be a warrior tending his garden rather than a gardener at war.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Chinese proverb
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The organism has one basic tendency and striving - to actualize, maintain, and enhance the experiencing organism.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Carl Rogers, <em>Client-centered therapy</em>
+		</figcaption>
+	</figure>
+</div>
+<style>
+	.content {
+		width: 100%;
+		max-width: var(--column-width);
+		margin: var(--column-margin-top) auto 0 auto;
+	}
+</style>
