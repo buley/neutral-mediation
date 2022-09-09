@@ -280,8 +280,17 @@
 			Buddha, <em>Dhammapada</em>
 		</figcaption>
 	</figure>
-
-
+	<figure>
+		<blockquote class="pullquote">
+			<p>Damn with faint praise, assent with civil leer,<br>
+			And without sneering, teach the rest to sneer;<br>
+			Willing to wound, and yet afraid to strike,<br>
+			Just hint a fault, and hesitate dislike.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Alexander Pope, <em><cite>MEpistle to Dr Arbuthnot</cite></em>
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>The rules of the game: learn everything, read everything, inquire into everything, while at the same time adapting to one's ends the Spiritual Exercises of Ignatius of Loyola, or the method of Hindu ascetics, who for years, and to the point of exhaustion, try to visualize ever more exactly the images which they create beneath their closed eyelids. Through hundreds of card notes pursue each incident to the very moment that it occurred; endeavor to restore the mobility and suppleness of life to those visages known only to us in stone. When two texts, or two assertions, or perhaps two ideas, are in contradiction, be ready to reconcile them rather than cancel one by the other; regard them as two different facets, or two successive stages of the same reality, a reality convincingly human just because it is complex.</p>
