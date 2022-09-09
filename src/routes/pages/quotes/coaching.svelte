@@ -17,7 +17,9 @@
 		<li><a href="/pages/quotes/emotion">Emotion Quotes</a></li>
 		<li><a href="/pages/quotes/forgiveness">Forgiveness Quotes</a></li>
 		<li><a href="/pages/quotes/hope">Hope Quotes</a></li>
+		<li><a href="/pages/quotes/politics">Politics Quotes</a></li>
 		<li><a href="/pages/quotes/reflection">Reflection Quotes</a></li>
+		<li><a href="/pages/quotes/storytelling">Storytelling Quotes</a></li>
 	</ul>
 </div>
 <style>
