@@ -12,6 +12,30 @@
 
 <div class="content">
 	<h1>Forgiveness Quotes</h1>
+<figure>
+		<blockquote class="pullquote">
+			<p>It doesn't hurt me unless I interpret it's happening as harmful to me. I can choose not to.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marcus Aurelius
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Another person will not hurt you without your cooperation. You are hurt the moment you believe yourself to be.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Epictetus
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Keep in mind that it isn't the one who has it in for you and takes a swipe that harms you, but rather the harm comes from your own belief about the abuse. So when someone arouses your anger, know that it's really your own opinion fueling it. Instead, make it your first response not to be carried away by such impressions, for with time and distance self-mastery is more easily achieved.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Epictetus
+		</figcaption>
+	</figure>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Today, Creator, grant me the courage and the will to forgive the people I love the most. Help me to forgive	every injustice I feel in my mind, and to love other people unconditionally. I know the only way to heal all the pain in my heart is through forgiveness.</p>
@@ -21,6 +45,22 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Don Miguel Ruiz, <em><cite>Prayers, A Communion with our Creator</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Show respect to people who don't even deserve it; not as a reflection of their character, but as a reflection of yours.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Dave Willis
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>So other people hurt me? That's their problem. Their character and actions are not mine.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Marcus Aurelius
 		</figcaption>
 	</figure>
 </div>

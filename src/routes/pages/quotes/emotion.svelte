@@ -261,6 +261,14 @@
 			Ryan Holiday and Stephen Hanselman, <em>The Daily Stoic</em>
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Anger brings about nothing grand or beautiful. On the other hand, to be constantly irritated seems to me to be the part of a languid and unhappy mind, conscious of its own feebleness.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Seneca
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

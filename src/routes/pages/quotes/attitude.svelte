@@ -62,14 +62,6 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Anger brings about nothing grand or beautiful. On the other hand, to be constantly irritated seems to me to be the part of a languid and unhappy mind, conscious of its own feebleness.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Seneca
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>Attach no importance to self-seeking, rejection, arrogance, oppression and enmity. Heed them not. Deal in the contrary way. Be kind in truth, not only in appearance and outwardly. Every soul of the friends of God must concentrate his mind on this, that he may manifest the mercy of God and the bounty of the Forgiving One. He must do good to every soul whom he encounters, and render benefit to him, becoming the cause of improving the morals and correcting the thoughts so that the light of guidance may shine forth and the bounty of His Holiness the Merciful One may encompass. Love is light in whatsoever house it may shine and enmity is darkness in whatsoever abode it dwell.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -86,26 +78,10 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>The angry man will defeat himself&nbsp;in battle as well as in life.</p>
+			<p>The angry man will defeat himself in battle as well as in life.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Samurai maxim
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Show respect to people who don't even deserve it; not as a reflection of their character, but as a reflection of yours.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Dave Willis
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>So other people hurt me? That's their problem. Their character and actions are not mine.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Marcus Aurelius
 		</figcaption>
 	</figure>
 	<figure>
@@ -114,30 +90,6 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Dan Millman, <em>Way of the Peaceful Warrior</em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>It doesn't hurt me unless I interpret it's happening as harmful to me. I can choose not to.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Marcus Aurelius
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Another person will not hurt you without your cooperation. You are hurt the moment you believe yourself to be.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Epictetus
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Keep in mind that it isn't the one who has it in for you and takes a swipe that harms you, but rather the harm comes from your own belief about the abuse. So when someone arouses your anger, know that it's really your own opinion fueling it. Instead, make it your first response not to be carried away by such impressions, for with time and distance self-mastery is more easily achieved.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Epictetus
 		</figcaption>
 	</figure>
 	<figure>
