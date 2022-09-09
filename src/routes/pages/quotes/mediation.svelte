@@ -110,30 +110,6 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>If you are neutral in situations of injustice, you have chosen the side of the oppressor. If an elephant has its foot on the tail of a mouse and you say that you are neutral, the mouse will not appreciate your neutrality.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Desmond Tutu
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Our lives begin to end the day we become silent about things that matter.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Dr. Martin Luther King, Jr.
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>People don't resist change. They resist being changed.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Peter Senge
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>When we listen to people, our language softens. Listening may be the cardinal act of giving... It is the source of peace.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -146,6 +122,14 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Leo Tolstoy
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>People don't resist change. They resist being changed.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Peter Senge
 		</figcaption>
 	</figure>
 	<figure>
