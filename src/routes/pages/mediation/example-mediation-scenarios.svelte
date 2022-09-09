@@ -34,7 +34,7 @@
 	        <li>Communication conflicts</li>
 	    </ul>
 	<p>
-	    Read about the mediation process and learn what to expect.
+	    <a href="/pages/mediation/mediation-process">Read about the mediation process and learn what to expect.</a>
 	</p>
 </div>
 
