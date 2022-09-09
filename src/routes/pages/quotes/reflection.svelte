@@ -624,6 +624,60 @@
 			Charles Darwin
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>An autobiography is the truest of all books; for while it inevitably consists mainly of extinctions of the truth, shirkings of the truth, partial revealments of the truth, with hardly an instance of plain straight truth, the remorseless truth is there, between the lines, where the author-cat is raking dust upon it which hides from the disinterested spectator neither it nor its smell (though I didn't use that figure)--the result being that the reader knows the author in spite of his wily diligences.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Mark Twain, <em><cite>Letter to William D. Howells,  1904</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>When you are quiet you are connected<br>Your silence brings out<br>Your self understanding that<br>You are part of the sacred world<br>It's your silence that connects you to the sacred world.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Tuhunnu and Pesio, <em><cite>IR9 Indigenous & Black Wisdubs</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Like lost children we live our unfinished adventures.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Guy Debord, <em>The Society of the Spectacle</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>[T]he latest and most formidable form of … domination [is]
+	bureaucracy … which could be properly called rule by Nobody. If, in
+	accord with traditional political thought, we identify tyranny as
+	government that is not held to give account of itself, rule by Nobody is
+	clearly the most tyrannical of all, since there is no one left who would
+	even be asked to answer for what is being done.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Hannah Arendt, <em><cite>On Violence</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The very essence of the creative is its novelty, and hence we have no standard by which to judge it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Carl Rogers, <em>On becoming a person</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>It is quite true that man lives by bread alone — when there is no bread. But what happens to man's desires when there is plenty of bread and when his belly is chronically filled?</p>
+			<p>At once other (and 'higher') needs emerge and these, rather than physiological hungers, dominate the organism. And when these in turn are satisfied, again new (and still 'higher') needs emerge and so on. This is what we mean by saying that the basic human needs are organized into a hierarchy of relative prepotency.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Abraham H. Maslow, <em>A Theory of Human Motivation</em>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

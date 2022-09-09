@@ -108,6 +108,63 @@
 			Brené Brown
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>There are three great frontiers in science: the very big, the very small and
+the very complex.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Martin Rees
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>What is commonly called 'disorder' is merely an inappropriate name for what is actually a certain rather complex kind of order that is difficult to describe in full detail. Our real task can, therefore, never be to judge whether something is ordered or disordered, because everything is ordered, because disorder in the sense of the absence of every conceivable kind of order is an impossibility. Rather, What one really has to do is to observe and describe the kind of order that each thing actually has.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			David Bohm
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>The essence of tyranny is the denial of complexity.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Jacob Burkhardt
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>A man whose desire is to be something separate from himself, to be a member of Parliament, or a successful grocer, or a prominent solicitor, or a judge, or something equally tedious, invariably succeeds in being what he wants to be. That is his punishment. Those who want a mask have to wear it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Oscar Wilde
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>If you cry, 'Forward!' you must be sure to make clear the direction in which to go. Don't you see that if you fail to do that and simply call out the word to a monk and a revolutionary, they will go in precisely	opposite directions?</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Anton Chekhov
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>A culture that allows the concept of ‘safety' to creep so far that it equates emotional discomfort with physical danger is a culture that encourages people to systematically protect one another from the very experiences embedded in everyday life that they need in order to become strong and healthy.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Jonathan Haidt and Greg Lukianoff, <em><em>The Coddling of the American Mind</em></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>I have come to the frightening conclusion that I am the decisive element. It is my personal approach that creates the climate. It is my daily mood that makes the weather. I possess tremendous power to make life miserable or joyous. I can be a tool of torture or an instrument of inspiration, I can humiliate or humor, hurt or heal. In all situations, it is my response that decides whether a crisis is escalated or de-escalated, and a person is humanized or de-humanized. If we treat people as they are, we make them worse. If we treat people as they ought to be, we help them become what they are capable of becoming.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Haim G. Ginott, <em>Teacher and Child</em>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

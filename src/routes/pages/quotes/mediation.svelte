@@ -38,31 +38,6 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>There are three great frontiers in science: the very big, the very small and
-the very complex.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Martin Rees
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>What is commonly called 'disorder' is merely an inappropriate name for what is actually a certain rather complex kind of order that is difficult to describe in full detail. Our real task can, therefore, never be to judge whether something is ordered or disordered, because everything is ordered, because disorder in the sense of the absence of every conceivable kind of order is an impossibility. Rather, What one really has to do is to observe and describe the kind of order that each thing actually has.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			David Bohm
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>The essence of tyranny is the denial of complexity.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Jacob Burkhardt
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>Conflict is the sound made by the cracks in a system, the manifestation of contradictory forces coexisting in a single space.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -79,27 +54,10 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Genuine politics – politics worthy of the name, and the only politics I am willing to devote myself to – is simply a matter of serving those around us: serving the community, and serving those who will come after us. It's deepest roots are moral because it is a responsibility … [T]here is only one way to strive for decency, reason, responsibility, sincerity, civility, and	tolerance, and that is decently, reasonably, responsibly, sincerely, civilly, and tolerantly. I'm aware that, in everyday politics, this is not seen as the most practical way of going about it.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Vaclav Havel
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>Listen to both sides and you will be enlightened; listen to only one side and you will be left in the dark.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Wei Zheng
-		</figcaption>
-	</figure>
-
-	<figure>
-		<blockquote class="pullquote">
-			<p>An autobiography is the truest of all books; for while it inevitably consists mainly of extinctions of the truth, shirkings of the truth, partial revealments of the truth, with hardly an instance of plain straight truth, the remorseless truth is there, between the lines, where the author-cat is raking dust upon it which hides from the disinterested spectator neither it nor its smell (though I didn't use that figure)--the result being that the reader knows the author in spite of his wily diligences.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Mark Twain, <em><cite>Letter to William D. Howells,  1904</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -128,15 +86,7 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>When a society decays, it is language that is first to become gangrenous.... Although moralists are scandalized by the fortunes amassed by the revolutionaries [in Mexico under the ruling party], they have failed to	observe that this material flowering has a verbal parallel; oratory has become the favorite literary genre of the prosperous... and alongside oratory, with its plastic flowers, there is the barbarous syntax in many of our newspapers, the foolishness of language on loudspeakers and the radio, the loathsome vulgarities of advertising -- all that asphyxiating rhetoric.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Octavio Paz
-		</figcaption>
-	</figure>	
-	<figure>
-		<blockquote class="pullquote">
-			<p>Choosing to be&nbsp;curious&nbsp;is choosing to be vulnerable because it requires us to surrender to&nbsp;uncertainty. It wasn't always a choice; we were born&nbsp;curious.</p>
+			<p>Choosing to be curious is choosing to be vulnerable because it requires us to surrender to uncertainty. It wasn't always a choice; we were born curious.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Brené Brown
@@ -168,42 +118,10 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>A man whose desire is to be something separate from himself, to be a member of Parliament, or a successful grocer, or a prominent solicitor, or a judge, or something equally tedious, invariably succeeds in being what he wants to be. That is his punishment. Those who want a mask have to wear it.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Oscar Wilde
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>If you cry, 'Forward!' you must be sure to make clear the direction in which to go. Don't you see that if you fail to do that and simply call out the word to a monk and a revolutionary, they will go in precisely	opposite directions?</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Anton Chekhov
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>We are most likely to get angry and excited in our opposition to some idea when we ourselves are not quite certain of our own position, and are inwardly tempted to take the other side.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Thomas Mann, <em><cite>Buddenbrooks</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>People don't resist change. They resist being changed.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Peter Senge
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>When you are quiet you are connected<br>Your silence brings out<br>Your self understanding that<br>You are part of the sacred world<br>It's your silence that connects you to the sacred world.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Tuhunnu and Pesio, <em><cite>IR9 Indigenous & Black Wisdubs</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -234,43 +152,10 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>Like lost children we live our unfinished adventures.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Guy Debord, <em>The Society of the Spectacle</em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Those who tell the stories rule society.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Plato
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>In conflict resolution, the way out is through.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p><em>De gustibus non est disputandum, or de gustibus non disputandum est.</em></p>
-			<p>In matters of taste, there can be no disputes.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Roman proverb
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>The writer’s joy is the thought that can become emotion, the emotion that can wholly become a thought.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Thomas Mann, <em><cite>Death in Venice</cite></em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -283,55 +168,10 @@ the very complex.</p>
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
-			<p>A culture that allows the concept of ‘safety' to creep so far that it equates emotional discomfort with physical danger is a culture that encourages people to systematically protect one another from the very experiences embedded in everyday life that they need in order to become strong and healthy.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Jonathan Haidt and Greg Lukianoff, <em><em>The Coddling of the American Mind</em></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Dignity does not consist in possessing honors, but in deserving them.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Aristotle
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>[T]he latest and most formidable form of … domination [is]
-	bureaucracy … which could be properly called rule by Nobody. If, in
-	accord with traditional political thought, we identify tyranny as
-	government that is not held to give account of itself, rule by Nobody is
-	clearly the most tyrannical of all, since there is no one left who would
-	even be asked to answer for what is being done.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Hannah Arendt, <em><cite>On Violence</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>The very essence of the creative is its novelty, and hence we have no standard by which to judge it.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Carl Rogers, <em>On becoming a person</em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
 			<p>Treat people well, regardless of their differences.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Dr. George Thompson
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>I have come to the frightening conclusion that I am the decisive element. It is my personal approach that creates the climate. It is my daily mood that makes the weather. I possess tremendous power to make life miserable or joyous. I can be a tool of torture or an instrument of inspiration, I can humiliate or humor, hurt or heal. In all situations, it is my response that decides whether a crisis is escalated or de-escalated, and a person is humanized or de-humanized. If we treat people as they are, we make them worse. If we treat people as they ought to be, we help them become what they are capable of becoming.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Haim G. Ginott, <em>Teacher and Child</em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -342,29 +182,13 @@ the very complex.</p>
 			 Ken Cloke and Joan Goldsmith, <em><cite>Resolving Conflicts at Work</cite></em>
 		</figcaption>
 	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>Because the ones I work for do not love me, because I have said too much and I haven’t been sure of what is right and I’ve hated the people I’ve trusted, because I work in an office and we are lost and when I come home I say their lives are theirs and they don’t know what they apologize for and none of it mended, because I let them beat me and I remember something of mine which not everyone has, and because I lie to keep my self and my hands my voice on the phone what I swallow what hurts me, because I hurt them--</p>
-			<p>I give them the hours I spend away from them and carry them, even in my sleep, at least as the nag of a misplaced shoe, for years after I have quit and gone on to another job where I hesitate in telling and I remember and I resent having had to spend more time with them than with the ones I love.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			 Killarney Clary, <em><cite>Who Whispered Near Me</cite></em>
-		</figcaption>
-	</figure>
+
 	<figure>
 		<blockquote class="pullquote">
 			<p>By embracing the inescapable, I lost my fear of it. I’ll tell you a secret about fear: its an absolutist. With fear, its all or nothing. Either, like any bullying tyrant, it rules your life with a stupid blinding omnipotence, or else you overthrow it, and its power vanishes like a puff of smoke. And another secret: the revolution against fear, the engendering of that tawdry despots fall, has more or less nothing to do with ‘courage’. It is driven by something much more straightforward: the simple need to get on with your life.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			 Salman Rushdie, <em><cite>The Moors Last Sigh</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>No person hands out their money to passersby, but to how many do each of us hand out our lives! We're tight-fisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Seneca, <em>On the Brevity of Life</em>
 		</figcaption>
 	</figure>
 	<figure>
@@ -407,15 +231,6 @@ the very complex.</p>
 		</blockquote>
 		<figcaption class="pullquote">
 			Brenda Ueland, <em><cite>Tell Me More: On the Fine Art of Listening</cite></em>
-		</figcaption>
-	</figure>
-	<figure>
-		<blockquote class="pullquote">
-			<p>It is quite true that man lives by bread alone — when there is no bread. But what happens to man's desires when there is plenty of bread and when his belly is chronically filled?</p>
-			<p>At once other (and 'higher') needs emerge and these, rather than physiological hungers, dominate the organism. And when these in turn are satisfied, again new (and still 'higher') needs emerge and so on. This is what we mean by saying that the basic human needs are organized into a hierarchy of relative prepotency.</p>
-		</blockquote>
-		<figcaption class="pullquote">
-			Abraham H. Maslow, <em>A Theory of Human Motivation</em>
 		</figcaption>
 	</figure>
 	<figure>

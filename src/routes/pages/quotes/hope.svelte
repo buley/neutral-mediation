@@ -84,6 +84,22 @@
 			Horace Bushnell
 		</figcaption>
 	</figure>	
+	<figure>
+		<blockquote class="pullquote">
+			<p>Those who tell the stories rule society.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Plato
+		</figcaption>
+	</figure>
+		<figure>
+		<blockquote class="pullquote">
+			<p>Dignity does not consist in possessing honors, but in deserving them.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Aristotle
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

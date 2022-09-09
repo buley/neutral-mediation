@@ -79,6 +79,22 @@
 			Marcus Aurelius
 		</figcaption>
 	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>When a society decays, it is language that is first to become gangrenous... Although moralists are scandalized by the fortunes amassed by the revolutionaries [ruling in Mexico], they have failed to observe that this material flowering has a verbal parallel; oratory has become the favorite literary genre of the prosperous... and alongside oratory, with its plastic flowers, there is the barbarous syntax in many of our newspapers, the foolishness of language on loudspeakers and the radio, the loathsome vulgarities of advertising -- all that asphyxiating rhetoric.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Octavio Paz
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>No person hands out their money to passersby, but to how many do each of us hand out our lives! We're tight-fisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Seneca, <em>On the Brevity of Life</em>
+		</figcaption>
+	</figure>
 </div>
 <style>
 	.content {

@@ -22,6 +22,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>The writer’s joy is the thought that can become emotion, the emotion that can wholly become a thought.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Thomas Mann, <em><cite>Death in Venice</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>The emotional qualities are antagonistic to clear reasoning.</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -243,6 +251,15 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Ruby Redfort, <em>Sticks and Stones</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>Because the ones I work for do not love me, because I have said too much and I haven’t been sure of what is right and I’ve hated the people I’ve trusted, because I work in an office and we are lost and when I come home I say their lives are theirs and they don’t know what they apologize for and none of it mended, because I let them beat me and I remember something of mine which not everyone has, and because I lie to keep my self and my hands my voice on the phone what I swallow what hurts me, because I hurt them--</p>
+			<p>I give them the hours I spend away from them and carry them, even in my sleep, at least as the nag of a misplaced shoe, for years after I have quit and gone on to another job where I hesitate in telling and I remember and I resent having had to spend more time with them than with the ones I love.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			 Killarney Clary, <em><cite>Who Whispered Near Me</cite></em>
 		</figcaption>
 	</figure>
 	<figure>

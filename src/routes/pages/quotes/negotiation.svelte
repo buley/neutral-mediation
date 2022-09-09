@@ -30,6 +30,14 @@
 	</figure>
 	<figure>
 		<blockquote class="pullquote">
+			<p>Genuine politics – politics worthy of the name, and the only politics I am willing to devote myself to – is simply a matter of serving those around us: serving the community, and serving those who will come after us. It's deepest roots are moral because it is a responsibility … [T]here is only one way to strive for decency, reason, responsibility, sincerity, civility, and tolerance, and that is decently, reasonably, responsibly, sincerely, civilly, and tolerantly. I'm aware that, in everyday politics, this is not seen as the most practical way of going about it.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Vaclav Havel
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
 			<p>And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allah will cause it between them. Indeed, Allah is ever Knowing and Acquainted [with all things].</p>
 		</blockquote>
 		<figcaption class="pullquote">
@@ -232,6 +240,23 @@
 		</blockquote>
 		<figcaption class="pullquote">
 			Ernest Hemingway, <em>The Sun Also Rises</em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p>We are most likely to get angry and excited in our opposition to some idea when we ourselves are not quite certain of our own position, and are inwardly tempted to take the other side.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Thomas Mann, <em><cite>Buddenbrooks</cite></em>
+		</figcaption>
+	</figure>
+	<figure>
+		<blockquote class="pullquote">
+			<p><em>De gustibus non est disputandum, or de gustibus non disputandum est.</em></p>
+			<p>In matters of taste, there can be no disputes.</p>
+		</blockquote>
+		<figcaption class="pullquote">
+			Roman proverb
 		</figcaption>
 	</figure>
 </div>
