@@ -83,8 +83,7 @@
 />
 	<MetaTags
 	  title="Using More of Config"
-		titleTemplate = '%s | />
-Neutral Mediation'
+		titleTemplate = '%s | Neutral Mediation'
 	  description="This example uses more of the available config options."
 	  canonical="https://www.canonical.ie/"
 	  openGraph={{
@@ -138,7 +137,7 @@ Neutral Mediation'
 	<h1>News</h1>
 	<p>
 		<em>
-			This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect Neutral Mediation's views.
+			This page displays recent mediation and negotiation items of interest from around the web. This content is not created by Neutral Mediation and is only provided for educational purposes. While interesting, the linked content does not reflect|||s views.
 		</em>
 	</p>
 	<ul id="news-links">

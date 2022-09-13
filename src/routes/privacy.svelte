@@ -41,8 +41,7 @@
 />
 	<MetaTags
 	  title="Using More of Config"
-		titleTemplate = '%s | />
-Neutral Mediation'
+		titleTemplate = '%s | Neutral Mediation'
 	  description="This example uses more of the available config options."
 	  canonical="https://www.canonical.ie/"
 	  openGraph={{
@@ -102,7 +101,7 @@ Neutral Mediation'
 
 	<p>Commence the legalese.</p>
 
-	<p>This Privacy Policy describes Neutral Mediation's policies and procedures on the collection, use, and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
+	<p>This Privacy Policy describes|||s policies and procedures on the collection, use, and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 
 	<p>We use Your Data to provide and improve the Service. By using the Service, You agree to the collection and use of information per this Privacy Policy.</p>
 

@@ -12,8 +12,7 @@
 	<!--
 	<MetaTags
 	  title="Using More of Config"
-		titleTemplate = '%s | />
-Neutral Mediation'
+		titleTemplate = '%s | Neutral Mediation'
 	  description="This example uses more of the available config options."
 	  canonical="https://www.canonical.ie/"
 	  openGraph={{
@@ -56,7 +55,7 @@ Neutral Mediation'
 
 <div class="content">
 	<h2>Availability</h2>
-	<p>Here's a list of what services are available when. Neutral Mediation's <a href="https://neutral.setmore.com/">booking schedule</a> is based around netural availability and the necessary length of the session.</p>
+	<p>Here's a list of what services are available when.|||s <a href="https://neutral.setmore.com/">booking schedule</a> is based around netural availability and the necessary length of the session.</p>
 	<h3>Mediation</h3>
 	<ul>
 	    <li>Half-Day Mediations – Saturdays & Sundays</li>
