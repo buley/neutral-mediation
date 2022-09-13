@@ -1,7 +1,8 @@
 import adapter from '@sveltejs/adapter-auto';
 
 // https://www.npmjs.com/package/@sveltejs/adapter-static/v/next
-import staticadapter from '@sveltejs/adapter-static';
+//import staticadapter from '@sveltejs/adapter-static';
+import staticadapter from '@sveltejs/adapter-cloudflare';
 
 // https://github.com/sveltejs/svelte-preprocess
 import preprocess from 'svelte-preprocess';
