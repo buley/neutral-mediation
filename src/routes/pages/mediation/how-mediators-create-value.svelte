@@ -19,7 +19,7 @@
 
 	<h4>Cost Minimization</h4>
 	
-	<ul><li>Health costs</li><li>Relationship costs<ul><li>Collateral damage</li></ul></li><li>Opportunity cost</li><li>Reputation costs</li><li>Risk factors</li><li>Certainty of amounts</li><li>Finality of dispute</li><li>Time/value of $</li></ul>
+	<ul><li>Health costs</li><li>Relationship costs</li><li>Collateral damage</li><li>Opportunity cost</li><li>Reputation costs</li><li>Risk factors</li><li>Certainty of amounts</li><li>Finality of dispute</li><li>Time/value of $</li></ul>
 	
 	<h4>Positivity & Creativity</h4>
 
