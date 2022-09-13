@@ -12,8 +12,10 @@
 
 <div class="content">
 	<h1>Limitations of Conflict Coaching</h1>
-	<p></p>
+	<p>We're sorry for the inconvenience because this content is not yet available.</p>
 
+<!--		<p></p>
+-->
 </div>
 
 <style>

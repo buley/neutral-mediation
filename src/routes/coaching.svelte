@@ -66,7 +66,7 @@
 		<li><a href="/pages/coaching/what-is-conflict-coaching">What Conflict Coaching Is</a></li>
 		<li><a href="/pages/coaching/benefits-of-conflict-coaching">Benefits of Conflict Coaching</a></li>
 		<li><a href="/pages/coaching/example-conflict-coaching-scenarios">Example Conflict Coaching Scenarios</a></li>
-		<li><a href="/pages/coaching/limitations-of-conflict-coaching">Limitations of Conflict Coaching</a></li>
+		<!--<li><a href="/pages/coaching/limitations-of-conflict-coaching">Limitations of Conflict Coaching</a></li>-->
 		<li><a href="/pages/coaching/pillars-of-conflict-coaching">Pillars of Conflict Coaching</a></li>
 		<li><a href="/pages/coaching/conflict-coaching-process">Conflict Coaching Process</a></li>
 	</ul>
