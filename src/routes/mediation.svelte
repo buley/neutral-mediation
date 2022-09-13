@@ -50,19 +50,11 @@
 	    description: 'Open Graph Description',
 	    images: [
 	      {
-	        url: 'https://www.example.ie/og-image-01.jpg',
+	        url: {logo},
 	        width: 800,
 	        height: 600,
 	        alt: 'Og Image Alt'
-	      },
-	      {
-	        url: 'https://www.example.ie/og-image-02.jpg',
-	        width: 900,
-	        height: 800,
-	        alt: 'Og Image Alt Second'
-	      },
-	      { url: 'https://www.example.ie/og-image-03.jpg' },
-	      { url: 'https://www.example.ie/og-image-04.jpg' }
+	      }
 	    ],
 	    site_name: 'Neutral Mediation'
 	  }}
@@ -72,7 +64,7 @@
 	    cardType: 'summary_large_image',
 	    title: 'Mediation',
 	    description: 'Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral.',
-	    image: {logo},
+	    image: '',
 	    imageAlt: 'Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral.'
 	  }}
 	  facebook={{
