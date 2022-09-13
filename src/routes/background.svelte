@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Neutral</title>
+	<title>Background</title>
 	<meta name="description" content="" />
 	<!--
 	<MetaTags
