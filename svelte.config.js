@@ -12,8 +12,12 @@ const config = {
 
 	preprocess: preprocess(),
 
+	build: {
+		assetsInlineLimit: 4096000
+	},
+
 	kit: {
-		adapter: staticadapter({
+		/* {
 	      pages: 'build',
 	      assets: 'build',
 	      fallback: null,
@@ -21,7 +25,8 @@ const config = {
 	      prerender: {
 	        default: true
 	      }
-	    }),
+	    } */
+		adapter: staticadapter(),
 
 	    prerender: {
 	      default: true
