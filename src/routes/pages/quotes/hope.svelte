@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Hope Quotes</h1>
+	<h1>Useful Hope Coaching Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Thou shalt love thy neighbor as thyself.</p>

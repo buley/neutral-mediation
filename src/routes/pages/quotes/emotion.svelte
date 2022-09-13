@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Emotion Quotes</h1>
+	<h1>Useful Emotion Coaching Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Human reason needs only to will more strongly than fate, and she is fate.</p>

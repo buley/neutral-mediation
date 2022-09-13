@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Reflection Quotes</h1>
+	<h1>Useful Reflection Coaching Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
 			<p>When you are quiet you are connected<br>Your silence brings out<br>Your self understanding that<br>You are part of the sacred world<br>It's your silence that connects you to the sacred world.</p>

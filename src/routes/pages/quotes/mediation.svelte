@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Mediation Quotes</h1>
+	<h1>Useful Mediation Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
 			<p>It doesn't matter how deep the water is, all you can do is swim.</p>

@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Forgiveness Quotes</h1>
+	<h1>Useful Forgiveness Coaching Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
 			<p>Accusations are useless.</p>

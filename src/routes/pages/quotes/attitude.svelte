@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Attitude Quotes</title>
+	<title>Useful Coaching Attitude Quotes</title>
 	<meta name="description" content="" />
 </svelte:head>
 

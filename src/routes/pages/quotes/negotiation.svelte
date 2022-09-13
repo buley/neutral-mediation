@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Negotiation Quotes</h1>
+	<h1>Useful Negotiation Quotes</h1>
 	<figure>
 		<blockquote class="pullquote">
 			<p>You train to become a warrior, not a fighter. The warrior knows the hell he can let loose, so he chooses the path of peace and respect.</p>

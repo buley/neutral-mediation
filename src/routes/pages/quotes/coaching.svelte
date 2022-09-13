@@ -6,20 +6,20 @@
 </script>
 
 <svelte:head>
-	<title>Coaching Quotes</title>
+	<title>Useful Coaching Quotes</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Coaching Quotes</h1>
+	<h1>Useful Coaching Quotes</h1>
 	<ul class="centered-list">
-		<li><a href="/pages/quotes/attitude">Attitude Quotes</a></li>
-		<li><a href="/pages/quotes/emotion">Emotion Quotes</a></li>
-		<li><a href="/pages/quotes/forgiveness">Forgiveness Quotes</a></li>
-		<li><a href="/pages/quotes/hope">Hope Quotes</a></li>
-		<li><a href="/pages/quotes/politics">Politics Quotes</a></li>
-		<li><a href="/pages/quotes/reflection">Reflection Quotes</a></li>
-		<li><a href="/pages/quotes/storytelling">Storytelling Quotes</a></li>
+		<li><a href="/pages/quotes/attitude">Useful Attitude Coaching Quotes</a></li>
+		<li><a href="/pages/quotes/emotion">Useful Emotion Coaching Quotes</a></li>
+		<li><a href="/pages/quotes/forgiveness">Useful Forgiveness Coaching Quotes</a></li>
+		<li><a href="/pages/quotes/hope">Useful Hope Coaching Quotes</a></li>
+		<li><a href="/pages/quotes/civics">Useful Civics Coaching Quotes</a></li>
+		<li><a href="/pages/quotes/reflection">Useful Reflection Coaching Quotes</a></li>
+		<li><a href="/pages/quotes/storytelling">Useful Storytelling Coaching Quotes</a></li>
 	</ul>
 </div>
 <style>

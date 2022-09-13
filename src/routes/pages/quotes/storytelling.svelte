@@ -6,12 +6,12 @@
 </script>
 
 <svelte:head>
-	<title>Storytelling Quotes</title>
+	<title>Useful Storytelling Coaching Quotes</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h1>Storytelling Quotes</h1>
+	<h1>Useful Storytelling Coaching Quotes</h1>
 	
 	<figure>
 		<blockquote class="pullquote">
