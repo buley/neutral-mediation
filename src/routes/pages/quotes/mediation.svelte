@@ -3,11 +3,12 @@
 	export const hydrate = dev;
 	export const router = browser;
 	export const prerender = true;
+	var datenow = new Date().toUTCString();
 </script>
 
 <svelte:head>
 	<title>Useful Mediation Quotes</title>
-	<meta name="description" content=""     />
+	<meta name="description" content="" />
 	<!--
 <JsonLd
   schema={{
@@ -22,8 +23,8 @@
       'https://example.com/photos/4x3/photo.jpg',
       'https://example.com/photos/16x9/photo.jpg'
     ],
-    datePublished: '2015-02-05T08:00:00+08:00',
-    dateModified: '2015-02-05T09:20:00+08:00',
+    datePublished: '{{datenow}}',
+    dateModified: '{{datenow}}',
     author: {
       '@type': 'Person',
       name: 'John Doe'
@@ -40,7 +41,8 @@
 />
 	<MetaTags
 	  title="Using More of Config"
-		titleTemplate = '%s | Svelte Meta Tags'
+		titleTemplate = '%s | />
+Neutral Mediation'
 	  description="This example uses more of the available config options."
 	  canonical="https://www.canonical.ie/"
 	  openGraph={{

@@ -13,7 +13,8 @@
 	<!--
 	<MetaTags
 	  title="Using More of Config"
-		titleTemplate = '%s | Svelte Meta Tags'
+		titleTemplate = '%s | />
+Neutral Mediation'
 	  description="This example uses more of the available config options."
 	  canonical="https://www.canonical.ie/"
 	  openGraph={{

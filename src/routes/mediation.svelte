@@ -9,13 +9,12 @@
 <svelte:head>
 	<title>Mediation</title>
 	<meta name="description" content="" />
-	<!--
 	<JsonLd
   schema={{
     '@type': 'Article',
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://example.com/article'
+      '@id': 'https://neutrals.io/mediation'
     },
     headline: 'Article headline',
     image: [
@@ -41,11 +40,12 @@
 />
 	<MetaTags
 	  title="Using More of Config"
-		titleTemplate = '%s | Svelte Meta Tags'
+		titleTemplate = '%s | />
+Neutral Mediation'
 	  description="This example uses more of the available config options."
-	  canonical="https://www.canonical.ie/"
+	  canonical="https://neutrals.io/mediation"
 	  openGraph={{
-	    url: 'https://www.url.ie/a',
+	    url: 'https://neutrals.io/mediation',
 	    title: 'Open Graph Title',
 	    description: 'Open Graph Description',
 	    images: [
