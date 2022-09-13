@@ -3,6 +3,7 @@
 	export const hydrate = dev;
 	export const router = browser;
 	export const prerender = true;
+	import logo from '$lib/assets/Logo.png';
     import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
@@ -16,7 +17,7 @@
       '@type': 'WebPage',
       '@id': 'https://neutrals.io/mediation'
     },
-    headline: 'Article headline',
+    headline: 'Mediation',
     image: [
       'https://example.com/photos/1x1/photo.jpg',
       'https://example.com/photos/4x3/photo.jpg',
@@ -26,18 +27,18 @@
     dateModified: '2015-02-05T09:20:00+08:00',
     author: {
       '@type': 'Person',
-      name: 'John Doe'
+      name: 'Taylor Buley'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Google',
+      name: 'Neutral Mediation',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://example.com/logo.jpg'
+        url: '{{logo}}'
       }
     }
   }}
-/>
+	/>
 	<MetaTags
 	  title="Using More of Config"
 		titleTemplate = '%s | Neutral Mediation'
@@ -66,19 +67,18 @@
 	    site_name: 'SiteName'
 	  }}
 	  twitter={{
-	    handle: '@handle',
+	    handle: '@NeutralCA',
 	    site: '@site',
 	    cardType: 'summary_large_image',
-	    title: 'Using More of Config',
-	    description: 'This example uses more of the available config options.',
-	    image: 'https://www.example.ie/twitter-image.jpg',
-	    imageAlt: 'Twitter image alt'
+	    title: 'Mediation',
+	    description: 'California peacemaking, virtually anywhere. The path forward starts at Neutral Mediation.',
+	    image: '{{logo}}',
+	    imageAlt: 'The path forward starts at Neutral Mediation'
 	  }}
 	  facebook={{
-	    appId: '1234567890'
+	    appId: '235420558425239'
 	  }}
 	/>
--->
 </svelte:head>
 
 <div class="content">

@@ -48,7 +48,7 @@
 	    imageAlt: 'Twitter image alt'
 	  }}
 	  facebook={{
-	    appId: '1234567890'
+	    appId: '235420558425239'
 	  }}
 	/>
 	-->

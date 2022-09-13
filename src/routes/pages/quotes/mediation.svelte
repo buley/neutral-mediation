@@ -9,7 +9,6 @@
 <svelte:head>
 	<title>Useful Mediation Quotes</title>
 	<meta name="description" content="" />
-	<!--
 <JsonLd
   schema={{
     '@type': 'Article',
@@ -27,11 +26,11 @@
     dateModified: '{{datenow}}',
     author: {
       '@type': 'Person',
-      name: 'John Doe'
+      name: 'Taylor Buley'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Google',
+      name: 'Neutral Mediation',
       logo: {
         '@type': 'ImageObject',
         url: 'https://example.com/logo.jpg'
@@ -76,10 +75,9 @@
 	    imageAlt: 'Twitter image alt'
 	  }}
 	  facebook={{
-	    appId: '1234567890'
+	    appId: '235420558425239'
 	  }}
 	/>
-	-->
 </svelte:head>
 
 <div class="content">
