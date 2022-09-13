@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Who Mediators Are</title>
 	<meta name="description" content=""     />
 	<!--
 	<MetaTags
