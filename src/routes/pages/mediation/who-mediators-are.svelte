@@ -13,12 +13,12 @@
 <div class="content">
 	<h1>Who Mediators Are</h1>
 
-	<p>Mediators are craftsmen at the art of compromise. They settle disputes with expertise, resolve, and creativity.</p>
+	<p>Mediators are craftsmen at the art of compromise. They settle disputes with expertise, resolve, and creativity. Depending on the mediator they are either and simultaneously impartial and multipartial, facilitative or directive. A mediator is creative, collaborative, anchored and forward-looking.</p>
 	
-	<p>Their expertise is typically derived from training and practice. They are not licensed or regulated and. </p>
+	<p>Problemsolving is an expertise derived from both a mediator's background, as well as training and practice. Mediation training typically takes places at Law School and mediators are usually, but not always, lawyers. Mediators are not licensed or regulated and vary in style and formality.</p>
 	
-	<p>They are not admissible witnesses in most courts and strive to be:</p>
-	
+	<p>Mediators strive to be:</p>
+
 	<ul>
 		<li>Empathetic</li>
 		<li>Understanding</li>
