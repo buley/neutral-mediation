@@ -1,0 +1,10 @@
+  name = "neutral-mediation"
+  account_id = "61154ab30c6c9e7831339580aaf9ae87"
+  
+  main = "./.cloudflare/worker.js"
+  site.bucket = "./.cloudflare/public"
+  
+  build.command = "npm run build"
+  
+  compatibility_date = "2021-11-12"
+  workers_dev = true
