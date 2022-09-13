@@ -6,7 +6,6 @@
 	import phone from '$lib/assets/phone.svg';
 	import email from '$lib/assets/mouse.svg';
 	import Hamburger from "hamburger-menu-svelte";
-    import { MetaTags, JsonLd } from 'svelte-meta-tags';
 
 	const menu_list = [
 		{ name: "Home", url: "/" },
