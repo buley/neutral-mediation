@@ -81,7 +81,7 @@
 		</li> 
 	</ul>
 
-	<p><small>Physically serving Northern California. Virtually serving the world from Northern California.</small></p>
+	<p><small>Peacemaking virtually anywhere.</small></p>
 
 	<ul class="menu-policy">
 	    <li class:active={$page.url.pathname === '/cancellation'}>
