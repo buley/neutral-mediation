@@ -6,15 +6,18 @@
 </script>
 
 <svelte:head>
-	<title>Template</title>
+	<title>Limitations of Negotiation</title>
 	<meta name="description" content="" />
 </svelte:head>
 
 <div class="content">
-	<h3>Title</h3>
-	<p>
+	<h3>Limitations of Negotiation</h3>
+	<p>We're sorry for the inconvenience because this content is not yet available.</p>
+
+<!--	<p>
 		Body
 	</p>
+-->
 </div>
 
 <style>

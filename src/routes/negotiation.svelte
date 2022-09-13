@@ -55,7 +55,7 @@
 		<li><a href="/pages/negotiation/what-is-negotiation">What Is Negotiation?</a></li>
 		<li><a href="/pages/negotiation/benefits-of-negotiation">Benefits of Negotiation</a></li>
 		<li><a href="/pages/negotiation/example-negotiation-scenarios">Example Negotiation Scenarios</a></li>
-		<li><a href="/pages/negotiation/limitations-of-negotiation">Limitations of Negotiation</a></li>
+		<!--<li><a href="/pages/negotiation/limitations-of-negotiation">Limitations of Negotiation</a></li>-->
 		<li><a href="/pages/negotiation/pillars-of-negotiation">Pillars of Negotiation</a></li>
 	</ul>
 
