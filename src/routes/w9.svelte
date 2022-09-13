@@ -12,8 +12,9 @@
 </svelte:head>
 
 <div class="content">
-	<h3>Neutral Mediation W-9</h3>
+	<h3>Our W-9</h3>
 	<p>
+		<a href="#">Click here to download Neutral Medaition's W-9 IRS form.</a>
 	</p>
 </div>
 
