@@ -25,7 +25,7 @@
 		Since most cases settle out of court, refusal to mediate doesn’t look good. In the case of so-called “998 offers” and other reasonable settlements, a party can recoup attempted mediation costs. The courts recognize that mediation is often faster, less expensive and more satisfactory than litigation and in many cases ends up requiring parties to mediate, anyways. In those cases, a mediated resolution will often result but parties lose control over choosing the mediator that works best for them.
 	</p>
 	<p>
-		Read about booking options and familiarize yourself with the costs of mediation.
+		<a href="/prices">Read about booking options and familiarize yourself with the costs of mediation</a>.
 	</p>
 
 </div>
