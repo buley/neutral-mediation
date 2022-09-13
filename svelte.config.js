@@ -2,8 +2,8 @@ import adapter from '@sveltejs/adapter-auto';
 
 // https://www.npmjs.com/package/@sveltejs/adapter-static/v/next
 //import staticadapter from '@sveltejs/adapter-static';
-//import cfadapter from '@sveltejs/adapter-cloudflare';
-import cfworkeradapter from '@sveltejs/adapter-cloudflare-workers';
+import cfadapter from '@sveltejs/adapter-cloudflare';
+//import cfworkeradapter from '@sveltejs/adapter-cloudflare-workers';
 
 // https://github.com/sveltejs/svelte-preprocess
 import preprocess from 'svelte-preprocess';
@@ -27,7 +27,7 @@ const config = {
 	        default: true
 	      }
 	    }) */
-		adapter: cfworkeradapter(),
+		adapter: cfadapter(),
 		//outDir: '.svelte-kit/cloudflare',
 
 	    prerender: {
