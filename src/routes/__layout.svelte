@@ -8,6 +8,8 @@
 	import { page } from '$app/stores';
 	import '../app.css';
 
+	export const prerender = true;
+
 </script>
 
 <Header />
