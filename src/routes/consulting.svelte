@@ -6,7 +6,7 @@
     import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Consulting</title>
 	<meta name="description" content="About Neutral Mediation conflict consulting services."     />
 	<!--
@@ -51,7 +51,7 @@
 	  }}
 	/>
 	-->
-</svelte:head>
+</sveltekit:head>
 
 <div class="content">
 	

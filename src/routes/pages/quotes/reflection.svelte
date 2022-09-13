@@ -6,7 +6,7 @@
 	var datenow = new Date().toUTCString();
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Useful Reflection Coaching Quotes</title>
 	<meta name="description" content="" />
 	<!--
@@ -80,7 +80,7 @@
 	  }}
 	/>
 	-->
-</svelte:head>
+</sveltekit:head>
 
 <div class="content">
 	<h1>Useful Reflection Coaching Quotes</h1>

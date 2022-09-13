@@ -5,7 +5,7 @@
 	export const prerender = true;
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Benefits of Negotiation</title>
 	<meta name="description" content="" />
 	<!--
@@ -79,7 +79,7 @@
 	  }}
 	/>
 	-->
-</svelte:head>
+</sveltekit:head>
 
 <div class="content">
 	<h3>Benefits of Negotiation</h3>

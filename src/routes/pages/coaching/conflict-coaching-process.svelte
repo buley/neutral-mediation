@@ -5,7 +5,7 @@
 	export const prerender = true;
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Conflict Coaching Process</title>
 	<meta name="description" content="" />
 	<!--
@@ -79,7 +79,7 @@
 	  }}
 	/>
 	-->
-</svelte:head>
+</sveltekit:head>
 
 <div class="content">
 	<h1>Conflict Coaching Process</h1>

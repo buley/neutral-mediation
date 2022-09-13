@@ -4,12 +4,14 @@
 	export const router = browser;
 	export const prerender = true;
 	var datenow = new Date().toUTCString();
+  import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Useful Mediation Quotes</title>
 	<meta name="description" content="" />
-<JsonLd
+<!--
+	<JsonLd
   schema={{
     '@type': 'Article',
     mainEntityOfPage: {
@@ -78,7 +80,8 @@
 	    appId: '235420558425239'
 	  }}
 	/>
-</svelte:head>
+-->
+</sveltekit:head>
 
 <div class="content">
 	<h1>Useful Mediation Quotes</h1>

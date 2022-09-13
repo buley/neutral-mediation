@@ -5,7 +5,7 @@
 	export const prerender = true;
     import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
-<svelte:head>
+<sveltekit:head>
 	<title>Ethics</title>
 	<meta name="description" content="" />
 	<!--
@@ -79,7 +79,7 @@
 	  }}
 	/>
 -->
-</svelte:head>
+</sveltekit:head>
 <div class="content">
 
 	<h1>Ethics</h1>

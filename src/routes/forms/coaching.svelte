@@ -5,7 +5,7 @@
 	export const prerender = true;
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Coaching Analysis Form</title>
 	<meta name="description" content="" />
 	<!--
@@ -79,7 +79,7 @@
 	  }}
 	/>
 -->
-</svelte:head>
+</sveltekit:head>
 
 <div class="content">
 	<h1>Coaching Analysis</h1>

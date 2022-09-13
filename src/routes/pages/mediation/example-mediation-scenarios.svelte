@@ -5,7 +5,7 @@
 	export const prerender = true;
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Example Mediation Scenarios</title>
 	<meta name="description" content="" />
 	<!--
@@ -79,7 +79,7 @@
 	  }}
 	/>
 	-->
-</svelte:head>
+</sveltekit:head>
 
 <div class="content">
 	<h1>Example Mediation Scenarios</h1>

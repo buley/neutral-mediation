@@ -4,7 +4,7 @@
 	export const router = browser;
 	export const prerender = true;
 </script>
-<svelte:head>
+<sveltekit:head>
 	<title>Mediation Process</title>
 	<meta name="description" content="" />
 	<!--
@@ -78,7 +78,7 @@
 	  }}
 	/>
 	-->
-</svelte:head>
+</sveltekit:head>
 <div class="content">
 	<h1>Mediation Process</h1>
 	<p>We're sorry for the inconvenience because this content is not yet available.</p>

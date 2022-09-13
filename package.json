@@ -45,6 +45,7 @@
 		"hamburger-menu-svelte": "^2.2.0",
 		"node-pinboard": "^2.0.1",
 		"querystring": "^0.2.1",
+		"svelte-preprocess-import-assets": "^0.1.6",
 		"svelte2tsx": "^0.5.11"
 	},
 	"postbuild": "npx svelte-sitemap --domain https://neutrals.io"

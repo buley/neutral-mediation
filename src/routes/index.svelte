@@ -8,7 +8,7 @@
     import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Neutral Mediation - Northern California Mediation</title>
 	<meta name="description" content="Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led mediation and negotiation, in addition to training, consulting nad conflict coaching." />
 	<MetaTags title="Neutral Mediation" description="Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led mediation and negotiation, in addition to training, consulting nad conflict coaching." />
@@ -83,7 +83,7 @@
 	  }}
 	/>
 -->
-</svelte:head>
+</sveltekit:head>
 
 <section>
 

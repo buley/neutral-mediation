@@ -3,13 +3,14 @@
 	export const hydrate = dev;
 	export const router = browser;
 	export const prerender = true;
-	import logo from '$lib/assets/Logo.png';
-    import { MetaTags, JsonLd } from 'svelte-meta-tags';
+	import logo from '$lib/assets/Icon.png';
+  import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>Mediation</title>
-	<meta name="description" content="" />
+	<meta name="description" content="Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral." />
+	<!--
 	<JsonLd
   schema={{
     '@type': 'Article',
@@ -34,7 +35,7 @@
       name: 'Neutral Mediation',
       logo: {
         '@type': 'ImageObject',
-        url: '{{logo}}'
+        url: '{logo}'
       }
     }
   }}
@@ -42,7 +43,7 @@
 	<MetaTags
 	  title="Using More of Config"
 		titleTemplate = '%s | Neutral Mediation'
-	  description="This example uses more of the available config options."
+	  description="Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral."
 	  canonical="https://neutrals.io/mediation"
 	  openGraph={{
 	    url: 'https://neutrals.io/mediation',
@@ -71,15 +72,16 @@
 	    site: '@site',
 	    cardType: 'summary_large_image',
 	    title: 'Mediation',
-	    description: 'California peacemaking, virtually anywhere. The path forward starts at Neutral Mediation.',
-	    image: '{{logo}}',
-	    imageAlt: 'The path forward starts at Neutral Mediation'
+	    description: 'Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral.',
+	    image: '{logo}',
+	    imageAlt: 'Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral.'
 	  }}
 	  facebook={{
 	    appId: '235420558425239'
 	  }}
 	/>
-</svelte:head>
+	-->
+</sveltekit:head>
 
 <div class="content">
 	<h1>Mediation</h1>

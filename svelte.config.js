@@ -36,9 +36,12 @@ const config = {
 
 	},
 	
-	experimental: {
-		useVitePreprocess: true
-	}
+	vitePlugin: {
+	    experimental: {
+	      useVitePreprocess: true
+	    }
+	  }
+
 };
 
 export default config;

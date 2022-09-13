@@ -48,7 +48,7 @@
 
 </script>
 
-<svelte:head>
+<sveltekit:head>
 	<title>News</title>
 	<meta name="description" content="" />
 	<!--
@@ -122,7 +122,7 @@
 	  }}
 	/>
 -->
-</svelte:head>
+</sveltekit:head>
 
 <div class="content">
 {#await templatePromise}
