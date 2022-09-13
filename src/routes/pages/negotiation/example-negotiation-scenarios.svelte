@@ -82,7 +82,7 @@
 </svelte:head>
 
 <div class="content">
-	<h3>Example Negotiation Consultation Scenarios</h3>
+	<h1>Example Negotiation Consultation Scenarios</h1>
 	
 	<p>
 		Here are various real-world examples where negotiation consulting can provide value:
