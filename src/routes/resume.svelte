@@ -8,7 +8,9 @@
 
 <svelte:head>
 	<title>Resume</title>
-	<meta name="description" content="Mediator resume" /><!--<JsonLd
+	<meta name="description" content="Mediator resume" />
+	<!--
+	<JsonLd
   schema={{
     '@type': 'Article',
     mainEntityOfPage: {
@@ -76,7 +78,8 @@
 	  facebook={{
 	    appId: '1234567890'
 	  }}
-	/>-->
+	/>
+-->
 </svelte:head>
 
 <div class="content">

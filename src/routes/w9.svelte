@@ -8,7 +8,9 @@
 
 <svelte:head>
 	<title>Neutral Mediation W-9</title>
-	<meta name="description" content="" /><!--<JsonLd
+	<meta name="description" content="" />
+	<!--
+	<JsonLd
   schema={{
     '@type': 'Article',
     mainEntityOfPage: {
@@ -76,7 +78,8 @@
 	  facebook={{
 	    appId: '1234567890'
 	  }}
-	/>-->
+	/>
+-->
 </svelte:head>
 
 <div class="content">

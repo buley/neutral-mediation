@@ -11,7 +11,9 @@
 <svelte:head>
 	<title>Neutral Mediation - Northern California Mediation</title>
 	<meta name="description" content="Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led mediation and negotiation, in addition to training, consulting nad conflict coaching." />
-	<MetaTags title="Neutral Mediation" description="Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led mediation and negotiation, in addition to training, consulting nad conflict coaching." /><!--<JsonLd
+	<MetaTags title="Neutral Mediation" description="Neutral Mediation minimizes the emotional trauma, time and expense associated with complex conflict through the practice of neutral-led mediation and negotiation, in addition to training, consulting nad conflict coaching." />
+	<!--
+	<JsonLd
   schema={{
     '@type': 'Article',
     mainEntityOfPage: {
@@ -79,7 +81,8 @@
 	  facebook={{
 	    appId: '1234567890'
 	  }}
-	/>-->
+	/>
+-->
 </svelte:head>
 
 <section>
