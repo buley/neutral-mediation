@@ -51,7 +51,7 @@
 		<li><a href="/pages/mediation/mediation-law">Mediation Law</a></li>
 		<li><a href="/pages/mediation/example-mediation-scenarios">Example Mediation Scenarios</a></li>
 		<li><a href="/pages/mediation/pillars-of-mediation">Pillars of Mediation</a></li>
-		<li><a href="/pages/mediation/limits-of-mediation">Limits of Mediation</a></li>
+		<!--<li><a href="/pages/mediation/limits-of-mediation">Limits of Mediation</a></li>-->
 		<li><a href="/pages/mediation/mediation-process">Mediation Process</a></li>
 		<li><a href="/pages/mediation/who-mediators-are">Who Mediators Are</a></li>
 		<li><a href="/pages/mediation/how-to-involve-a-neutral">How to Involve a Mediator</a></li>
