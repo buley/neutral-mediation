@@ -81,7 +81,7 @@
 		</li> 
 	</ul>
 
-	<p><small>Peacemaking virtually anywhere.</small></p>
+	<p><small><em>California peacemaking, virtually anywhere.</em></small></p>
 
 	<ul class="menu-policy">
 	    <li class:active={$page.url.pathname === '/cancellation'}>
