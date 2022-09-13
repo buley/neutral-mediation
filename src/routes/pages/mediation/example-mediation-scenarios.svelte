@@ -14,7 +14,7 @@
 	<h1>Example Mediation Scenarios</h1>
 	<p>Mediation is a quick, cheap option for negotiating monetary settlements; however, the usefulness of mediation generally grows with a problem's distance from money.<p>
 	<p>Difficult, complex, and emotional issues are well within a mediator’s wheelhouse.</p>
-	<p>Mediation is often a good choice in emotionally-irksome situations like these:</p>
+	<p>Mediation is often a good choice in emotionally-triggering situations like these:</p>
 	    <ul>
 	        <li>Commercial disputes</li>
 	        <li>Divorce cases</li>
@@ -24,7 +24,7 @@
 	        <li>Property disputes</li>
 	        <li>Landlord and tenant disputes</li>
 	        <li>Neighborhood conflicts</li>
-	        <li>Workplace conflicts </li>
+	        <li>Workplace conflicts</li>
 	        <li>Condominium association disputes</li>
 	        <li>Contract issues</li>
 	        <li>Employment disputes</li>
