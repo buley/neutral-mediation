@@ -84,7 +84,7 @@
 <div class="content">
 	<h1>Mediation Law</h1>
 
-	<h3>California Evidence Code §§1115-1128: Mediation</h4>
+	<h3>California Evidence Code §§1115-1128: Mediation</h3>
 
 	<h4 id="§1115">CA EVID §1115.</h4><p>For purposes of this chapter:<br>(a) "Mediation" means a process in which a neutral person or persons facilitate communication between the disputants to assist them in reaching a mutually acceptable agreement.<br>(b) "Mediator" means a neutral person who conducts a mediation. "Mediator" includes any person designated by a mediator either to assist in the mediation or to communicate with the participants in preparation for a mediation.<br>(c) "Mediation consultation" means a communication between a person and a mediator for the purpose of initiating, considering, or reconvening a mediation or retaining the mediator.<br></p>
 
