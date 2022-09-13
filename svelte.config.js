@@ -1,8 +1,8 @@
 import adapter from '@sveltejs/adapter-auto';
 
 // https://www.npmjs.com/package/@sveltejs/adapter-static/v/next
-//import staticadapter from '@sveltejs/adapter-static';
-import staticadapter from '@sveltejs/adapter-cloudflare';
+import staticadapter from '@sveltejs/adapter-static';
+import cfadapter from '@sveltejs/adapter-cloudflare';
 
 // https://github.com/sveltejs/svelte-preprocess
 import preprocess from 'svelte-preprocess';
@@ -17,7 +17,7 @@ const config = {
 	},
 
 	kit: {
-		/* {
+		/* staticadapter({
 	      pages: 'build',
 	      assets: 'build',
 	      fallback: null,
@@ -25,8 +25,8 @@ const config = {
 	      prerender: {
 	        default: true
 	      }
-	    } */
-		adapter: staticadapter(),
+	    }) */
+		adapter: cfadapter(),
 
 	    prerender: {
 	      default: true
