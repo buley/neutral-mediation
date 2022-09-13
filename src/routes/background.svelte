@@ -4,6 +4,7 @@
 	export const router = browser;
 	export const prerender = true;
 	import headshot from '$lib/assets/headshot.webp';
+    import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
 <svelte:head>

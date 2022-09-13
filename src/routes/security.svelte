@@ -3,6 +3,7 @@
 	export const hydrate = dev;
 	export const router = browser;
 	export const prerender = true;
+    import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
 <svelte:head>

@@ -6,6 +6,7 @@
 	import logo from '$lib/assets/neutral-logo-trans-crop.svg';
 	import splash from '$lib/assets/anonymous-couple-talking.webp';
 	import { MetaTags } from 'svelte-meta-tags';
+    import { MetaTags, JsonLd } from 'svelte-meta-tags';
 </script>
 
 <svelte:head>

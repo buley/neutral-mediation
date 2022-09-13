@@ -5,6 +5,7 @@
 	export const router = browser
 	export const prerender = true;
 	import { default as Pinboard } from 'node-pinboard'
+    import { MetaTags, JsonLd } from 'svelte-meta-tags';
 	import qs from 'querystring';
 	let postsData = [{
 		href: '#',
