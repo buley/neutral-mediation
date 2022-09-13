@@ -24,6 +24,14 @@ const config = {
 
 	    prerender: {
 	      default: true
+	    },
+
+	    routes: filepath => {
+	      return ![
+	        /\.off$/,
+	        // original default config
+	        /(?:(?:^_|\/_)|(?:^\.|\/\.)(?!well-known))/,
+	      ].some(regex => regex.test(filepath))
 	    }
 
 	},

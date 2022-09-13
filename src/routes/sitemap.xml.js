@@ -195,6 +195,21 @@ export async function get() {
     <loc>https://neutrals.io/pages/coaching/what-is-conflict-coaching</loc>
   </url>
   <url>
+    <loc>https://neutrals.io/pages/negotiation/benefits-of-negotiation</loc>
+  </url>
+  <url>
+    <loc>https://neutrals.io/pages/negotiation/example-negotiation-scenarios</loc>
+  </url>
+  <url>
+    <loc>https://neutrals.io/pages/negotiation/limitations-of-negotiation</loc>
+  </url>
+  <url>
+    <loc>https://neutrals.io/pages/negotiation/pillars-of-negotiation</loc>
+  </url>
+  <url>
+    <loc>https://neutrals.io/pages/negotiation/what-is-negotiation</loc>
+  </url>
+  <url>
     <loc>https://neutrals.io/pages/mediation/benefits-of-mediation</loc>
   </url>
   <url>
@@ -238,21 +253,6 @@ export async function get() {
   </url>
   <url>
     <loc>https://neutrals.io/pages/mediation/why-a-medator-is-worthwhile</loc>
-  </url>
-  <url>
-    <loc>https://neutrals.io/pages/negotiation/benefits-of-negotiation</loc>
-  </url>
-  <url>
-    <loc>https://neutrals.io/pages/negotiation/example-negotiation-scenarios</loc>
-  </url>
-  <url>
-    <loc>https://neutrals.io/pages/negotiation/limitations-of-negotiation</loc>
-  </url>
-  <url>
-    <loc>https://neutrals.io/pages/negotiation/pillars-of-negotiation</loc>
-  </url>
-  <url>
-    <loc>https://neutrals.io/pages/negotiation/what-is-negotiation</loc>
   </url>
   <url>
     <loc>https://neutrals.io/pages/quotes/attitude</loc>
