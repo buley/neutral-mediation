@@ -27,7 +27,7 @@ const config = {
 	        default: true
 	      }
 	    }) */
-		adapter: cfadapter(),
+		adapter: cfworkeradapter(),
 		//outDir: '.svelte-kit/cloudflare',
 
 	    prerender: {
