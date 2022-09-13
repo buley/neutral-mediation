@@ -11,6 +11,10 @@ const config = {
 
 	preprocess: preprocess(),
 
+	build: {
+		assetsInlineLimit: 4096000
+	},
+
 	kit: {
 		adapter: staticadapter({
 	      pages: 'build',

@@ -65,7 +65,7 @@
 	      { url: 'https://www.example.ie/og-image-03.jpg' },
 	      { url: 'https://www.example.ie/og-image-04.jpg' }
 	    ],
-	    site_name: 'SiteName'
+	    site_name: 'Neutral Mediation'
 	  }}
 	  twitter={{
 	    handle: '@handle',

@@ -10,7 +10,6 @@
 <sveltekit:head>
 	<title>Mediation</title>
 	<meta name="description" content="Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral." />
-	<!--
 	<JsonLd
   schema={{
     '@type': 'Article',
@@ -35,13 +34,13 @@
       name: 'Neutral Mediation',
       logo: {
         '@type': 'ImageObject',
-        url: '{logo}'
+        url: ''
       }
     }
   }}
 	/>
 	<MetaTags
-	  title="Using More of Config"
+	  title="Mediation"
 		titleTemplate = '%s | Neutral Mediation'
 	  description="Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral."
 	  canonical="https://neutrals.io/mediation"
@@ -65,7 +64,7 @@
 	      { url: 'https://www.example.ie/og-image-03.jpg' },
 	      { url: 'https://www.example.ie/og-image-04.jpg' }
 	    ],
-	    site_name: 'SiteName'
+	    site_name: 'Neutral Mediation'
 	  }}
 	  twitter={{
 	    handle: '@NeutralCA',
@@ -73,14 +72,13 @@
 	    cardType: 'summary_large_image',
 	    title: 'Mediation',
 	    description: 'Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral.',
-	    image: '{logo}',
+	    image: {logo},
 	    imageAlt: 'Neutral Mediation offers flexibly-scheduled virtual mediation sessions led by a trained professional neutral.'
 	  }}
 	  facebook={{
 	    appId: '235420558425239'
 	  }}
 	/>
-	-->
 </sveltekit:head>
 
 <div class="content">
